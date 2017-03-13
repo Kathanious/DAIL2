@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,FK Pet,
+levels,1;8;14;65,
+records,records/items/loottables/weapons/tdyn_shield_a01.dbr;records/items/loottables/weapons/tdyn_shield_b01_warden.dbr;records/items/loottables/weapons/tdyn_shield_c01.dbr;records/items/loottables/weapons/tdyn_shield_c01b.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;42;55,
+records,records/items/loottables/weapons/tdyn_spear1h_devils01.dbr;records/items/loottables/weapons/tdyn_spear1h_devils02.dbr;records/items/loottables/weapons/tdyn_spear1h_devils03.dbr,
+fileNameHistoryEntry,mods/grim quest/records/items/loottables/weapons/lt_spear_faction1h.dbr,
