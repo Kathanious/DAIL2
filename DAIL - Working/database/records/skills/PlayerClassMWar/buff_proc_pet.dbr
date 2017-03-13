@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,reactive summon vessel,
+instantCast,0,
+buffSkillName,records/skills/playerclassmwar/buff_proc_pet_buff.dbr,

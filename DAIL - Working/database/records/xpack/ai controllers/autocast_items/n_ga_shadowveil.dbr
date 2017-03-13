@@ -1,0 +1,6 @@
+FileDescription,100% Chance to Fire on Taking Melee Damage,
+triggerType,HitByMelee,
+targetType,Self,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,100,
+autoTargetRadius,10.000000,

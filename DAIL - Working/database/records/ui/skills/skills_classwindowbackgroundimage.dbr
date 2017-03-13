@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+ActorName,,
+Class,,
+FileDescription,Mastery Selection backgroundimage,
+bitmapName,ui/skills/skills_classwindowbackgroundimage.tex,
+bitmapPositionX,-69,
+bitmapPositionY,4,
+rollover,,

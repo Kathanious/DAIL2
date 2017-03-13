@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petChanges,,
+petSkillName,records/skills/enchanter/pets/stoneguardian_presence.dbr,
+fileNameHistoryEntry,mods/dawnofheroes/records/skills/enchanter/stoneguardian_petmodifier_presence.dbr,

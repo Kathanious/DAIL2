@@ -1,0 +1,6 @@
+FileDescription,15% chance to use skill on self on low life,
+triggerType,LowHealth,
+targetType,Self,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,15,
+autoTargetRadius,10.000000,

@@ -1,0 +1,6 @@
+FileDescription,100% Chance to Shoot Enemy with Skill on Attack,
+triggerType,AttackEnemy,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,100,
+autoTargetRadius,10.000000,

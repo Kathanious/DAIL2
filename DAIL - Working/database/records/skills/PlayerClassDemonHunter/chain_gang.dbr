@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/playerclassdemonhunter/chain_gang_buff.dbr,
+pointBlank,0,
+fileNameHistoryEntry,mods/diablo_iii/records/skills/playerclassdemonhunter/chain_gang.dbr,

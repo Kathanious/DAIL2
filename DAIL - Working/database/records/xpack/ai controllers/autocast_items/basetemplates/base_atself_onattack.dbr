@@ -1,0 +1,5 @@
+FileDescription,Cast Skill at Self on Attack,
+targetType,Self,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,100,
+triggerType,AttackEnemy,

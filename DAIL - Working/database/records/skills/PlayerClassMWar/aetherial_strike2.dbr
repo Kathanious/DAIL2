@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,dw,
+buffSkillName,records/skills/playerclassmwar/aetherial_strike2_buff.dbr,

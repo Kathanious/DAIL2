@@ -1,0 +1,6 @@
+FileDescription,7% chance to cast skill when hit by enemy,
+triggerType,HitByEnemy,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,7,
+autoTargetRadius,15.000000,

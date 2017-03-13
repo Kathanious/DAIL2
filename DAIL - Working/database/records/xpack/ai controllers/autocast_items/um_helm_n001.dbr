@@ -1,0 +1,6 @@
+FileDescription,6% chance to cast when hit by melee,
+triggerType,HitByMelee,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,6,
+autoTargetRadius,15.000000,

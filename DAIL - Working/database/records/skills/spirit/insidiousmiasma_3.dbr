@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,SpiritMastery_TransmuteLife,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/spirit/insidiousmiasma_buff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/grim quest/records/skills/spirit/insidiousmiasma_3.dbr,

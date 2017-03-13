@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffother.tpl,
+ActorName,,
+Class,Skill_BuffOther,
+FileDescription,short duration 100% dmg absorb with % reflect,
+buffSkillName,records/omega/skills/nonplayerskills/bossskills/nemesis/om_arcaneshield_buff.dbr,

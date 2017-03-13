@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,RELENTLESS EVIL pointer,
+petChanges,,
+petSkillName,records/skills/spirit/skeletonsummon2_petskill.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/spirit/skeletonsummon2.dbr,

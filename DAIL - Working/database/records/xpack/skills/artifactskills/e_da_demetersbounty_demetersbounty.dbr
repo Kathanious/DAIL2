@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,now with radius,
+instantCast,1,
+buffSkillName,records/xpack/skills/artifactskills/e_da_demetersbounty_demetersbountybuff.dbr,

@@ -1,0 +1,6 @@
+FileDescription,3% cast at Enemy on ranged damage,
+triggerType,HitByProjectile,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,4,
+autoTargetRadius,25.000000,

@@ -1,0 +1,6 @@
+FileDescription,10% cast at Enemy on taking damage,
+triggerType,HitByProjectile,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,12,
+autoTargetRadius,20.000000,

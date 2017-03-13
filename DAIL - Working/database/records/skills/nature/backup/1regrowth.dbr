@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,NatureMastery_Renewal,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/nature/regrowth_buff.dbr,
+instantCast,0,
+fileNameHistoryEntry,mods/grim quest/records/skills/nature/backup/regrowth.dbr,

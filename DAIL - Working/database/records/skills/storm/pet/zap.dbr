@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,ColdMastery_FrostStrike,
+Class,Skill_AttackBuff,
+FileDescription,1-10 Lightning Damage + 2min and 5max per level,
+buffSkillName,records/skills/storm/pet/zap_debuff.dbr,

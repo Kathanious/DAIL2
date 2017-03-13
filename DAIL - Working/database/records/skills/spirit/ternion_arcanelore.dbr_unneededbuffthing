@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,,
+buffSkillName,records/skills/spirit/ternion_arcanelore_buff.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/spirit/ternion_arcanelore.dbr,

@@ -1,0 +1,6 @@
+FileDescription,50% chance to cast skill on low health,
+triggerType,LowHealth,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,50,
+autoTargetRadius,10.000000,
