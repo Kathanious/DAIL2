@@ -1,0 +1,6 @@
+chanceToRun,100,
+autoTargetRadius,5.000000,
+targetType,Self,
+templateName,database/templates/skillautocastcontroller.tpl,
+triggerType,AttackEnemy,
+FileDescription,100%,
