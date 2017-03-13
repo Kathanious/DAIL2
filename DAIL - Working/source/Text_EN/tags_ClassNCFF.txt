@@ -1,0 +1,559 @@
+
+#CLASS NECROMANCER
+#ENUMERATION 7
+
+#CLASS RANGER
+#ENUMERATION 8
+
+#CLASS FANGSHI
+#ENUMERATION 10
+
+#CLASS CENOBITE
+#ENUMERATION 28
+
+#CLASS ARLEQUIN
+#Parked
+
+#Descriptions
+tagSkillClassDescriptionNecro=A cult that remained secret for years, Necromancers were once brothers with the Order of the Death's Vigil until they faced persecution at the hands of the empire and decided to stay hidden from this world using their dark arts. Necromancers use their dark power to claim the bodies of the dead, raising skeleton armies to their service, casting terrible curses at their opponents or devastating them with mighty dark spells, they weaken, trap and destroy those who stand in their path, while empowering their allies using their dark skills. They are usually watching from the backround as their armies crush their opponents to oblivion. The legends say that those strong enough and worthy become undead themselves, while keeping their sanity.
+tagSkillClassDescriptionRanger=Before Grim Dawn, the ranger was the existence most fatal probably on a continent. They have Crossbow and firearms which bring an enemy death from a long distance in a hand, and hunt in a wilderness or woods. The destroyers from an alien world became these excellent hunters' game after the disaster which swept over the whole continent. 
+tagSkillClassDescriptionFangshi=Fangshis follow both the law of the Heaven and the Earth, Giving their bodies and minds perfect harmony, and granting them the strength to do what is necessary.
+tagSkillClassDescriptionCeno=Cenobites were the Elite Vanguard of the army sent from the Northern Provinces to quell the grim dawn in Southern Cairn.  Many of them died but those who lived learned to train others in their ways of armour mastery.  Furthermore, amongst all of the nations and creeds both Light, Dark and other - only those trained as Cenobites have the temperment to become paladins.
+#tagSkillClassDescription29=The Arlequin is the great-grandfather of the Nightblades, it's said... by them. Nightblades typically pretend they don't exist to be honest - but the elegant, mystical, majestic Arlequin knows the truth of it! Sword magicks, the art of seen and then, suddenly, unseen, they got it from the Arlequin, and don't let anyone tell you different! I mean, who cares about "facts" and "history" anyways? The Arlequin is here to entertain, not bore you with such silly things as facts! The Arlequin lives for the show, and the show is bloody.
+
+tagWeaponUnknown=Exotic Weapon
+tagPXNec1=Necromancer's
+
+#***********************************************************************************************************************************
+#NECROMANCER
+
+tagClassNecroSkillName00=^YNecromancer
+tagClassNecroSkillName00A=Necromancer
+tagClassNecroSkillDescription00=The power of death makes you feel so alive!
+tagClassNecroSkillName01=Bone Spear 
+tagClassNecroSkillDescription01=Launch a spear that pierces through an enemy's body.
+tagClassNecroSkillName01B=Soul Blast
+tagClassNecroSkillDescription01B=Enhances your Bone Spear with the power of soul, causing it to explode on impact.
+tagClassNecroSkillName01C=Bone Puncture
+tagClassNecroSkillDescription01C=Add weapon damage to Bone Spear. {^n}{^n}^oRequires a ranged weapon or dagger.
+tagClassNecroSkillName01D=Piercing Ice 
+tagClassNecroSkillDescription01D=When your Bone Spear hits any enemy, it triggers an Ice Blast.{^n}{^n}^o Ice Blast counts as an independent secondary effect, and is not affected by other skills that modify Bone Spear.
+tagClassNecroSkillName02=Astrosphere Wraith
+tagClassNecroSkillDescription02=Summons wraiths to attack enemies arounds you. {^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassNecroSkillName02T=Ancient Wraith Wisdom
+tagClassNecroSkillName02A=Wraith Shock
+tagClassNecroSkillDescription02A=Your wraiths can knock down enemies.
+tagClassNecroSkillName02B=Revenant Protection 
+tagClassNecroSkillDescription02B=Your wraiths instantiate their power to protect you.
+tagClassNecroSkillName02C=Revenant Force
+tagClassNecroSkillDescription02C=Your wraiths instantiate their power to temporarily reinforce your might when hits any enemy.
+tagClassNecroSkillName03=Nether Shield
+tagClassNecroSkillDescription03=Harness the energy of the nether world to protect yourself.
+tagClassNecroSkillName03B=Bone Spurs 
+tagClassNecroSkillDescription03B=Nether Shield now damages enemies who attack you, and launches a Bone Spike when you're hit.
+tagClassNecroSkillName03C=Bone Spur Blast 
+tagClassNecroSkillName04=Abolish 
+tagClassNecroSkillDescription04=Harness negative energy to dispel magical effects in a target area. Also deals massive damage and recover your mana for kills.
+tagClassNecroSkillName04T=Recovery
+tagClassNecroSkillName05=Necrotic Attack
+tagClassNecroSkillDescription05=Your weapon is enchanted by the power of death.
+tagClassNecroSkillName05B=Soul Siphon
+tagClassNecroSkillDescription05B=Leech enemies' life to heal yourself.
+tagClassNecroSkillName05C=Reaper
+tagClassNecroSkillDescription05C=A powerful attack that smashes your foes in one hit.
+tagClassNecroSkillName05D=Undead Legion
+tagClassNecroSkillDescription05D=Expend your necrotic energy to empower your allies and pets.
+tagClassNecroSkillName06=Decay
+tagClassNecroSkillDescription06=Curse your enemies to weaken them.
+tagClassNecroSkillName06B=Senescence
+tagClassNecroSkillDescription06B=Reduce the combat abilities of your enemies.
+tagClassNecroSkillName06C=Inevitable Death
+tagClassNecroSkillDescription06C=Even the most powerful beings cannot escape death.
+tagClassNecroSkillName07=Necrotic Knowledge
+tagClassNecroSkillDescription07=The knowledge of death brings only more death.
+tagClassNecroSkillName08=Deadly Fury
+tagClassNecroSkillDescription08=The closer you get to death, the better you can control it.
+tagClassNecroSkillName09=Seance
+tagClassNecroSkillDescription09=Your knowledge of weapons and armor, along with your mastery of the undead, are empowered by your contact with the ancient sages.
+tagClassNecroSkillName10=Pale Master
+tagClassNecroSkillDescription10=You turn undead while maintaining your humanity.
+tagClassNecroSkillName11=Summon Skeleton
+tagClassNecroSkillDescription11=Summon skeleton warriors to fight for you.^oThe skeleton scales with Pet Bonuses.
+tagClassNecroSkillName11P=Skeleton Warrior
+tagClassNecroSkillName11P1=Skeleton Charge
+tagClassNecroSkillDescription11P1=Your skeleton warriors can charge at enemies.
+tagClassNecroSkillName11B=Bone Spike Burst
+tagClassNecroSkillDescription11B=Release a cascade of spines to impale nearby foes.
+tagClassNecroSkillName11C=Dark Passenger
+tagClassNecroSkillDescription11C=Your skeleton warriors sacrifice themselves while they fall down, unleashing a shockwave toward the surrounding area. This shock also enforce your allies.
+tagClassNecroSkillName11CC=Sacrifice
+tagClassNecroSkillName11D=Bone Graft
+tagClassNecroSkillDescription11D=Increase the strength of your skeleton warriors.
+tagClassNecroSkillName11E=Desperation
+tagClassNecroSkillDescription11E=Reckless fury has swallowed you and your minions.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassNecroSkillName12=Arch Lich
+tagClassNecroSkillDescription12=Convert your life force into deadly power.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassNecroSkillName12B=Undead Mastery
+tagClassNecroSkillDescription12B=Pay a dark price to reinforce your pet.
+tagClassNecroSkillName13=Wither Pool
+tagClassNecroSkillDescription13=Spawn a deadly pool to weaken and injure your enemies.
+tagClassNecroSkillName13B=Bone Prison
+tagClassNecroSkillDescription13B=Summons a Bone Prison to trap your enemies.
+tagClassNecroSkillNameN1=Dullahan
+tagClassNecroSkillDescriptionN1=Summon Dullahan, the headless undead general, to fight for you.
+tagClassNecroSkillNameN2=Undead Attack
+tagClassNecroSkillNameN3=Undead General
+tagClassNecroSkillNameN4=Malice Pulse
+tagClassNecroSkillNameN5=Ghost Blitz
+
+#***********************************************************************************************************************************
+#RANGER
+
+tagClassRangerSkillName00=^YRanger
+tagClassRangerSkillName00A=^YRanger
+tagClassRangerSkillDescription00=You never miss the target.
+tagClassRangerSkillName01=Marksmanship
+tagClassRangerSkillDescription01=Improve your weapon damage with ranged weapons.{^n}{^n}^oRequires a ranged weapon. Can be used as your default weapon attack.
+tagClassRangerSkillName01T=Split Bullet
+tagClassRangerSkillDescription01T=Your bullets splinter into multiple projectiles but deal less damage.
+tagClassRangerSkillName01A=Homicidomania
+tagClassRangerSkillDescription01A=Gain bonus to Marksmanship. When you kill an enemy, set up a Mark of the Slayer on the ground.{^n}{^n}^oMark of the Slayer will reinforce you while blocking foes.
+tagClassRangerSkillName01AB=Mark of the Slayer
+tagClassRangerSkillName01B=Magicial Bullet
+tagClassRangerSkillDescription01B= These mysterious bullets can cause uncertain effects. 
+tagClassRangerSkillName01C=Suppression Fire
+tagClassRangerSkillDescription01C=Your enemy becomes panicked and crushed in a hail of bullets.
+tagClassRangerSkillName02=Rapid Fire
+tagClassRangerSkillDescription02=You can fire several times rapidly.{^n}{^n}^oCan activate with all default weapon attacks.{^n}{^n}^o2 times with 2H ranged weapons, 3 times with 1H ranged weapons, 4 times with dual ranged wielding.
+tagClassRangerSkillName03=CrossFire
+tagClassRangerSkillDescription03=Magical shrapnels spray from your Rapid Fire.{^n}{^n}^oRequires dual ranged wielding. Also enables the ability to dual wield ranged weapons.
+tagClassRangerSkillName04=Snipe
+tagClassRangerSkillDescription04=Rapid Fire become a deadly penetrating attack.{^n}{^n}^oRequires a 2H ranged weapon. The actual projectile piercing chance is double of the tooltip. 
+tagClassRangerSkillName05=Premeditation
+tagClassRangerSkillDescription05=Give you transient bonus after Rapid Fire.{^n}{^n}^oRequires a shield or magical offhand. Also requires a ranged weapon.
+tagClassRangerSkillName05T=Premeditation
+tagClassRangerSkillName06=Bulletstorm
+tagClassRangerSkillDescription06=Rapid shots that are invisible to the eye knock back all enemies around you.{^n}{^n}^oRequires a ranged weapon.
+tagClassRangerSkillName06T=Execute
+tagClassRangerSkillDescription06T=Reinforce the damage of Bulletstorm while losing the crowd control effects.
+tagClassRangerSkillName06B=Dumdums
+tagClassRangerSkillDescription06B=Bulletstorm now causes profuse internal and external bleeding.
+tagClassRangerSkillName07A=Rambler
+tagClassRangerSkillDescription07A=Walking in the wild makes you understand the nature.
+tagClassRangerSkillName07B=Avenger
+tagClassRangerSkillDescription07B=You vow to exterminate the aliens.
+tagClassRangerSkillName07C=Lawbringer
+tagClassRangerSkillDescription07C=Punishment to the fallen.
+tagClassRangerSkillName08=Coup de Grace
+tagClassRangerSkillDescription08=Deals critical damage to a single target.{^n}{^n}^oRequires a ranged weapon.
+tagClassRangerSkillName08B=Headshot
+tagClassRangerSkillDescription08B=A fatal shot executes your enemy. Set 6 Marks of the Slayer when Coup de Grace hits an enemy.
+tagClassRangerSkillName08C=Hunting Ground
+tagClassRangerSkillDescription08C=Because of the study of physiology and anatomy, you can cause fatal damage to the prey.
+tagClassRangerSkillName09=Reload
+tagClassRangerSkillDescription09=Reduce the cooldown of all your activated skills.{^n}{^n}^oRequires a ranged weapon.
+tagClassRangerSkillName09T=Quick Reload
+tagClassRangerSkillDescription09T=Improve your reload skill.{^n}{^n}^oRequires a shield or magical offhand. Also requires a ranged weapon.
+tagClassRangerSkillName10=Poisoned Weapon
+tagClassRangerSkillDescription10=Add poison to your weapons. {^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassRangerSkillName10T=Toxic Ammo
+tagClassRangerSkillDescription10T=Your bullets contain toxic chemicals.{^n}{^n}^oRequires a ranged weapon.
+tagClassRangerSkillName10B=Paralytic poison
+tagClassRangerSkillDescription10B=Confuse your enemies with neurotoxicants.
+tagClassRangerSkillName11=Precise Shot
+tagClassRangerSkillDescription11=Fire more accurately, but at a reduced rate.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassRangerSkillName12=Phantom Falcon
+tagClassRangerSkillDescription12=Summon a spiritual falcon to fight for you. The falcon is invincible.{^n}{^n}^oThe falcon scales with player damage bonuses.
+tagClassRangerSkillName12S=Falcon Attack
+tagClassRangerSkillName12A=Mark of Falcon
+tagClassRangerSkillDescription12A=Phantom Falcon marks your enemies to expose their weakness.
+tagClassRangerSkillName12B=Aura of Falcon
+tagClassRangerSkillDescription12B=Phantom Falcon can reinforce allies for a short duration.
+tagClassRangerSkillName12C=Falcon Assault
+tagClassRangerSkillDescription12C=Phantom Falcon can unleash a wave of lesser falcons when it falls. 
+tagClassRangerSkillName13=Windrunner
+tagClassRangerSkillDescription13=Increases movement speed and adds evasion from all attacks.
+tagClassRangerSkillName13E=Focus Fire
+tagClassRangerSkillDescription13E=Gain additional attack speed while Windrunner activated.
+tagClassRangerSkillName14=Art of Ranger 
+tagClassRangerSkillDescription14=The arts of ranger gives a you chance to cast skills multiple times.
+tagClassRangerSkillNameN1=Uncanny Dodge
+tagClassRangerSkillDescriptionN1=A swift evasive action means you can use the foes as your play thing. Every successful evasion reduce the cooldown of all your activated skills.
+
+#***********************************************************************************************************************************
+#FANGSHI
+
+tagClassFangshiSkillName00=^YFangshi
+tagClassFangshiSkillName00A=^YFangshi
+tagClassFangshiSkillDescription00=You follow both the law of the Heaven and the Earth. Your body and mind are in perfect harmony, giving you the strength to do what is necessary
+tagClassFangshiSkillName01=Rain of Swords
+tagClassFangshiSkillDescription01=Rain of swords fall from the sky.
+tagClassFangshiSkillName01T=Hail of Blades
+tagClassFangshiSkillDescription01T=Rain of swords become a fatal hail.
+tagClassFangshiSkillName01A=Transmute Blade
+tagClassFangshiSkillDescription01A=Empower the rain of swords with your caster weapon.{^n}{^n}^oRequires a scepter or dagger.
+tagClassFangshiSkillName01B=Cold Steel
+tagClassFangshiSkillDescription01B=Rain of swords deal less cold damage to your targets and reduce their cold resistance
+tagClassFangshiSkillName01BB=Curse of Cold Steel 
+tagClassFangshiSkillName02=Soulcalibur
+tagClassFangshiSkillDescription02=Summon random legendary swords to attack enemies automatically.{^n}{^n}^oThe weapon damage in UI tooltip is not actual damage. Swords scale with player damage bonuses.
+tagClassFangshiSkillName02A=Sweep
+tagClassFangshiSkillName02B=Slash
+tagClassFangshiSkillName03=Ring of Ice
+tagClassFangshiSkillDescription03=Summon ice barricades around target. Unleashing cold shockwave as the barricades expired.{^n}{^n}^oScales with player damage bonuses.
+tagClassFangshiSkillName03A=Iceblast
+tagClassFangshiSkillName03B=Frostbite
+tagClassFangshiSkillName03C=Ice Spike
+tagClassFangshiSkillName03T=Moral Purity
+tagClassFangshiSkillDescription03T=Your mind is at peace when you stand near the ice barricades.
+tagClassFangshiSkillName04=Frost Wings
+tagClassFangshiSkillDescription04=Two wings of ice attack your enemies.{^n}{^n}^oCost double mana in fact.
+tagClassFangshiSkillName04B=Glacial Nova
+tagClassFangshiSkillDescription04B=Ice shards spray from your Frost Wings.{^n}{^n}^oNova counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
+tagClassFangshiSkillName04BT=Glacier Nova
+tagClassFangshiSkillName04C=Dragon's Breath
+tagClassFangshiSkillDescription04C=Targets in a cone in front of the caster take fire and burning damage.
+tagClassFangshiSkillName04D=Frost Shield
+tagClassFangshiSkillDescription04D=Freezing wings also forms a protective shield around you.
+tagClassFangshiSkillName04T=Freezing Flap
+tagClassFangshiSkillDescription04T=Change the trace of Frost Wings.
+tagClassFangshiSkillName05=Binding Vines
+tagClassFangshiSkillDescription05=Summon vines to bind and strangle enemies.
+tagClassFangshiSkillName05T=Focus Vines
+tagClassFangshiSkillDescription05T=Focus the power of vines on fewer enemies. Even the most powerful beings cannot be immune to the effect. 
+tagClassFangshiSkillName05A=Phytoparasite
+tagClassFangshiSkillDescription05A=Cast additional parasite vines to attack one enemy periodically.
+tagClassFangshiSkillName05A1=Parasite Vines
+tagClassFangshiSkillName05B=Sere Vines
+tagClassFangshiSkillDescription05B=Enemies who are bound by the vines lose there combat ability and become more susceptible to fire.
+tagClassFangshiSkillName06=Blossom Step
+tagClassFangshiSkillDescription06=Charge at single target. Reduce his defensive ability while reinforce yourself.{^n}{^n}^oRequires a sword, axe or dagger.
+tagClassFangshiSkillName06D=Blossom Step
+tagClassFangshiSkillName06B=Infinite Slashes
+tagClassFangshiSkillDescription06B=Additional mult-slashes after the Blossom Step.{^n}{^n}^oThis skill immobilizes and protects you for its duration.
+tagClassFangshiSkillName06BB=Slash
+tagClassFangshiSkillName07=Samadhi Fire
+tagClassFangshiSkillDescription07=Ignite single target. This buff spreads among your foes.
+tagClassFangshiSkillName07A=Soft Fire
+tagClassFangshiSkillDescription07A=Reduce the damage of Samadhi Fire while increasing its duration.
+tagClassFangshiSkillName07B=Path of Torridity
+tagClassFangshiSkillDescription07B=Lays down a trail of flames from you while Samadhi Fire activated.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
+tagClassFangshiSkillName07BB=Path of Torridity
+tagClassFangshiSkillName07C=Melt Armor
+tagClassFangshiSkillDescription07C=Samadhi Fire melts enemies armor, making them more susceptible to physical attacks.
+tagClassFangshiSkillName08=Rock Spikes
+tagClassFangshiSkillDescription08=Rock spikes burst from the earth along a straight path.{^n}{^n}^oThis attack requires a melee weapon.
+tagClassFangshiSkillName08B=Earth Dragon
+tagClassFangshiSkillDescription08B=Change the mechanism of Rock Spikes. It becomes a spiral attack.
+tagClassFangshiSkillName08A=Rockslide
+tagClassFangshiSkillDescription08A=Enemies who hit by Rock Spikes exposed their weakness.
+tagClassFangshiSkillName09=Twist Fate
+tagClassFangshiSkillDescription09= A twist of fate can leave you heading in a different direction.{^n}{^n}^oRequires a scepter or dagger.
+tagClassFangshiSkillName11=Signet of Metal
+tagClassFangshiSkillDescription11=Force of Metal represents revolution. Metal enriches Water while choping Wood.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassFangshiSkillDescription11B=Deal additional damage whenever you land a critical strike
+tagClassFangshiSkillName12=Signet of Water
+tagClassFangshiSkillDescription12=Force of Water represents transformation. Water nourishes Wood while extinguishing Fire.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassFangshiSkillDescription12B=Enforce your spell power on get hit
+tagClassFangshiSkillName13=Signet of Wood
+tagClassFangshiSkillDescription13=Force of Wood represents growth. Wood feeds Fire while ripping Earth.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassFangshiSkillDescription13B=Regenerate after killing
+tagClassFangshiSkillName14=Signet of Fire
+tagClassFangshiSkillDescription14=Force of Fire represents liberate. Fire creates Earth while melting Metal.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassFangshiSkillDescription14B=Unleash a firewave while you attack
+tagClassFangshiSkillName15=Signet of Earth
+tagClassFangshiSkillDescription15=Force of Earth represents stable. Earth bears Metal while damming Water.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassFangshiSkillDescription15B=Last stand at death's door
+tagClassFangshiSkillName10=Will Blade
+tagClassFangshiSkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequires a scepter or dagger. Can be used as your default weapon attack.
+
+#***********************************************************************************************************************************
+#CENOBITE
+
+tagClassCenoSkillName00=^YCenobite
+tagClassCenoSkillName00A=^YCenobite
+tagClassCenoSkillDescription00=Piety and discipline gives you strength.
+tagClassCenoSkillName01=Chosen One
+tagClassCenoSkillDescription01=You are gifted with skilled combat.
+tagClassCenoSkillName02=Divine Hammer
+tagClassCenoSkillDescription02=A magic hammer that crush your enemies.
+tagClassCenoSkillName02T=Doom
+tagClassCenoSkillDescription02T=Divine Hammer is transmuted to power of doom.
+tagClassCenoSkillName02A=Burning Debris 
+tagClassCenoSkillDescription02A=Burning debris spray from ground.
+tagClassCenoSkillName02B=Maul
+tagClassCenoSkillDescription02B=Empower the magic hammer with your blunt weapon.{^n}{^n}^oRequires a scepter or mace.
+tagClassCenoSkillName03=Sun Ray
+tagClassCenoSkillDescription03=Expels a beam of light that pierce through enemies. This skill is very effective against the undead.{^n}{^n}^oRequires a shield.
+tagClassCenoSkillName03A=Exorcism
+tagClassCenoSkillDescription03A=Focus on the destruction of otherworldly demons and devils.
+tagClassCenoSkillName03B=Sunshine
+tagClassCenoSkillDescription03B=Dazzling light blind enemies around you.
+tagClassCenoSkillName03B1=Dazzling Sunshine
+tagClassCenoSkillName03C=Blazing Sun
+tagClassCenoSkillDescription03C=Sun Ray can cause severe pain and burns.
+tagClassCenoSkillName04=Thorns Aura
+tagClassCenoSkillDescription04=This aura will do severe damage to any foe that dare to attack you or your allies.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassCenoSkillName04B=Intervention
+tagClassCenoSkillDescription04B=Save your life in times of crisis.
+tagClassCenoSkillName04B1=Saving
+tagClassCenoSkillName05=Sword and Shield Combo 
+tagClassCenoSkillDescription05=A weapon and shield combo attack that can activate with all default weapon attacks.{^n}{^n}^oRequires a shield. No combo effect while using ranged weapons.
+tagClassCenoSkillName05B=Encourage
+tagClassCenoSkillDescription05B=A perfect combo were convinced as a morale booster.
+tagClassCenoSkillName05BB=Boost Morale 
+tagClassCenoSkillName06=Immolation
+tagClassCenoSkillDescription06=Burns nearby enemy units by cost you life, with damage per second.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagClassCenoSkillName06T=Spread
+tagClassCenoSkillDescription06T=The radius of Immolation is greatly enhanced at the reduction of damage.
+tagClassCenoSkillName06A=Punishment
+tagClassCenoSkillDescription06A=Let the enemy see his sin.
+tagClassCenoSkillName06B=Holy Nova
+tagClassCenoSkillDescription06B=Periodic cast holy blast attacks nearby enemy and taunt them.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
+tagClassCenoSkillName06BB=Holy Nova
+tagClassCenoSkillName06C=Sanction
+tagClassCenoSkillDescription06C=The fire made the enemy helpless and bitter. 
+tagClassCenoSkillName07=Divine Assault
+tagClassCenoSkillDescription07=When used as your default weapon attack, cause fatal damage at your first times attack.{^n}{^n}^oEach attack drains a amount of damage that recharges slowly over time. Percent bonus affects all attacks while active. 
+tagClassCenoSkillName07B=Zealot
+tagClassCenoSkillDescription07B=God commended you for your enthusiasm. 
+tagClassCenoSkillName07C=Air Billow
+tagClassCenoSkillDescription07C=Shield Bash set off a chaos blast, down nearby enemies.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
+tagClassCenoSkillName07T=Shield Slam
+tagClassCenoSkillDescription07T=You completely abandon the defensive use of shield, and become a fatal fighter. {^n}{^n}^oAffects all attacks while Divine Assault active.
+tagClassCenoSkillName07TT=Shield Rage
+tagClassCenoSkillName08=Perfect Block 
+tagClassCenoSkillDescription08=Enter the full block status, perfect block all attacks. {^n}{^n}^oThis skill immobilizes you for its duration.
+tagClassCenoSkillName09=Fight Back
+tagClassCenoSkillDescription09=A successful block will consume additional mana to release a powerful melee shield riposte to the attacker.
+tagClassCenoSkillName09T=Shield Riposte
+tagClassCenoSkillName09B=Defensive Stance 
+tagClassCenoSkillDescription09B=Efficient defense, but reducing the attack power.{^n}{^n}^oRequires a melee weapon.
+tagClassCenoSkillName09C=Rapid Block
+tagClassCenoSkillDescription09C=With the reduction block ammount, greatly improve the efficiency of the shiled. 
+tagClassCenoSkillName10=Holy Spirit
+tagClassCenoSkillDescription10=Call heaven force, which greatly enhance your fighting ability. 
+tagClassCenoSkillName11=Therapeutic Touch
+tagClassCenoSkillDescription11=A spell which healing yourself. 
+tagClassCenoSkillName11A=Divined Armor 
+tagClassCenoSkillDescription11A=The blessing of god gives you extra protection.
+tagClassCenoSkillName11B=Vigour
+tagClassCenoSkillDescription11B=The remnants of the healing energy protect friendly forces, increase their resistance to the power of death. 
+tagClassCenoSkillName12=Scourge
+tagClassCenoSkillDescription12=A divine bolt causes the huge harm. Also jump to other units. 
+tagClassCenoSkillName12B=Annihilation
+tagClassCenoSkillDescription12B=Scourge will greatly weaken the enemy. 
+
+#***********************************************************************************************************************************
+#ARLEQUIN 
+
+tagPetZanniSwordA01=Zanni Sword
+tagPetRodeoPigA02=Porkchop the Rodeo Pig
+
+tagClass29SkillName00=^iArlequin
+tagClass29SkillDescription00=With a laugh and a blade, turn the tide!
+
+tagClass29SkillName01A=Dance of Misdirection
+tagClass29SkillDescription01A=The ^g(H)arlequin^w is a master of dance, you know? The salsa, the chacha, the Charlston - master of it all. But, arguably, most important is the Dance of Misdirection. With each strike the Arlequin causes their foe to fumble their own.  ^oRequires and allows dual-wielding using either sword, mace, dagger, or a sceptre.
+tagClass29SkillName01B=Toe Step Tango
+tagClass29SkillDescription01B=With a shuffle of the feet the ^g(H)arlequin^w steps upon the toes of their foe, causing them to slow whislt angering them. Nothing Draws someone's attention like a stamp on the lil pigs.
+tagClass29SkillName01c=Slapstick, or Knife, or Club.
+tagClass29SkillDescription01c=Majestically, and with an athletic jump, the ^g(H)arelquin^w humorously slaps their foe upon the noggin, stunning, or knocking them down even. Take that!
+
+tagClass29SkillName02A=Dragon's Breath
+tagClass29SkillDescription02A="Did he/she just breath fire? They breathed fire!" - the ^g(H)arlequin's^w enemies as you light them ablaze with a belch of flame. I'd like to see a Nightblade do that!
+tagClass29SkillName02B=Bellow Lungs
+tagClass29SkillDescription02B=A life of singing and breathing fire gives the ^g(H)arlequin^w powerful lungs - better to light thou foe ablaze, in the poet's tongue. Dragon's Breath now burns longer and may send enemies running in fear!
+tagClass29SkillName02C=Hearty Wilds
+tagClass29SkillDescription02C=Part of this balanced skill set.
+
+tagClass29SkillName03A=Flash and Awe!
+tagClass29SkillDescription03A=With a little magic, a sprinkle of alchemy, and a big bang, the ^g(H)arlequin^w shock the audience by disappearing then reappearing again - ooo what a show!
+tagClass29SkillName03B=Shock and Awe!
+tagClass29SkillDescription03B=What's a show without a little lightning?! How does the ^g(H)arlequin^w do it?
+
+tagClass29SkillName04A=Summon Zanni Sword
+tagClass29SkillDescription04A=Using magic, elbowgrease, and quite a bit of wishful thinking the Arlequin summons forth a magical wooden blade to bash their foe's brains in. It is not sharp.
+
+tagClass29SkillName04B=Splinters
+tagClass29SkillDescription04B=The wood of the Zanni Sword becomes frayed and causes bleeding damage, probably from whacking people over the head so much. They're kinda sharp, I guess.
+
+tagClass29SkillName04C=And Then They Lit On Fire
+tagClass29SkillDescription04C=Lighting that elbowgrease up with a little more magic and wishful thinking turned out great. Still not sharp though.
+
+tagClass29SkillName05=Summon Rodeo Pig
+tagClass29SkillDescription05=It is said that a thousand years ago, maybe a few hundred, or even twenty, there lived a pig. It wasn't just any old pig, he or she, I've heard it both ways, was a magical pig! Porkchop, the magical rodeo pig! You can summon this majestic beast to your aid, to run wild, knocking down your enemies. You don't know how, but this ability is yours.
+
+tagClass29SkillName06A=Reginald's Wild Night
+tagClass29SkillDescription06A=A powerful stream of liquid sprayed using secret ^g(H)arlequin^w techniques only shared with masters.  As you grimace through the burning sensation, you use the secret words of power... 'Damn you Archibald!' ^oRemember to wipe your hands after using this skill
+
+tagClass29SkillName06B=Jelg and Kegl
+tagClass29SkillDescription06B=Grand Master (H)arlequins can compress and ignite their stream as it comes out ^oEnergy Cost increase is per damage interval.
+
+tagClass29SkillName06C=I.it...it doesn't burn anymore!
+tagClass29SkillDescription06C=You have performed a sacred ritual, known only to master ^g(H)arlequins^w and now you stream Cthonian pe..power!
+
+tagClass29SkillName10=Focus
+tagClass29SkillDesciption10=Master ^g(H)arlequin^w can remain focused even under duress. Mind over matter. If you don't mind, it doesn't matter.
+
+tagPXNCFF1=Necromancer's
+tagPXNCFF2=Ranger's
+tagPXNCFF3=Fangshi's
+tagPXNCFF4=Cenobite's
+
+tagPXNCFFB_1=Deathlord's
+tagPXNCFFB_2=Sniper's
+tagPXNCFFB_3=Xianren's
+tagPXNCFFB_4=Cleric's
+
+tagPXNCFFB_1_7=Death Knight's
+tagPXNCFFB_1_8=Dragoon's
+tagPXNCFFB_1_9=Kensai's
+tagPXNCFFB_1_10=Templar's
+tagPXNCFFB_2_7=Efreet's
+tagPXNCFFB_2_8=Gunslinger's
+tagPXNCFFB_2_9=Fire Diviner's
+tagPXNCFFB_2_10=Zoroastrian's
+tagPXNCFFB_3_7=Demonologist's
+tagPXNCFFB_3_8=Demon Hunter's
+tagPXNCFFB_3_9=Thaumaturge's
+tagPXNCFFB_3_10=Witch Acolyte's
+tagPXNCFFB_4_7=Dread Assassin's
+tagPXNCFFB_4_8=Slayer's
+tagPXNCFFB_4_9=Ninja's
+tagPXNCFFB_4_10=Templar Assassin's
+tagPXNCFFB_5_7=Archlich's
+tagPXNCFFB_5_8=Der Freisch¨¹tz's
+tagPXNCFFB_5_9=Astrologer's
+tagPXNCFFB_5_10=Diviner's
+tagPXNCFFB_6_7=Spirit Walker's
+tagPXNCFFB_6_8=Wild Hunter's
+tagPXNCFFB_6_9=Geomancer's
+tagPXNCFFB_6_10=Witch Doctor's
+tagPXNCFFB_7_8=Witcher's
+tagPXNCFFB_7_9=Exorcist's
+tagPXNCFFB_7_10=Shadow Priest's
+tagPXNCFFB_8_9=Disenchanter's
+tagPXNCFFB_8_10=Inquisitor's
+tagPXNCFFB_9_10=Anchorite's
+
+tagSXNCFF_07=of Azrael
+tagSXNCFF_08=of Dead Shot
+tagSXNCFF_09=of Five Elements
+tagSXNCFF_10=of Paradise
+
+tagSXNCFF2_07=of Living Dead
+tagSXNCFF2_08=of Ruthless Hunter
+tagSXNCFF2_09=of Truth Seeker
+tagSXNCFF2_10=of Crusader
+
+tagEPNCFF_H_01=Circlet of Taboo
+tagEPNCFF_H_02=Hunter's Visor
+tagEPNCFF_H_03=Blue Cloud Crown
+tagEPNCFF_H_04=Justicar's Helm
+tagEPNCFF_H_05=Skull of Dominator
+tagEPNCFF_H_06=Miraclice
+tagEPNCFF_H_07=Mask of Firecon
+tagEPNCFF_H_07S=Conflagration
+tagEPNCFF_H_07SD=Your body filled with the flame of rage.
+tagEPNCFF_H_08=Wretch
+tagEPNCFF_H_08S=Preemptive Strike
+tagEPNCFF_H_08SD=A preemptive strike can deal fatal damage. However it will take a while when out of combat to reset the effect.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagEPNCFF_H_08SS=Preemptive Strike - Reset
+tagEPNCFF_H_09=Arcane Vision
+tagEPNCFF_H_10=Crown of Sword King
+tagEPNCFF_H_11=Helm of Earth Spirit
+tagEPNCFF_H_12=Samadhi Crown
+tagEPNCFF_H_13=Sacred Faceguard
+tagEPNCFF_H_14=Thunder Hood
+tagEPNCFF_H_14S=Thunder Ward
+tagEPNCFF_H_14SD=The ward of thunder shields you from harm.
+tagEPNCFF_H_15=Evil Crown of Thorns
+tagEPNCFF_H_101=Fallen Knight's Face
+
+tagEPNCFF_S_01=Pauldrons of Abyss
+tagEPNCFF_S_02=Commandant Epaulets
+tagEPNCFF_S_03=Mantle of Poison Ivy
+tagEPNCFF_S_04=Shoulderguards of Holy Flame
+tagEPNCFF_S_05=Bone Shoulderguard
+tagEPNCFF_S_06=Wild Stalker's Mantle
+tagEPNCFF_S_07=Blue Cloud Mantle
+tagEPNCFF_S_08=Justicar's Shoulderguard
+
+tagEPNCFF_C_01=Undertaker's Cloth
+tagEPNCFF_C_02=Chivalrous Chestguard
+tagEPNCFF_C_03=Blue Cloud Raiment
+tagEPNCFF_C_04=Blessing Breastplate
+tagEPNCFF_C_05=Shadow Suit
+tagEPNCFF_C_06=Annihilate Robes
+tagEPNCFF_C_07=Jacket of Battleground
+tagEPNCFF_C_08=Woods Keeper's Jacket
+tagEPNCFF_C_09=Jacket of Sword Dance
+tagEPNCFF_C_10=Vestment of Eidolon
+tagEPNCFF_C_11=Templar Assassin's Shadow Coat
+tagEPNCFF_C_12=Chosen Plate
+
+tagEPNCFF_A_01=Nether Grasp
+tagEPNCFF_A_02=Claw of Primeval Woodlurker
+tagEPNCFF_A_03S=Bloodthirsty
+tagEPNCFF_A_03SD=Crisis makes you bloodthirsty.
+tagEPNCFF_A_03=Touch of Rock
+tagEPNCFF_A_04=Divined Shoot Gloves
+tagEPNCFF_A_05=Hands of Ghoul
+tagEPNCFF_A_05S=Life Leech
+tagEPNCFF_A_06=Chivalrous Gauntlets
+tagEPNCFF_A_07=Weaved Green Gauntlets
+tagEPNCFF_A_08=Dominate Bracers
+
+tagEPNCFF_W_01=Cord of Ghoul
+tagEPNCFF_W_02=Falconer's Belt
+tagEPNCFF_W_03=Astal Chains
+tagEPNCFF_W_04=Justicar's Waist Support
+tagEPNCFF_W_05=Cremation Toolkit
+tagEPNCFF_W_06=Ice Field Girdle
+tagEPNCFF_W_07=Dragon Skin Girdle
+tagEPNCFF_W_08=Coil of Chaos
+
+tagEPNCFF_L_01=Pale Legguards
+tagEPNCFF_L_02=Tricker's Trousers
+tagEPNCFF_L_02S=Lightning Reflexes
+tagEPNCFF_L_03=Blue Cloud Legwraps
+tagEPNCFF_L_04=Lionheart Legplates 
+
+tagEPNCFF_F_01=Steps of Ghoul
+tagEPNCFF_F_02=Chivalrous Tales
+tagEPNCFF_F_03=Haruhi
+tagEPNCFF_F_04=Missionary Treads
+
+tagEPNCFF_R_01=Rotten Bone Ring
+tagEPNCFF_R_02=Marksman's Seal
+tagEPNCFF_R_03=Seal of Jade
+tagEPNCFF_R_04=Justicar's Authority
+tagEPNCFF_R_05=Signet of Profaneness
+tagEPNCFF_R_06=Boiga's Eye
+tagEPNCFF_R_07=Ring of Guren
+tagEPNCFF_R_08=Thunder Signet
+
+tagEPNCFF_N_01=Heart of Ghoul
+tagEPNCFF_N_02=Tailsman of Great Distances
+tagEPNCFF_N_03=Consonance Pendant
+tagEPNCFF_N_04=Clergy's Amulet
+tagEPNCFF_N_05=Core of Abyss
+tagEPNCFF_N_06=Amulet of Keen Blade
+tagEPNCFF_N_07=Icesharp
+tagEPNCFF_N_08=Amulet of Thunderfire
+
+tagEPNCFF_M_01=Skull Clan Sigil
+tagEPNCFF_M_02=Chivalrous Mark
+tagEPNCFF_M_02S=Chivalric Killing
+tagEPNCFF_M_03=Badge of Taiji 
+tagEPNCFF_M_04=Shinning Symbol
+
+tagEPNCFF_SET_01=Upper Blue Cloud
+tagEPNCFF_SET_01b=Beyond Blue Cloud
+tagEPNCFF_SET_02=Justicar's Might
+tagEPNCFF_SET_02b=Justicar's Great Power
+tagEPNCFF_SET_03=Possession of Ghoul
+tagEPNCFF_SET_03b=Avatar of Ghoul
+tagEPNCFF_SET_04=Chivalrous Lore
+tagEPNCFF_SET_04b=Chivalrous Legend

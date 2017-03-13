@@ -1,0 +1,37 @@
+AttachPoint
+{
+name = "Wings1"
+origin = (0.000000, 1.83, -0.32)
+xAxis  = (0.999768, -0.021514, 0.000000)
+yAxis  = (0.021514, 0.999768, 0.000000)
+zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+name = "Wings2"
+origin = (0.000000, 1.98, -0.32)
+xAxis = (0.070657, -0.997501, 0.000000)
+yAxis = (0.997501, 0.070657, 0.000000)
+zAxis = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+name = "Wings3"
+origin = (1.000000, 2.65, -0.32)
+xAxis = (-0.006913, -3.599976, 0.000000)
+yAxis = (0.008398, -0.000058, -0.999965)
+zAxis = (0.999941, -0.006913, 0.008398)
+}
+AttachPoint
+{
+name = "Wings4"
+origin = (-1.000000, 2.65, -0.32)
+xAxis = (-0.006913, -3.599976, 0.000000)
+yAxis = (0.008398, -0.000058, -0.999965)
+zAxis = (0.999941, -0.006913, 0.008398)
+}
+CreateEntity
+{
+attach = "Wings1"
+entity = "Records\treasures\fx\itemfx\magicalfx\wings0_fx.dbr"
+}

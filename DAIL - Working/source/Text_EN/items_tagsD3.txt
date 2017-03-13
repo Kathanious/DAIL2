@@ -1,0 +1,82 @@
+
+Hand Crossbows
+
+tag1hCrossbow01=Slinglock
+tag1hCrossbow02=Hand Crossbow
+tag1hCrossbow03=Calamity
+tag1hCrossbow04=Death's Hand Crossbow
+tag1hCrossbow05=Valla's Bequest
+tag1hCrossbow06=Hallowed Judgement
+tag1hCrossbow06Desc=An angelic weapon re-forged to suit the needs of a hero.
+tag1hCrossbow07=Sling Pistol
+tag1hCrossbow08=Dawn
+tag1hCrossbow08Desc=Calm pervades your soul as you are warmed by the morning's first light, for you know vengeance will soon be yours.
+tag1hCrossbow09=Helltrapper
+tag1hCrossbow10=Balefire Caster
+tag1hCrossbow10Desc="Use fire to fight fire. I always say."- Demon Hunter Raykal
+tag1hCrossbow11=Lianna's Wings
+tag1hCrossbow11Desc=This bow, upon which the angel Lianna bestowed her wings, fell from the heavens and grants the wielder great power, but at a cost.
+
+tagBootsD301=Irontoe Mudsputters
+tagBootsD302=Nightstalker's Stealth
+tagBootsD303=Inna's Boots
+tagBootsD304=Uliana's Destiny
+tagBootsD305=The Shadow's Heels
+
+tagShouldersD301=Uliana's Strenght
+tagShouldersD302=Jade Harvester's Joy
+
+tagHandsD301=The Shadow's Grasp
+tagHandsD302=Inna's Hold
+tagHandsD303=Uliana's Fury
+tagHandsD304=Jade Harvester's Mercy
+tagHandsD305=Night Gloves
+
+tagTorsoD301=The Shadow's Bane
+tagTorsoD302=Nightstalker's Embrace
+tagTorsoD303=Inna's Vast Expanse
+tagTorsoD304=Uliana's Heart
+tagTorsoD305=Jade Harvester's Peace
+
+tagHeadD301=The Shadow's Mask
+tagHeadD302=Nightstalker's Glory
+tagHeadD303=Split Tusk
+tagHeadD303Desc=Carved to evoke the power of the great tusked pack beasts of the Teganze.
+tagHeadD304=Quetzalcoatl
+tagHeadD305=The Grin Reaper
+tagHeadD305Pet=Horrific Mimics
+tagHeadD305Skill=Horrific Mimics
+tagHeadD305SkillDesc=Summon horrific mimics that cast some of the Witch Doctor skills.
+tagHeadD306=Uliana's Spirit
+tagHeadD307=Jade Harvester's Wisdom
+
+tagLegsD301=Jade Harvester's Courage
+tagLegsD302=The Shadow's Coil
+
+tagItemSetD301=The Nightstalker's Vengeance
+tagItemSetD301Desc="You will learn to walk as we do. As they do. You will stalk these monsters, these invaders, and after you have made your kill and faded away, the demons will find naught but their own treads upon the earth."- Hunter Aoron Gunes
+tagItemSetD302=The Shadow's Mantle
+tagItemSetD302Desc="The darkness is your friend and your enemy's nightmare." -Demon Hunter Kunai.
+tagItemSetD303=Uliana's Stratagem
+tagItemSetD303Desc="Uliana was the first to venture out amongst the laymen while retaining her status-for in those days, monks were forbidden to leave the monasteries, with their forms being used solely to commune with the gods."
+tagItemSetD304=Raiment of the Jade Harvester
+tagItemSetD304Desc=Every umbaru knows of Tukam, the Jade Harvester. The witch doctor became famous for adorning himself in armor he carved from green jade, which he believed heightened his connection with the spirits.
+
+tagMelee2hD301=Inna's Reach
+
+tagFocusD301=Tome of the Damned
+
+
+Item Skills
+
+tagItemSkillD301=Helltrap
+tagItemSkillD301Desc=Spawn a cursed field at the target's location that immobilizes enemies that pass through it for 2 seconds. When an enemy is trapped, Helltrap consumes a portion of his life.
+
+tagItemSkillD302=Survivalist
+tagItemSkillD302Desc=When close to death, your survival instincts take you away from the danger.
+
+tagItemSkillD303=Ceremony of Shadows
+tagItemSkillD303Desc=Summon the spirits of shadows to fight by your side for 12 seconds.
+
+tagItemSkillD304=Soul Haunt
+tagItemSkillD304Desc=The power of Soul Harvest and Haunt becomes unique on a cursed field that transfers the enemies health to you.

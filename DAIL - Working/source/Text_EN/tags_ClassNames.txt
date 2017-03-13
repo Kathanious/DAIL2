@@ -1,0 +1,95 @@
+
+#CLASS NAMES AND UI COLORS
+
+tagSkillClassName01=^kSoldier
+tagSkillClassName02=^kDemolitionist
+tagSkillClassName03=^kOccultist
+tagSkillClassName04=^kNightblade
+tagSkillClassName05=^kArcanist
+tagSkillClassName06=^kShaman
+tagSkillClassName07=^kInquisitor
+
+tagSkillClassNameNecro=^YNecromancer
+tagSkillClassName07=^YNecromancer
+
+tagSkillClassNameRanger=^YRanger
+tagSkillClassName08=^YRanger
+
+tagSkillClassNameCoronus=^gCoronus
+tagSkillClassName09=^gCoronus
+
+tagSkillClassNameFangshi=^YFangshi
+tagSkillClassName10=^YFangshi
+
+tagSkillClassNameFK=^pFrost Knight
+tagSkillClassName11=^pFrost Knight
+
+tagSkillClassNameZenith02=^lElementalist
+tagSkillClassName12=^lElementalist
+
+tagSkillClassNameZenith01=^lTerror Knight
+tagSkillClassName13=^lTerror Knight
+
+tagSkillClassNameArNecro=^gArch Necromancer
+tagSkillClassName14=^gArch Necromancer
+
+tagSkillClassNameMWar=^fMystic Warrior
+tagSkillClassName15=^fMystic Warrior
+
+tagSkillClassName16=^bDefense
+tagClassName01=^bDefense
+
+tagSkillClassName17=^bHunting
+tagClassName02=^bHunting
+
+tagSkillClassName18=^bSpirit
+tagClassName03=^bSpirit
+
+tagSkillClassName19=^bWarfare
+tagClassName04=^bWarfare
+
+tagSkillClassName20=^bNature
+tagClassName05=^bNature
+
+tagSkillClassName21=^bRogue
+tagClassName06=^bRogue
+
+tagSkillClassName22=^bEarth
+tagClassName07=^bEarth
+
+tagSkillClassName23=^bStorm
+tagClassName08=^bStorm
+
+tagSkillClassName24=^bDream
+tagClassName09=^bDream
+
+tagSkillClassNameDemon=^pVoidcaller
+tagSkillClassName25=^pVoidcaller
+
+tagSkillClassNameEnch=^pGrove Keeper
+tagSkillClassName26=^pGrove Keeper
+
+tagSkillClassNameMerc=^fMercenary
+tagSkillClassName27=^fMercenary
+
+tagSkillClassNameCeno=^YCenobite
+tagSkillClassName28=^YCenobite
+
+tagSkillClassNameWD=^iWitch Doctor
+tagSkillClassName29=^iWitch Doctor
+
+tagSkillClassNameDH=^iDemon Hunter
+tagSkillClassName30=^iDemon Hunter
+
+
+#Parked
+#tagClassMaleficarName=^iMaleficar
+#tagClassStalkerName=^iStalker
+#tagSkillClassNameMage=^iMage
+#tagSkillClassName29=^iArlequin
+#Champion
+#Outrider
+#Riftstalker
+#tagSkillClassName15=^gIllusionist
+#tagSkillClassName27=^pEngineer
+#Necrotic

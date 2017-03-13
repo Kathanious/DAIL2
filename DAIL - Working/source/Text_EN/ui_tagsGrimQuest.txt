@@ -1,0 +1,67 @@
+#WeaponClass
+tagOffHand=Off-Hand
+tagShield=Shield
+
+tagOneHandedSword=One-Handed Sword
+tagOneHandedMace=One-Handed Mace
+tagOneHandedAxe=One-Handed Axe
+tagOneHandedDagger=One-Handed Dagger
+tagOneHandedScepter=One-Handed Scepter
+tagOneHandedPistol=One-Handed Ranged
+
+tagTwoHandedSword=Two-Handed Sword
+tagTwoHandedMace=Two-Handed Mace
+tagTwoHandedAxe=Two-Handed Axe
+tagTwoHandedRifle=Two-Handed Ranged
+
+tagSpear=Spear
+tagStaff=Staff
+tagCraftingSpears=SPEARS
+tagCraftingStaves=STAVES
+
+tagWeaponUnknown=Unknown
+
+tagDevotion_RequiresMagic=^o Requires a staff, scepter, dagger, or caster off-hand.
+
+tagDamageModifierSleep={%+.0f0}% {^E}Sleep Duration
+tagDefenseSleep={%.0f0}% {^E}Reduced Sleep Duration
+tagDefenseSleepModifier={%+.0f0}% {^E}Reduced Sleep Duration
+
+//racial ui//
+//this is only here for research//
+//tagRace001=Undead
+//tagRace002=Beastkin
+//tagRace003=Aetherial
+//tagRace004=Chthonic
+//tagRace005=Aether Corruption
+//tagRace006=Bloodsworn
+//tagRace007=Eldritch
+//tagRace008=Insectoid
+//tagRace009=Human
+//tagRace010=Construct
+//tagRace011=Riftspawn
+//tagRace012=Beast
+//tagRace013=Magical
+
+//tagRace014=Celestial
+
+//tagRace015=Arachnid
+//tagRace001P=Undead
+//tagRace002P=Beastkin
+//tagRace003P=Aetherials
+//tagRace004P=Chthonics
+//tagRace005P=Aether Corruptions
+//tagRace006P=Bloodsworn
+//tagRace007P=Eldritch
+//tagRace008P=Insectoids
+//tagRace009P=Humans
+//tagRace010P=Constructs
+//tagRace011P=Riftspawn
+//tagRace012P=Beasts
+//tagRace013P=Magical
+tagRace
+//014P=Celestial
+tagRace
+//015P=Arachnids
+
+//tagMindcontrolledMonster=Mind-controlled

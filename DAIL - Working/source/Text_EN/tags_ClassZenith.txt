@@ -1,0 +1,143 @@
+#CLASS ELEMENTALIST Zenith 02
+#ENUMERATION 12
+
+#CLASS TERROR KNIGHT Zenith 01
+#ENUMERATION 13
+
+
+#Descriptions
+
+tagSkillClassDescriptionZenith02=Traditionally, Elementalists were persons of entertainment in Elonis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
+tagSkillClassDescriptionZenith01=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
+
+#***********************************************************************************************************************************
+#TERROR KNIGHT
+
+tagZenith01SkillName00A=^lTerror Knight
+tagZenith01SkillDescription00A=A vanguard of chaos and carnage.
+
+tagZenith01SkillName01A=Banish
+tagZenith01SkillDescription01A=Smash your foe out of this life and into the next one. ^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
+tagZenith01SkillName01B=Blood Rage
+tagZenith01SkillDescription01B=Push yourself past your limits to crush your opponent beneath insurmountable power.
+tagZenith01SkillName01C=Smite
+tagZenith01SkillDescription01C="I threw down my enemy, and he fell from the high place, and broke the mountain-side where he smote it in his ruin."
+
+tagZenith01SkillName02A=Suit Up
+tagZenith01SkillDescription02A=Don armor worthy of a Knight of Enolis.
+tagZenith01SkillName02B=Hand Armor
+tagZenith01SkillName02C=Leg Armor
+tagZenith01SkillName02D=Torso Armor
+tagZenith01SkillName02E=Head Armor
+
+tagZenith01SkillName03A=Conquer
+tagZenith01SkillDescription03A=Proclaim your victory before a fight even starts.
+tagZenith01SkillName03B=Fortuna Adiuvat Fortis
+tagZenith01SkillDescription03B=Victory will come to those with great willpower; even if they stole it from others.
+
+tagZenith01SkillName04A=Engage
+tagZenith01SkillDescription04A=Your enemies need not come to you; you shall come to them. ^oRequires a melee weapon.
+tagZenith01SkillName04B=Deadly Assault
+tagZenith01SkillDescription04B=Charge forth with unyielding force.
+tagZenith01SkillName04C=Nowhere to Hide
+tagZenith01SkillDescription04C=Push your assault ever onward with heightened frequency.
+
+tagZenith01SkillName05A=Gore
+tagZenith01SkillDescription05A=Impale an enemy upon your weapon with ferocity to make the lesser-willed flee. ^oRequires a melee weapon.
+tagZenith01SkillName05B=Lust for Carnage
+tagZenith01SkillDescription05B=Slice apart your surrounding foes; grow empowered upon their demise. ^oRequires a two-handed melee weapon.
+tagZenith01SkillName05C=Carnivorous Slaughter
+tagZenith01SkillDescription05C=Obliterate a target with a tremendous show of strength, and feast upon the damage done. ^oRequires a two-handed melee weapon.
+
+tagZenith01SkillName06A=Blood Siphon
+tagZenith01SkillDescription06A=Terror Knights excel against groups of foes. You shall be no different.
+tagZenith01SkillName06B=Thirst
+tagZenith01SkillDescription06B=There is much vigor to take from your enemies, and you are quite thirsty. Drink on!
+
+tagZenith01SkillName07A=Well of Fears
+tagZenith01SkillDescription07A=Conjure a pool of terrific power that decays the rational thought of your enemies.
+tagZenith01SkillName07B=Swarm of Fears
+tagZenith01SkillDescription07B=Degrade the will of your foes to push on.
+
+tagZenith01SkillName08A=Soldier of Madness
+tagZenith01SkillDescription08A=While they further the spread of insanity, one must not forget that Terror Knights are just that - Knights, like any other.
+
+tagZenith01SkillName09A=Evocation of Terror
+tagZenith01SkillDescription09A=A weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world. ^oRequires a two-handed melee weapon.
+
+tagZenith01SkillName10A=Entropic Reign
+tagZenith01SkillDescription10A=Your foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
+
+#***********************************************************************************************************************************
+#ELEMENTALIST
+
+tagZenith02SkillName00A=^lElementalist
+tagZenith02SkillDescription00A=Tricks of the trade for conjuration and sorcery.
+
+tagZenith02SkillName01A=Ice Wall
+tagZenith02SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies. {^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
+
+tagZenith02SkillName02A=Fireball
+tagZenith02SkillDescription02A=Hurl a conglomeration of molten rock toward your enemies.
+tagZenith02SkillName02B=Barrage
+tagZenith02SkillDescription02B=Bury your opponents in an onslaught of volcanic stone.
+tagZenith02SkillName01C=Hellfire
+tagZenith02SkillDescription01C=The flames of hell are unrelenting in their assault.
+
+tagZenith02SkillName03A=Chain Lightning
+tagZenith02SkillDescription03A=Dazzle a crowd in an electrifying display of elementalism!
+tagZenith02SkillName03B=Restructure
+tagZenith02SkillDescription03B=Feed material energies into the power which surges from you.
+
+tagZenith02SkillName04A=Elemental Armoring
+tagZenith02SkillDescription04A=Your conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
+
+tagZenith02SkillName05A=Rider of the Storm
+tagZenith02SkillDescription05A=A maelstrom of the elements surround and empowers you.
+
+tagZenith02SkillName06A=Ice Surge
+tagZenith02SkillDescription06A=Condense the air ahead of you into shards of ice.
+tagZenith02SkillName06B=Cold Snap
+tagZenith02SkillDescription06B=The area around you snaps to frigidity, occasionally bursting out violently.
+
+tagZenith02SkillName07A=Frost Armor
+tagZenith02SkillDescription07A=Protect yourself with the strength of ice.
+
+tagZenith02SkillName08A=Flameblade
+tagZenith02SkillDescription08A=Originally used to wow crowds, this more potent sorcery is used to tear enemies asunder.
+
+tagZenith02SkillName09A=Breathe Fire
+tagZenith02SkillDescription09A=Another incendiary conjuration historically used for entertainment and now made to burn assailants to ash.
+tagZenith02SkillName09B=Exhumation
+tagZenith02SkillDescription09B=Your volcanic voice erodes the flesh of even the sturdiest of targets.
+
+tagZenith02SkillName10A=Stormcaller
+tagZenith02SkillDescription10A=The might of the Stormcaller God, Selik, is so great that nothing will persist in its presence for long. Likewise, however, calling upon such power is truly taxing on an individual.
+tagZenith02SkillName10B=Thunderclap
+tagZenith02SkillDescription10B=As your power increases, you grow more attuned to the might of Selik and so can sustain greater forces from the Stormcaller God for longer periods of time.
+
+tagZenith02SkillName11A=Sprite
+tagZenith02SkillDescription11A=A surge of intense thermal and electrical energies rains down upon your foes from the skies above, muting their very existence.
+
+tagZenith02SkillName12A=Rupture
+tagZenith02SkillDescription12A=Smash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
+tagZenith02SkillName12B=Fire Pillar
+tagZenith02SkillDescription12B=Scorching flames rocket out of the earth.
+
+tagZenith02SkillName13A=Citadel of Ice
+tagZenith02SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses. ^oThis skill immobilizes you for its duration. It will also end prematurely if you run out of Energy.
+
+tagZenith02SkillName14A=Fire Affinity
+tagZenith02SkillDescription14A=Flames can breathe new life into your being or scorch your enemies to cinder.
+tagZenith02SkillName14B=Lightning Affinity
+tagZenith02SkillDescription14B=Lightning can excite you to unparalleled levels or bring your enemies to a halt.
+tagZenith02SkillName14C=Cold Affinity
+tagZenith02SkillDescription14C=No armor is sturdier than that of ice, and no attacks hit harder than those likewise.
+
+tagZenith02SkillName15A=Refuel
+tagZenith02SkillDescription15A=Take from the arcane power of your enemies to further your own.
+
+tagZenith02SkillName16A=Elemental Flow
+tagZenith02SkillDescription16A=As your vitality comes and goes, so, too, do your offenses and defenses.
+
+

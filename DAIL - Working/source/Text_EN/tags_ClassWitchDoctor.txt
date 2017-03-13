@@ -1,0 +1,172 @@
+
+tagSkillClassName08=Witch Doctor
+tagSkillClassName0108=Witch Warrior
+tagSkillClassName0208=Pyrodoctor
+tagSkillClassName0308=Subjugator
+tagSkillClassName0408=Spiritual Slayer
+tagSkillClassName0508=Arcane Doctor
+tagSkillClassName0608=Beastmaster
+tagSkillClassName0708=Mystic Hunter
+
+tagSkillClassDescriptionWitchDoctor=Witch doctors are spiritual warriors who summon dead souls and crawling creatures to do their bidding. By surrounding themselves with conjured zombies, witch doctors are free to assault their enemies with deadly projectiles, toxic totems, and wasting curses.
+
+#ClassWitchDoctor
+tagClassWitchDoctorSkillName00=Witch Doctor
+tagClassWitchDoctorSkillDescription00="The spirits smile upon me."
+
+tagClassWitchDoctorSkillName01A=Poison Dart
+tagClassWitchDoctorSkillDescription01A=Shoot a deadly Poison Dart that deals piercing and acid damage.{^n}{^n}{^y}Bad Medicine {^o}(Unlocked at Skill Level 16){^n}^wPoison Dart also deals poison damage and reduces the total damage of enemies by 25% for 3 seconds.
+
+tagClassWitchDoctorSkillName01B=Splinters
+tagClassWitchDoctorSkillDescription01B=Gain additional darts that have a chance to pierce through enemies. The total damage of each Poison Dart is decreased though.
+
+tagClassWitchDoctorSkillName01C=Numbing Dart
+tagClassWitchDoctorSkillDescription01C=Shoot a frozen dart that deals additional cold damage and slows enemies for a few seconds. It also increases acid damage.
+
+tagClassWitchDoctorSkillName01D=Flaming Dart
+tagClassWitchDoctorSkillDescription01D=Ignite the dart, dealing fire and burn damage to enemies.
+
+tagClassWitchDoctorSkillName01E=Fetish Sycophants
+
+tagClassWitchDoctorSkillName02A=Corpse Spiders
+tagClassWitchDoctorSkillDescription02A=Throw a poisoned jar with a spider that attack nearby enemies, dealing piercing and acid damage.{^n}{^n}{^y}Widowmaker {^o}(Unlocked at Skill Level 16){^n}^wEach jar spawns 3 Black Widows at once.{^n}{^n}{^o}Corpse Spiders scale with player damage bonuses.
+
+tagClassWitchDoctorSkillName02B=Widow's Bite
+tagClassWitchDoctorSkillDescription02B=The spider bites the target, immobilizing him for a second, and dealing acid damage.
+
+tagClassWitchDoctorSkillName02C=Ring of Plagues
+tagClassWitchDoctorSkillDescription02C=An aura surrounds the spider, dealing poison damage to all nearby enemies.
+
+tagClassWitchDoctorSkillName02D=Blazing Bite
+
+tagClassWitchDoctorSkillName02E=Blazing Aura
+
+tagClassWitchDoctorSkillName02F=Blazing Nova
+
+tagClassWitchDoctorSkillName03A=Zombie Dogs
+tagClassWitchDoctorSkillDescription03A=Summon 3 Zombie Dogs from the depths to fight by your side. ^oZombie Dogs scale with pet bonuses.{^n}{^n}{^y}Damned Dogs {^o}(Unlocked at Skill Level 16){^n}^wEach Zombie Dog will be able to summon 1 Damned Dog. Damned Dogs live for 30 seconds. Every time you spawn a Zombie Dog, it will automatically summon a Damned Dog.
+
+tagClassWitchDoctorSkillName03B=Chilled to the Bone
+tagClassWitchDoctorSkillDescription03B=Launch a cold wave that deals damage to all enemies in front of the zombie dogs.
+
+tagClassWitchDoctorSkillName03C=Poisoned Bite
+
+tagClassWitchDoctorSkillName03D=Burning Dogs
+tagClassWitchDoctorSkillDescription03D=Your Zombie Dogs burst into flames, burning nearby enemies for a few seconds.
+
+tagClassWitchDoctorSkillName03E=Sacrifice
+
+tagClassWitchDoctorSkillName03F=Summon Damned Dogs
+
+tagClassWitchDoctorSkillName03G=Claws and Teeth
+
+tagClassWitchDoctorSkillName03H=Damnation
+
+tagClassWitchDoctorSkillName03I=Scorched Earth
+
+tagClassWitchDoctorSkillName04A=Firebats
+tagClassWitchDoctorSkillDescription04A=Launch a swarm of fiery bats to burn enemies in front of you.{^n}{^n}{^y}Cloud of Birds {^o}(Unlocked at Skill Level 12){^n}^wEverytime you attack enemies using Firebats, firebirds spawn to fly around you and strike enemies, dealing fire damage and burning them over 2 seconds. Firebirds live for 12 seconds. 
+
+tagClassWitchDoctorSkillName04B=Plague Bats
+tagClassWitchDoctorSkillDescription04B=Diseased bats fly towards the enemy and infect them, dealing poison damage over 3 seconds.
+
+tagClassWitchDoctorSkillName04C=Firebirds
+
+tagClassWitchDoctorSkillName05A=Horrify
+tagClassWitchDoctorSkillDescription05A=Summon spectral spirits that horrifies all enemies around you, causing them to tremor in fear and be immobilized for a second.{^n}{^n}{^y}Phobia {^o}(Unlocked at Skill Level 8){^n}^wEnemies run in fear after being immobilized.
+
+tagClassWitchDoctorSkillName06A=Soul Harvest
+tagClassWitchDoctorSkillDescription06A=Create a magical field that feeds on the life force of enemies, dealing vitality damage and vitality decay over 3 seconds. A percentage of the total damage dealt is converted to health.{^n}{^n}{^y}Vengeful Spirit {^o}(Unlocked at Skill Level 16){^n}^wGain a chance to enslave the soul of a dead enemy. Vengeful Spirit live for 30 seconds and scale with pet bonuses.
+
+tagClassWitchDoctorSkillName06B=Languish
+tagClassWitchDoctorSkillDescription06B=Reduces resistances and total speed of enemies for a few seconds.
+
+tagClassWitchDoctorSkillName06C=Slaved Soul
+
+tagClassWitchDoctorSkillName07A=Haunt
+tagClassWitchDoctorSkillDescription07A=Haunt an enemy with a spirit, dealing vitality damage per second. The spirit haunts another 2 nearby enemies after 2 seconds.{^n}{^n}{^y}Poisoned Spirit {^o}(Unlocked at Skill Level 12){^n}^wHaunt poisons enemies over 2 seconds.
+
+tagClassWitchDoctorSkillName07B=Consuming Spirit
+tagClassWitchDoctorSkillDescription07B=The spirit consumes enemies, dealing vitaly decay damage per second. It heals you for 25% of the damage dealt. It also increases Haunt's damage.{^n}{^n}{^y}Resentful Spirits {^o}(Unlocked at Skill Level 12){^n}^wWhile Haunt is active, spirits appear around the enemies, trapping them and dealing vitality damage over 3 seconds.
+
+tagClassWitchDoctorSkillName07C=Resentful Spirits
+
+tagClassWitchDoctorSkillName08A=Firebomb
+tagClassWitchDoctorSkillDescription08A=Lob an explosive skull that strike enemies, burning them over 2 seconds.{^n}{^n}{^y}Flash Fire {^o}(Unlocked at Skill Level 12){^n}^wAfter it explodes, Firebomb multiplies itself in 4 other bombs that bounce to nearby enemies and explodes, dealing 100% of Firebomb's damage each.
+ 
+tagClassWitchDoctorSkillName08B=Pyrogeist
+tagClassWitchDoctorSkillDescription08B=Create a fissure on the ground that spews fire at nearby enemies over 3 seconds, dealing fire and burn damage. Passively increases Firebomb damage.
+
+tagClassWitchDoctorSkillName09A=Spirit Barrage
+tagClassWitchDoctorSkillDescription09A=Launch a spirit bolt at enemies that deals cold damage and frostburn damage over 2 seconds.{^n}{^n}{^y}Manitou {^o}(Unlocked at Skill Level 12){^n}^wSummon a spectral creature that flies by your side, unleashing spirit bolts at nearby enemies for 10 seconds.
+
+tagClassWitchDoctorSkillName09B=Well of Souls
+tagClassWitchDoctorSkillDescription09B=Release additional spirit bolts on impact, dealing fire damage to other targets.
+
+tagClassWitchDoctorSkillName09C=Manitou
+
+tagClassWitchDoctorSkillName10A=Spirit Walk
+tagClassWitchDoctorSkillDescription10A=Enter in a deep state between your body and soul, becoming unvulnerable for 3 seconds.
+
+tagClassWitchDoctorSkillName10B=Healing Journey
+tagClassWitchDoctorSkillDescription10B=Gain bonus life regeneration and increased speed while Spirit Walk is activated.
+
+tagClassWitchDoctorSkillName11A=Acid Cloud
+tagClassWitchDoctorSkillDescription11A=Raise a toxic cloud from the ground that deals acid damage to enemies and poison them over 3 seconds.{^n}{^n}{^y}Acid Rain {^o}(Unlocked at Skill Level 12){^n}^wA toxic rain fall over the Acid Cloud, dealing half of Acid Cloud's damage by each drop.
+
+tagClassWitchDoctorSkillName11B=Kiss of Death
+tagClassWitchDoctorSkillDescription11B=Consumes the life of all enemies in area and reduces their strenghts.
+
+tagClassWitchDoctorSkillName11C=Acid Rain
+
+tagClassWitchDoctorSkillName12A=Mass Confusion
+tagClassWitchDoctorSkillDescription12A=Incite paranoia in enemies, confusing them and causing some to be charmed and fight for you for a few seconds.
+
+tagClassWitchDoctorSkillName13A=Wall of Death
+tagClassWitchDoctorSkillDescription13A=Raise a wall of zombies around the enemies, which chills and attacks them for a few seconds. ^oWall of Death scales with pet damage bonuses. {^n}{^n}{^y}Wall of Fire {^o}(Unlocked at Skill Level 12){^n}^wThe Wall of Death turns into a flaming wall that burns all enemies that pass through it.
+
+tagClassWitchDoctorSkillName13B=Zombie Army
+
+tagClassWitchDoctorSkillName13C=Frostdead Presence
+
+tagClassWitchDoctorSkillName14A=Spiritual Attunement
+tagClassWitchDoctorSkillDescription14A=Gives you bonus mana regeneration and increases the maximum energy.
+
+tagClassWitchDoctorSkillName15A=Spirit Vessel
+tagClassWitchDoctorSkillDescription15A=When you lose a certain amount of health, you automatically enter the spirit realm for 2 seconds, restoring a portion of your maximum life.
+
+tagClassWitchDoctorSkillName16A=Jungle Fortitude
+tagClassWitchDoctorSkillDescription16A=Reduces all damage taken by you, and increases the maximum life of your pets.
+
+tagClassWitchDoctorSkillName16B=Midnight Feast
+tagClassWitchDoctorSkillDescription16B=The damage of your pets is increased while the Jungle Fortitude is activated.
+
+tagClassWitchDoctorSkillName17A=Fetish Army
+tagClassWitchDoctorSkillDescription17A=Summon an army of 5 Fetish Warriors to fight by your side for 20 seconds. ^oFetish Army scales with pet damage bonuses.
+
+tagClassWitchDoctorSkillName17B=Tiki Torchers
+tagClassWitchDoctorSkillDescription17B=The Fetish Warriors summon Fetish Shamans to fight with them as long as they live.
+
+tagClassWitchDoctorSkillName17C=Fireball
+
+tagClassWitchDoctorSkillName17D=Fetish Savagery
+
+tagClassWitchDoctorSkillName17E=Decrepify
+
+Pets:
+
+tagPetFetish=Fetish Warrior
+tagPetFetishShaman=Fetish Shaman
+tagPetCorpseSpiders=Black Widow
+tagPetSpiderQueen=Spider Queen
+tagPetSummonDogs=Zombie Dogs
+tagPetTotemofPlagues=Totem of Plagues
+tagPetWallofDeath=Zombies
+tagPetWallofFire=Wall of Fire
+tagPetDamnedDogs=Damned Dogs
+
+
+
+
+
+

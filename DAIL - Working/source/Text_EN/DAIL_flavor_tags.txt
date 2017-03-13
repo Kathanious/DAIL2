@@ -1,0 +1,192 @@
+#Grimmest
+tagGrimmestZombieHeroH11=This Monster Has No Name
+tagGrimmestZombieHeroH12=Depravities, the Depraved
+tagGrimmestReanimatorHeroH01diseased=Aethoranest, this Diseased Monster Has No Name
+tagGrimmestReanimatorHeroH02unstoppable=Gollorgest, this Unstoppable Monster Has No Name
+tagGrimmestReanimatorHeroH03reflective=Corpsefire-est, this Reflective Monster Has No Name
+tagGrimmestReanimatorHeroH04defender=Azgaloggest, this Defender Has No Name
+tagGrimmestSamtarian_the_half=^pSamtarian, the Half-... 
+tagGrimmestHellfly01=^pHellfly, the Fly from Hell
+
+tagGrimmestNicholasBalthazar=Nick Barfazar
+tagGrimmestMoneybagsMartin="Moneybags" Farting
+tagGrimmestHalion=Failion, twisted pet master
+tagGrimmestHalionBonerat=I am not a cat
+tagGrimmestHalionCaticore=I am a caticore
+tagGrimmestLucius=Cloninus Wronginus
+tagGrimmestGazerIllumin=Lumi Puni
+tagGrimmestGazerMesmer=Misplaced Beachball
+
+tagGrimmestDermapteranBoss01=Vizier Xyletic
+tagGrimmestDermapteranBoss02=Vizier Yyletic
+tagGrimmestDermapteranBoss04=Vizier Zyletic
+tagGrimmestDermapteranBoss03=Princess Tick
+tagGrimmestDermapteranBoss05=Queen Tock
+
+tagGrimmestQuestWitchGod01=Dreeg's Assailer
+tagGrimmestQuestWitchGod02=Solael's Assailer
+tagGrimmestQuestWitchGod03=Bysmiel's Assailer
+
+tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
+tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
+#Ceno - ^oHarbinger of Zenith
+#Asylum - ^oTitan's Quester of Old
+#Draon Con Color - ^oStargazer
+#A Doom God - ^o from Cornucopia
+
+tagQuests=Active Quests (60.7B)
+
+#Top Left UI tag
+tagRDifficultyTitle01=Normal NG
+tagRDifficultyTitle02=Elite NG
+tagRDifficultyTitle03=Ultimate NG
+tagChallengeDifficulty=Veteran NG
+tagHardcore=Hardcore NG
+
+#Survival Header
+tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 60)
+tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 60)
+
+
+#Transmorg Smith
+tagNPC_transmogsmith=^oTibia the Tailor
+tagStoreTitle_transmogsmith=^rBony craftsman
+tagStoreDesc_transmog_1=Tibia uses ancient arkovian techniques 
+tagStoreDesc_transmog_2=to scam..ehm.. craft your equipment into legendary gear of old. No refunds.
+tagStoreDesc_transmog_3=
+tagStoreDesc_transmog_4=^gCompletion bonus:^r currently unavailable.
+tagTransmogScroll=Sexy Blueprint
+
+#Transmorg Cratebox
+tagConsumableTransmogDesc=^y"What's in the box?!?!" ^n^h -Last words of Master Millus, as he reached for the crate presented to him by Oswald Hargate at the Arcanum Society.
+tagConsumableTransmog=CrateBox
+
+
+#DAIL NEMESIS NOTIFIERS
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
+
+
+#DAIL STUFFS
+tagDAILgiftnpc01=^rDavoodinator
+tagDAILgiftnpc01A=^wStuffs
+
+tagDAILgiftnpc02=^rGriffisu
+tagDAILgiftnpc02A=^wMore Stuffs
+
+tagDAILgiftMat01=^sApprentice's Ambition^n^w(Use in amulets)
+tagDAILgiftMat01a=Rough Stone
+tagDAILgiftMat02=^sJourneyman's Skill^n^w(Use in amulets)
+tagDAILgiftMat02a=Polished stone 
+tagDAILgiftMat03=^sMaster's Wisdom^n^w(Use in amulets)
+tagDAILgiftMat03a=Precious stone
+
+tagConsumableBlueprintRibbonMedal01=Scribblings on Papyrus
+tagConsumableBlueprintRibbonMedal02=Notes on Hemp
+tagConsumableBlueprintRibbonMedal03=Poems on Parchment
+tagDAILmedal01=^yBronze Participation Award 
+tagDAILmedal02=^ySilver Participation Award
+tagDAILmedal03=^yGold Participation Award
+
+tagWeaponAxeD000=^iEdge of Lune
+
+tagDAILpetGroble=Gnebos of Derp
+
+tagDAILenchant001=^sWhen that pesky energy bar is holding you back.^n^w(Use in medals)
+tagDAILenchant001a=Power of Energy
+tagDAILenchant002=^sFor sheer raw damage.^n^w(Use in medals)
+tagDAILenchant002a=Power of Damage
+tagDAILenchant003=^sIf you need your skills more often.^n^w(Use in medals)
+tagDAILenchant003a=Power of Skill
+tagDAILenchant004=^sCan't touch this!^n^w(Use in medals)
+tagDAILenchant004a=Power of Panache
+tagDAILenchant005=^sTo interfere with your enemy's plan.^n^w(Use in medals)
+tagDAILenchant005a=Power of Dazing
+tagDAILenchant006=^sAttack its weak point for massive damage.^n^w(Use in medals)
+tagDAILenchant006a=Power of Critical
+tagDAILenchant007=^sImmovable object, meet unstoppable force.^n^w(Use in medals)
+tagDAILenchant007a=Power of Freedom
+tagDAILenchant008=^sBrewed from 100% real Elf eyes!^n^w(Use in medals)
+tagDAILenchant008a=Power of Ranged
+tagDAILenchant009=^sIt's no wall, but it'll help protect you from what you fear... everything.^n^w(Use in medals)
+tagDAILenchant009a=Power of Protection
+tagDAILenchant010=^sToo lazy to kill yourself? Let your minions do the hard work and pick up your loot.^n^w(Use in medals)
+tagDAILenchant010a=Power of Pets
+
+tagDAILenchantgeneric=^w(Use in medals)
+tagDAILenchant011=Acidic Aether
+tagDAILenchant012=Acidic Chaos
+tagDAILenchant013=Acidic Cold
+tagDAILenchant014=Acidic Fire
+tagDAILenchant015=Acidic Lightning
+tagDAILenchant016=Acidic Physical
+tagDAILenchant017=Acidic Piercing
+tagDAILenchant018=Acidic Vitality
+tagDAILenchant019=Aetherial Acid
+tagDAILenchant020=Aetherial Chaos
+tagDAILenchant021=Aetherial Cold
+tagDAILenchant022=Aetherial Fire
+tagDAILenchant023=Aetherial Lightning
+tagDAILenchant024=Aetherial Physical
+tagDAILenchant025=Aetherial Piercing
+tagDAILenchant026=Aetherial Vitality
+tagDAILenchant027=Chaotic Acid
+tagDAILenchant028=Chaotic Aether
+tagDAILenchant029=Chaotic Cold
+tagDAILenchant030=Chaotic Fire
+tagDAILenchant031=Chaotic Lightning
+tagDAILenchant032=Chaotic Physical
+tagDAILenchant033=Chaotic Piercing
+tagDAILenchant034=Chaotic Vitality
+tagDAILenchant035=Chilling Acid
+tagDAILenchant036=Chilling Aether
+tagDAILenchant037=Chilling Chaos
+tagDAILenchant038=Chilling Fire
+tagDAILenchant039=Chilling Lightning
+tagDAILenchant040=Chilling Physical
+tagDAILenchant041=Chilling Piercing
+tagDAILenchant042=Chilling Vitality
+tagDAILenchant043=Fiery Acid
+tagDAILenchant044=Fiery Aether
+tagDAILenchant045=Fiery Chaos
+tagDAILenchant046=Fiery Cold
+tagDAILenchant047=Fiery Lightning
+tagDAILenchant048=Fiery Physical
+tagDAILenchant049=Fiery Piercing
+tagDAILenchant050=Fiery Vitality
+tagDAILenchant051=Electrical Acid
+tagDAILenchant052=Electrical Aether
+tagDAILenchant053=Electrical Chaos
+tagDAILenchant054=Electrical Cold
+tagDAILenchant055=Electrical Fire
+tagDAILenchant056=Electrical Physical
+tagDAILenchant057=Electrical Piercing
+tagDAILenchant058=Electrical Vitality
+tagDAILenchant059=Corporeal Acid
+tagDAILenchant060=Corporeal Aether
+tagDAILenchant061=Corporeal Chaos
+tagDAILenchant062=Corporeal Cold
+tagDAILenchant063=Corporeal Fire
+tagDAILenchant064=Corporeal Lightning
+tagDAILenchant065=Corporeal Piercing
+tagDAILenchant066=Corporeal Vitality
+tagDAILenchant067=Penetrating Acid
+tagDAILenchant068=Penetrating Aether
+tagDAILenchant069=Penetrating Chaos
+tagDAILenchant070=Penetrating Cold
+tagDAILenchant071=Penetrating Fire
+tagDAILenchant072=Penetrating Lightning
+tagDAILenchant073=Penetrating Physical
+tagDAILenchant074=Penetrating Vitality
+tagDAILenchant075=Vital Acid
+tagDAILenchant076=Vital Aether
+tagDAILenchant077=Vital Chaos
+tagDAILenchant078=Vital Cold
+tagDAILenchant079=Vital Fire
+tagDAILenchant080=Vital Lightning
+tagDAILenchant081=Vital Physical
+tagDAILenchant082=Vital Piercing
