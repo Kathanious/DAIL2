@@ -1,0 +1,73 @@
+************************************
+Important! Do not skip!
+************************************
+In preparation for the expansion, some files have been renamed for compatability. Prior to installing 60.7, back-up saves, withdraw points from skills, and note your mastery investment level. Should you have a mastery that was 'reset' use a utility (such as GD Defiler) to refund your mastery points lost. It is safe to rechoose your previous masteries.
+
+The Mystic Warrior has been DAIL-ized. Again, remove skill points and note mastery investment to avoid complications.
+
+Moving forward, I am going to plan that the mastery limit will not increase beyond 30 and two slots must be reserved for expansion masteries. The idea to rotate masteries will come to an end and DAIL will choose 22 residents. This topic can be discussed in the [DAIL] - Discussion thread.
+
+Cornucopia has expanded into changing the bonuses gained by stats (Physique/Cunning/Spirit). Those changes exist in the EP install mode along with Cornucopia's epic and legendary item changes.
+
+************************************
+Concerning class imbalances in DAIL :
+************************************
+Classes are balanced by the producing dev as they see fit.
+
+Some classes are intended to be balanced for play in vanilla.
+
+Some classes are intended to be balanced for play in, more difficult, future content.
+
+Some classes are intended to be more powerful than vanilla skills for the pure joy of it.
+
+There are various installation options to provide a reasonable, yet enjoyable, challenge to various mastery/mastery combinations. If these options are not adequate, please provide feedback and additional modes may be created. This is the easiest fix i can provide other than overhauling someone's mastery.
+
+************************************
+Campaign mode install options:
+************************************
+
+[NG] - Vanilla mob density.
+
+[B] - Vanilla mob density with increased hero and boss spawns.
+
+[S] - Increased mob density with increased hero and boss spawns.
+
+[SD] - Increased mob density with normal hero and boss spawns.
+
+[X] - [B] with increased mob challenge.
+
+[SX] - [S] with increased mob challenge.
+
+[EP] - Experimental mode with Cornucopia stat changes.
+
+*************************************
+
+[DGA] and [Grim Dawn: Eternal] are automatically installed. 
+
+
+The mods in DAIL are there by permission, or the author has an open license. The authors of the mods retain creative ownership of the content. See the Features & Versions link for a complete listing of the mods and their authors.
+
+By installing DAIL you agree not to insert DAIL into bodily orifices unless prescribed by a physician.
+
+Links*******************************Links
+
+[DAIL] file hosting - http://www.nexusmods.com/grimdawn/mods/11/?
+
+[DAIL] file hosting and version archive -  https://mega.nz/#F!7gtklagR!lJMGZYcGv1vQ4oB2foSLfA 
+
+[DAIL] Bug reporting thread http://www.grimdawn.com/forums/showthread.php?t=46375
+
+[DAIL] Discussion thread http://www.grimdawn.com/forums/showthread.php?t=46376
+
+[DAIL] changelog and additional information - https://mega.nz/#F!OhcF1QyZ!uUXChcMrazf8qiRomqQ5cQ
+
+Grim Dawn DISCORD channel - http://www.grimdawn.com/forums/showthread.php?t=43768&highlight=discord
+
+Links********************************Links
+
+
+-K
+
+
+
+
