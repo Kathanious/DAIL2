@@ -1,0 +1,38 @@
+AttachPoint
+{
+    name   = "BladePFX"
+    origin = (0.000000, 0.000000, -0.647880)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "AxePFX"
+    origin = (0.000000, 0.000000, -0.947880)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Anchor1"
+    origin = (0.000000, 0.000000, -1.112029)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Anchor2"
+    origin = (0.000000, 0.000000, -0.447880)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "AxePFX"
+    entity = "Records\treasures\fx\itemfx\magicalfx\demonaxe_fx.dbr"
+}
+

@@ -1,0 +1,547 @@
+#NAME COMBINATIONS
+
+
+#SOLDIER
+tagSkillClassName0102=^tCommando
+tagSkillClassName0103=^tWitchblade
+tagSkillClassName0104=^tBlademaster
+tagSkillClassName0105=^tSpellsword
+tagSkillClassName0106=^tSpirit Guard
+tagSkillClassName0107=^tReaper
+tagSkillClassName0108=^tDragoon
+tagSkillClassName0109=^tDeath Knight
+tagSkillClassName0110=^tOrder of Bulwark
+tagSkillClassName0111=^tIce Lord
+tagSkillClassName0112=^tRadiant Shield
+tagSkillClassName0113=^tDoombringer
+tagSkillClassName0114=^tCorrupted
+tagSkillClassName0115=^tPretender
+#agSkillClassName0115=^tPretender
+tagSkillClassName0116=^tCenturion
+tagSkillClassName0117=^tHoplite
+tagSkillClassName0118=^tEmphatic Apparition
+tagSkillClassName0119=^tWarrior
+tagSkillClassName0120=^tBeastmaster
+tagSkillClassName0121=^tChaser
+tagSkillClassName0122=^tBastion
+tagSkillClassName0123=^tTempest
+tagSkillClassName0124=^tDream Striker
+tagSkillClassName0125=^tIdealist
+tagSkillClassName0126=^tAcolyte
+tagSkillClassName0127=^tBilly Badass
+#tagSkillClassName0127=^tMilitary Engineer
+tagSkillClassName0128=^tPaladin
+tagSkillClassName0129=^tWitch Warrior
+tagSkillClassName0130=^tInquisition's Hammer
+
+#DEMO
+tagSkillClassName0203=^tPyromancer
+tagSkillClassName0204=^tSaboteur
+tagSkillClassName0205=^t[ms]Sorcerer[fs]Sorceress
+tagSkillClassName0206=^tElementalist
+tagSkillClassName0207=^tEfreet
+tagSkillClassName0208=^tGunslinger
+tagSkillClassName0209=^t[ms]Infernus[fs]Inferna
+tagSkillClassName0210=^tHuoshi
+tagSkillClassName0211=^tForstburn Trooper
+tagSkillClassName0212=^tPyrokinetic
+tagSkillClassName0213=^tHorror
+tagSkillClassName0214=^tTerror
+tagSkillClassName0215=^tSharper
+tagSkillClassName0216=^tMechanic
+tagSkillClassName0217=^tTrapper
+tagSkillClassName0218=^tMaleficar
+tagSkillClassName0219=^tPyrotechnician
+tagSkillClassName0220=^tWugushi
+tagSkillClassName0221=^tRebel
+tagSkillClassName0222=^tDevastator
+tagSkillClassName0223=^tStormcutter
+tagSkillClassName0224=^tDreamcutter
+tagSkillClassName0225=^tStarfire
+tagSkillClassName0226=^tSacred Flame
+tagSkillClassName0227=^tSapper
+#tagSkillClassName0227=^tMunitions Expert
+tagSkillClassName0228=^tVanguard
+tagSkillClassName0229=^tPyrodoctor
+tagSkillClassName0230=^tPhoenix
+
+#OCCULTIST
+tagSkillClassName0304=^tWitch Hunter
+tagSkillClassName0305=^tWarlock
+tagSkillClassName0306=^t[ms]Witcher[fs]Witch
+tagSkillClassName0307=^tDemonologist
+tagSkillClassName0308=^tDemon Hunter
+tagSkillClassName0309=^tRiftmancer
+tagSkillClassName0310=^tOrder of Cthon
+tagSkillClassName0311=^tSkullknight
+tagSkillClassName0312=^tBlood Elemental
+tagSkillClassName0313=^tHexblade
+tagSkillClassName0314=^tCthonic Lich
+tagSkillClassName0315=^tMystic
+tagSkillClassName0316=^tBlighter
+tagSkillClassName0317=^tBloodreaver
+tagSkillClassName0318=^tTheurgist
+tagSkillClassName0319=^tJusticar
+tagSkillClassName0320=^tPlague Doctor
+tagSkillClassName0321=^tFleshshaper
+tagSkillClassName0322=^tWitch Doctor
+tagSkillClassName0323=^tBloodrain
+tagSkillClassName0324=^tCabalist
+tagSkillClassName0325=^tPsionicist
+tagSkillClassName0326=^tMinstrel
+tagSkillClassName0327=^tBoogeyman
+#tagSkillClassName0327=^tWarper
+tagSkillClassName0328=^tThe Doubting One
+tagSkillClassName0329=^tSubjugator
+tagSkillClassName0330=^tSky Fallen
+
+#NIGHTBLADE
+tagSkillClassName0405=^tSpellbreaker
+tagSkillClassName0406=^tTrickster
+tagSkillClassName0407=^tDread Assassin
+tagSkillClassName0408=^tStalker
+tagSkillClassName0409=^tMystic Assassin
+tagSkillClassName0410=^tOrder of Shadows
+tagSkillClassName0411=^tShadow Knight
+tagSkillClassName0412=^tWizard Slayer
+tagSkillClassName0413=^tTerrorblade
+tagSkillClassName0414=^t[ms]Incubus[fs]Succubus
+tagSkillClassName0415=^tPhantom
+tagSkillClassName0416=^tBlackguard
+tagSkillClassName0417=^tFiendhunter
+tagSkillClassName0418=^tWithering Shadow
+tagSkillClassName0419=^tSword Master
+tagSkillClassName0420=^tEmissary
+tagSkillClassName0421=^tAssassin
+tagSkillClassName0422=^tStratoblade
+tagSkillClassName0423=^tAzurewrath
+tagSkillClassName0424=^tPlaneshifter
+tagSkillClassName0425=^tStarblade
+tagSkillClassName0426=^tSpellblade
+tagSkillClassName0427=^tHitman
+#tagSkillClassName0427=^tDiversionist
+tagSkillClassName0428=^tAnathema
+tagSkillClassName0429=^tSpiritual Slayer
+tagSkillClassName0430=^tBlade Archon
+
+#ARCANIST
+tagSkillClassName0506=^tDruid
+tagSkillClassName0507=^tArch Wizard
+tagSkillClassName0508=^tArcane Archer
+tagSkillClassName0509=^tChanneler
+tagSkillClassName0510=^tOrder of Aetheria
+tagSkillClassName0511=^tFrost Magister
+tagSkillClassName0512=^tArchon
+tagSkillClassName0513=^tEldritch Knight
+tagSkillClassName0514=^tAetherial Lich
+tagSkillClassName0515=^tMirage
+tagSkillClassName0516=^tShieldmage
+tagSkillClassName0517=^tArcane Tracker
+tagSkillClassName0518=^tExorcist
+tagSkillClassName0519=^tBattlemage
+tagSkillClassName0520=^tAvatar of Life
+tagSkillClassName0521=^tArcane Assassin
+tagSkillClassName0522=^tAvatar of Flame
+tagSkillClassName0523=^tAvatar of Thunder
+tagSkillClassName0524=^tProdigy
+tagSkillClassName0525=^tAstrologer
+tagSkillClassName0526=^tSpellweaver
+tagSkillClassName0527=^t[ms]Valkre[fs]Valkrie
+#tagSkillClassName0527=^tInventor
+tagSkillClassName0528=^tInquisitor
+tagSkillClassName0529=^tArcane Doctor
+tagSkillClassName0530=^tMagister
+
+#SHAMAN
+tagSkillClassName0607=^tSpirit Walker
+tagSkillClassName0608=^tWarder
+tagSkillClassName0609=^tHedge Wizard
+tagSkillClassName0610=^tFist of Fury
+tagSkillClassName0611=^tIce Warden
+tagSkillClassName0612=^tElements Keeper
+tagSkillClassName0613=^tWrath Knight
+tagSkillClassName0614=^tOsteomancer
+tagSkillClassName0615=^tMindbender
+tagSkillClassName0616=^tWarlord
+tagSkillClassName0617=^tStorm Rider
+tagSkillClassName0618=^tConfessor
+tagSkillClassName0619=^tChieftain
+tagSkillClassName0620=^tShapeshifter
+tagSkillClassName0621=^tMarauder
+tagSkillClassName0622=^tVulcanist
+tagSkillClassName0623=^tStormcaller
+tagSkillClassName0624=^tSadhu
+tagSkillClassName0625=^tSwami
+tagSkillClassName0626=^tAuramancer
+tagSkillClassName0627=^tGuerilla
+#tagSkillClassName0627=^tWayward Inventor
+tagSkillClassName0628=^tSpirit Shield
+tagSkillClassName0629=^tBeastmaster
+tagSkillClassName0630=^tIxion
+
+#NECRO
+tagSkillClassName0708=^tWitcher
+tagSkillClassName0709=^tLich
+tagSkillClassName0710=^tOrder of the Dead
+tagSkillClassName0711=^tFrost Death Knight
+tagSkillClassName0712=^tDeath Elemental
+tagSkillClassName0713=^tDreadful Revenant
+tagSkillClassName0714=^tDemi-Lich
+tagSkillClassName0715=^tPhantasm
+tagSkillClassName0716=^tTomb Warden
+tagSkillClassName0717=^tBonehunter
+tagSkillClassName0718=^tAnimancer
+tagSkillClassName0719=^tAsh Warrior
+tagSkillClassName0720=^tChloromancer
+tagSkillClassName0721=^tAsh Wraith
+tagSkillClassName0722=^tGravedigger
+tagSkillClassName0723=^tStorm Wraith
+tagSkillClassName0724=^tBoneweaver
+tagSkillClassName0725=^tVoidcaster
+tagSkillClassName0726=^tPale Charmer
+tagSkillClassName0727=^tBig Boned
+#tagSkillClassName0727=^tNecrotechnomancer
+tagSkillClassName0728=^tFallen Champion
+tagSkillClassName0729=^tPuppet Master
+tagSkillClassName0730=^tDeath Mystic
+
+#RANGER
+tagSkillClassName0809=^tMystic Ranger
+tagSkillClassName0810=^tOrder of the Bow
+tagSkillClassName0811=^tFrost Warden
+tagSkillClassName0812=^tPrismatic Warden
+tagSkillClassName0813=^tHex Warden
+tagSkillClassName0814=^tUnholy Archer
+tagSkillClassName0815=^tFey Trickster
+tagSkillClassName0816=^tDreadnaught
+tagSkillClassName0817=^tDeadeye
+tagSkillClassName0818=^tSoul Hunter
+tagSkillClassName0819=^tMarksman
+tagSkillClassName0820=^tFalconer
+tagSkillClassName0821=^tShadehunter
+tagSkillClassName0822=^tPathfinder
+tagSkillClassName0823=^tWindstorm
+tagSkillClassName0824=^tTormentor
+tagSkillClassName0825=^tHorizon Walker
+tagSkillClassName0826=^tNature Whisperer
+tagSkillClassName0827=^tSpecial Forces
+#tagSkillClassName0827=^tCombat Engineer
+tagSkillClassName0828=^t[ms]Battle Priest[fs]Battle Priestess
+tagSkillClassName0829=^tCursed Arrow
+tagSkillClassName0830=^tMoonscythe
+
+#CORONUS
+tagSkillClassName0910=^tDemiurge
+tagSkillClassName0911=^tLegionnaire
+tagSkillClassName0912=^tMaster of The Elements
+tagSkillClassName0913=^tOverlord
+tagSkillClassName0914=^tArch Lich
+tagSkillClassName0915=^tShadow Binder
+#tagSkillClassName0915=^tShadow Binder
+tagSkillClassName0916=^tFlesh Guardian
+tagSkillClassName0917=^tOverseer
+tagSkillClassName0918=^tSoul-Binder
+tagSkillClassName0919=^tTainted Vanguard
+tagSkillClassName0920=^tPoxbane
+tagSkillClassName0921=^tDark Commander
+tagSkillClassName0922=^tGrave Lord
+tagSkillClassName0923=^tSusanoo
+tagSkillClassName0924=^tMediator
+tagSkillClassName0925=^tEmpyrean Shroud
+tagSkillClassName0926=^t[ms]Orpheus[fs]Orpheya
+tagSkillClassName0927=^tPuppeteer
+#tagSkillClassName0927=^tReanimator
+tagSkillClassName0928=^tLimbo Warden
+tagSkillClassName0929=^tPuppet Master
+tagSkillClassName0930=^tVoid Channeler
+
+#FANGSHI
+tagSkillClassName1011=^tOrder of the Frost
+tagSkillClassName1012=^tChi Master
+tagSkillClassName1013=^tDanshi
+tagSkillClassName1014=^tFist of Final Verdict
+tagSkillClassName1015=^tOrder of the Eye
+tagSkillClassName1016=^tOrder of the Arm
+tagSkillClassName1017=^tOrder of the Hunt
+tagSkillClassName1018=^tChakra Master
+tagSkillClassName1019=^tKensai
+tagSkillClassName1020=^tHermit
+tagSkillClassName1021=^tOrder of Shadow
+tagSkillClassName1022=^tFist of Justice
+tagSkillClassName1023=^tFist of Wrath
+tagSkillClassName1024=^tDream Walker
+tagSkillClassName1025=^tKleromant
+tagSkillClassName1026=^tBushi
+tagSkillClassName1027=^tBladedancer
+#tagSkillClassName1027=^tArtificer
+tagSkillClassName1028=^tDaoshi
+tagSkillClassName1029=^tDark Chi
+tagSkillClassName1030=^tOrder of the Nether
+
+#FROST KNIGHT
+tagSkillClassName1112=^tCryomancer
+tagSkillClassName1113=^tFrostmare
+tagSkillClassName1114=^tHypothermist
+tagSkillClassName1115=^tAurora Knight
+tagSkillClassName1116=^tRimeguard
+tagSkillClassName1117=^tMistrover
+tagSkillClassName1118=^tFrost Revenant
+tagSkillClassName1119=^tFrostbringer
+tagSkillClassName1120=^tTaiga
+tagSkillClassName1121=^tSwashbuckler
+tagSkillClassName1122=^tAvalanche
+tagSkillClassName1123=^tMaelstorm
+tagSkillClassName1124=^tCryokineticist
+tagSkillClassName1125=^tStellar Crystalist
+tagSkillClassName1126=^tWinter Doctor
+tagSkillClassName1127=^tCold Blooded Killer
+#tagSkillClassName1127=^tWinter Technician
+tagSkillClassName1128=^tBoreal Paladin
+tagSkillClassName1129=^tCursed Cold
+tagSkillClassName1130=^tNether Knight
+
+#ELEMENTALIST
+tagSkillClassName1213=^tDistressor
+tagSkillClassName1214=^tInvoker
+tagSkillClassName1215=^tElemental Preemptor
+tagSkillClassName1216=^tAegis of Elements
+tagSkillClassName1217=^tConflux Sentinel
+tagSkillClassName1218=^tOnmyoji
+tagSkillClassName1219=^tDervish
+tagSkillClassName1220=^tPrism of Venom
+tagSkillClassName1221=^tAbjurer
+tagSkillClassName1222=^tFlamecaller
+tagSkillClassName1223=^tElemental Stormbringer
+tagSkillClassName1224=^tMentalist
+tagSkillClassName1225=^t[ms]Equilibrium Lord[fs]Equilibrium Lady
+tagSkillClassName1226=^tPrismatist
+tagSkillClassName1227=^tPrismatic Blade
+#tagSkillClassName1227=^tChemist
+tagSkillClassName1228=^tFluomant
+tagSkillClassName1229=^tCursed Elementals
+tagSkillClassName1230=^tElemental Riftmancer
+
+#TERROR KNIGHT
+tagSkillClassName1314=^tDoomlord
+tagSkillClassName1315=^tNightmare
+#tagSkillClassName1315=^tNightmare
+tagSkillClassName1316=^tDark Guardian
+tagSkillClassName1317=^tDesolator
+tagSkillClassName1318=^tDementor
+tagSkillClassName1319=^tBerserker
+tagSkillClassName1320=^tToxificator
+tagSkillClassName1321=^tNight Terror
+tagSkillClassName1322=^tFlame Knight
+tagSkillClassName1323=^tMyrmidon
+tagSkillClassName1324=^tFear Eater
+tagSkillClassName1325=^tMadness Knight
+tagSkillClassName1326=^tHoly Terror
+tagSkillClassName1327=^tDeath Edge
+#tagSkillClassName1327=^tBloodsmith
+tagSkillClassName1328=^tDark Paladin
+tagSkillClassName1329=^tBoogeyman
+tagSkillClassName1330=^tAbyssal Magi
+
+#ARCH NECRO
+tagSkillClassName1415=^tNecro Binder
+tagSkillClassName1416=^tBulwark of Death
+tagSkillClassName1417=^tBonestalker
+tagSkillClassName1418=^tBanshee
+tagSkillClassName1419=^tRevenant Vanguard
+tagSkillClassName1420=^tCorrosionist
+tagSkillClassName1421=^tDeathblade
+tagSkillClassName1422=^tTomblich
+tagSkillClassName1423=^tWind of Death
+tagSkillClassName1424=^tTainted Mindbearer
+tagSkillClassName1425=^tDoomed
+tagSkillClassName1426=^tCorruptor
+tagSkillClassName1429=^tSpooker
+#tagSkillClassName1427=^tCorruptor of Metal
+tagSkillClassName1427=^tBone Blade
+tagSkillClassName1428=^tDark Redeemer
+tagSkillClassName1429=^tSpooker
+tagSkillClassName1430=^tVoice of the Abyss
+
+#ILLUSIONIST
+#tagSkillClassName1516=^tSpellbinding Defender
+#tagSkillClassName1517=^tTrapmaster
+#tagSkillClassName1518=^tEidolon
+#tagSkillClassName1519=^tSwiftblade
+#tagSkillClassName1520=^tWanderer
+#tagSkillClassName1521=^tNinja
+#tagSkillClassName1522=^tKindred
+#tagSkillClassName1523=^tMistclouder
+#tagSkillClassName1524=^tSkald
+#tagSkillClassName1525=^t[ms]Almucantar[fs]Almucantara
+#tagSkillClassName1526=^tDemagouge
+#tagSkillClassName1527=^tGadgeteer
+#tagSkillClassName1528=^tTower of ID
+#tagSkillClassName1529=^tShadowmancer
+#tagSkillClassName1530=^tBasilisk
+
+#Mystic Warrior
+tagSkillClassName1516=^tSpellbinding Defender
+tagSkillClassName1517=^tTrapmaster
+tagSkillClassName1518=^tEidolon
+tagSkillClassName1519=^tSwiftblade
+tagSkillClassName1520=^tWanderer
+tagSkillClassName1521=^tNinja
+tagSkillClassName1522=^tKindred
+tagSkillClassName1523=^tMistclouder
+tagSkillClassName1524=^tSkald
+tagSkillClassName1525=^t[ms]Almucantar[fs]Almucantara
+tagSkillClassName1526=^tDemagouge
+tagSkillClassName1527=^tFreelance
+tagSkillClassName1528=^tTower of ID
+tagSkillClassName1529=^tShadowmancer
+tagSkillClassName1530=^tBasilisk
+
+
+#DEFENSE
+tagSkillClassName1617=^tAetherial Defender
+tagSkillClassName1618=^tAetherial Hunter
+tagSkillClassName1619=^tAetherial Conquerer
+tagSkillClassName1620=^tAetherial Guardian
+tagSkillClassName1621=^tAetherial Corsair
+tagSkillClassName1622=^tAetherial Juggernaut
+tagSkillClassName1623=^tAetherial Stormtrooper
+tagSkillClassName1624=^tAetherial Templar
+tagSkillClassName1625=^tAetherial Demon
+tagSkillClassName1626=^tAetherial Corruption
+tagSkillClassName1627=^tAetherial Bastard
+#tagSkillClassName1627=^tTechnician
+tagSkillClassName1627=^tCombat Master
+tagSkillClassName1628=^tDivine Aetherial
+tagSkillClassName1629=^tAetherial Medicineman
+tagSkillClassName1630=^tAetherial Hunter
+
+#HUNTING
+tagSkillClassName1718=^tBone Charmer
+tagSkillClassName1719=^tSlayer
+tagSkillClassName1720=^tRanger
+tagSkillClassName1721=^tBrigand
+tagSkillClassName1722=^tAvenger
+tagSkillClassName1723=^tSage
+tagSkillClassName1724=^tHaruspex
+tagSkillClassName1725=^tPioneer
+tagSkillClassName1726=^tPawang
+#tagSkillClassName1727=^tTechnotracer
+tagSkillClassName1727=^tGreen Berret
+tagSkillClassName1728=^tOathbound
+tagSkillClassName1729=^tHippy
+tagSkillClassName1730=^tDark Pawang
+
+#SPIRIT
+tagSkillClassName1819=^tRevenant
+tagSkillClassName1820=^tSoothsayer
+tagSkillClassName1821=^tSouldrinker
+tagSkillClassName1822=^tConjurer
+tagSkillClassName1823=^tOracle
+tagSkillClassName1824=^tDiabolist
+tagSkillClassName1825=^tThanatotheurge
+tagSkillClassName1826=^tSoul Weaver
+tagSkillClassName1827=^tPoltergeist
+#tagSkillClassName1827=^tEnsouler
+tagSkillClassName1828=^tSeraphim
+tagSkillClassName1829=^tPoltergeist
+tagSkillClassName1830=^tDark Caller
+
+#WARFARE
+tagSkillClassName1920=^tNomad
+tagSkillClassName1921=^tExecutioner
+tagSkillClassName1922=^tEarthshaker
+tagSkillClassName1923=^tTyphoon
+tagSkillClassName1924=^tHarbinger
+tagSkillClassName1925=^tShooting Star
+tagSkillClassName1926=^tChaplain
+#tagSkillClassName1927=^tSapper
+tagSkillClassName1927=^tLandsknecht
+tagSkillClassName1928=^tHoly Warrior
+tagSkillClassName1929=^tCaptain Dead
+tagSkillClassName1930=^tWar Mage
+
+#NATURE
+tagSkillClassName2021=^tIllusionist
+tagSkillClassName2022=^tSummoner
+tagSkillClassName2023=^tWrath of Gaia
+tagSkillClassName2024=^tRitualist
+tagSkillClassName2025=^tAdventurer
+tagSkillClassName2026=^tHierophant
+tagSkillClassName2027=^tBruiser
+#tagSkillClassName2027=^tForest Tinker
+tagSkillClassName2028=^t[ms]Priest [fs]Priestess
+tagSkillClassName2029=^tSwamp Dweller
+tagSkillClassName2030=^tGrand Druid
+
+#STEALTH
+tagSkillClassName2122=^tMagician
+tagSkillClassName2123=^tSorcerer
+tagSkillClassName2124=^tDreamkiller
+tagSkillClassName2125=^tDreamer
+tagSkillClassName2126=^tBard
+#tagSkillClassName2127=^tTinker
+tagSkillclassName2127=^tShadow
+tagSkillClassName2128=^tWicked Apostle
+tagSkillClassName2129=^tCursed Shadows
+tagSkillClassName2130=^tShadoweaver
+
+#EARTH
+tagSkillClassName2223=^tTectonist
+tagSkillClassName2224=^tEvoker
+tagSkillClassName2225=^tMeteor Mage
+tagSkillClassName2226=^tBright Flame
+tagSkillClassName2227=^tFirebrand
+#tagSkillClassName2227=^tFlame Dancer
+tagSkillClassName2228=^tCelestial Molder
+tagSkillClassName2229=^tCursed Earth
+tagSkillClassName2230=^tMagmiliar
+
+#STORM
+tagSkillClassName2324=^tProphet
+tagSkillClassName2325=^tJupiter
+tagSkillClassName2326=^tConductor
+tagSkillClassName2327=^tElectromancer
+tagSkillClassName2328=^tThunder Gale
+tagSkillClassName2329=^tBoomer
+tagSkillClassName2330=^tThunder Mage
+
+#DREAM
+tagSkillClassName2425=^tAberrant Mind
+tagSkillClassName2426=^tChanter
+tagSkillClassName2427=^tPsychopath
+#tagSkillClassName2427=^tErudite
+tagSkillClassName2428=^tDiviner
+tagSkillClassName2429=^tCursed Dreams
+tagSkillClassName2430=^tAetherial Magister
+
+#VOIDCALLER
+tagSkillClassName2526=^t[ms]Astrum[fs]Astris
+#tagSkillClassName2527=^tAstromancer
+tagSkillClassName2527=^tNihlist
+tagSkillClassName2528=^tEnlightened
+tagSkillClassName2529=^tDevil's Advocate
+tagSkillClassName2530=^tNujoom
+
+#ENCHANTER
+#tagSkillClassName2627=^tTechnomancer
+tagSkillClassName2627=^tPilgrim
+tagSkillClassName2628=^tCleric
+tagSkillClassName2629=^tTwisted Pine
+tagSkillClassName2630=^tHelpful Braggart
+
+#ENGINEER
+#tagSkillClassName2728=^tMedic
+#tagSkillClassName2729=^tCursed Machine
+#tagSkillClassName2730=^tWarcaster
+
+#Mercenary
+tagSkillClassName2728=^tHoly Ghost
+tagSkillClassName2729=^tAcolyte
+tagSkillClassName2730=^tDemonslayer
+
+#CENOBITE
+tagSkillClassName2829=^tYin Yang
+tagSkillClassName2830=^tAnchorite
+
+#DEMON HUNTER
+tagSkillClassName2930=^tFiend Hunter

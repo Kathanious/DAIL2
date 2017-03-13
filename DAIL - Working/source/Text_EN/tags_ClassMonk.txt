@@ -1,0 +1,110 @@
+
+tagSkillClassName09=Monk
+tagSkillClassName0109=Punisher
+tagSkillClassName0209=Lightbringer
+tagSkillClassName0309=Lifedealer
+tagSkillClassName0409=Windrunner
+tagSkillClassName0509=Thaumaturge
+tagSkillClassName0609=Thunderlord
+tagSkillClassName0709=Holy Hunter
+tagSkillClassName0809=Priest
+
+tagSkillClassDescriptionMonk=Monks are sacred warriors who channel divine power through sheer force of will. Healing waves, mantras of protection and attacks empowered with holy might are all within their purview.
+
+#ClassMonk
+tagClassMonkSkillName00=Monk
+tagClassMonkSkillDescription00="The gods guide me. You cannot win."
+
+tagClassMonkSkillName01A=Fists of Thunder
+tagClassMonkSkillDescription01A=Energize yourself with the bless of thunder, empowering every third strike dealt to enemies. ^oRequires a melee weapon.{^n}{^n}{^y}Wind Blast {^o}(Unlocked at Skill Level 16){^n}^wEvery third strike freezes enemies for 1 second.
+tagClassMonkSkillName01B=Thunderclap
+tagClassMonkSkillDescription01B=The empowered strike releases an electric chain that deals lightning damage to multiple targets. Thunderclap has a chance to knockback enemies.
+tagClassMonkSkillName01C=Bounding Light
+tagClassMonkSkillDescription01C=Every third hit also strikes the target with a holy fiery power, dealing fire damage to multiple enemies in front of you.
+tagClassMonkSkillName01D=Two-Handed Broken Skill
+tagClassMonkSkillDescription01D=Two-Handers needed a buff. ^oThis technique requires a two-handed weapon, melee or ranged.
+
+tagClassMonkSkillName02A=Wave of Light
+tagClassMonkSkillDescription02A=Launch a wave of light that strikes enemies with lightning damage. ^oRequires a melee weapon.{^n}{^n}{^y}Wall of Light {^o}(Unlocked at Skill Level 16){^n}^wWave of Light stuns enemies for 1 second.
+tagClassMonkSkillName02B=Shattering Light
+tagClassMonkSkillDescription02B=Charge the wave with a electric force that electrocutes enemies over 3 seconds.
+tagClassMonkSkillName02C=Empowered Wave
+tagClassMonkSkillDescription02C=Increases the damage of Wave of Light.
+
+tagClassMonkSkillName03A=Blinding Flash
+tagClassMonkSkillDescription03A=Create a flash of light that blinds all enemies around you for a few seconds. Blinded enemies has a chance to miss with melee and ranged attacks. Blinding Flash can cause confusion to enemies as well.{^n}{^n}{^y}Crippling Light {^o}(Unlocked at Skill Level 12){^n}^wBlinding Flash reduces the total damage of blinded enemies by 30%.
+tagClassMonkSkillName03B=Totally Not Entangling Vines
+tagClassMonkSkillDescription03B=The not Grasping Vines get better at whatever it is they do.
+
+tagClassMonkSkillName04A=Tempest Rush
+tagClassMonkSkillDescription04A=Surround yourself with an electric energy that increases your movement speed and periodically deals lightning damage to nearby enemies.{^n}{^n}{^y}Bluster {^o}(Unlocked at Skill Level 12){^n}^wEnemies hit are knocked down and deal 20% reduced damage for 4 seconds.
+
+tagClassMonkSkillName04B=Flurry
+tagClassMonkSkillDescription04B=Periodically causes an icy blast to nearby enemies, with a chance to freeze them for 2 seconds.
+
+tagClassMonkSkillName05A=Resolve
+tagClassMonkSkillDescription05A=Damage you deal reduces enemy damage for 1.5 second.
+
+tagClassMonkSkillName06A=Breath of Heaven
+tagClassMonkSkillDescription06A=A blast of divine energy heals you and nearby allies.
+
+tagClassMonkSkillName06B=Blazing Wrath
+tagClassMonkSkillDescription06B=Increase the damage of you and your allies for a few seconds.
+
+tagClassMonkSkillName07A=Dashing Strike
+tagClassMonkSkillDescription07A=Blink to a target, dealing your weapon damage to the target and closest enemies. Dashing Strike has no cooldown, level it up reduces its energy cost and increases the dodge chance from its passive. {^n}{^n}{^b}Blinding Speed {^o}(Passive){^n}^wYou gain a chance to dodge from enemies attacks for 4 seconds after using Dashing Strike.{^n}{^n}{^y}Radiance {^o}(Unlocked at Skill Level 8){^n}^wBlinding Speed grants you 15% increased attack speed for 4 seconds.
+
+
+tagClassMonkSkillName07B=Blinding Speed
+
+tagClassMonkSkillName08A=Crippling Wave
+tagClassMonkSkillDescription08A=Unleash a sweeping attack that deals physical damage to all enemies in front of you, slowing them for 2 seconds.{^n}{^n}{^y}Breaking Wave {^o}(Unlocked at Skill Level 16){^n}^wReduces the enemies physical resistance by 25% for 3 seconds.
+tagClassMonkSkillName08B=Tsunami
+tagClassMonkSkillDescription08B=Increases the range of Crippling Wave and freezes enemies, dealing frostburn damage over 2 seconds.
+
+tagClassMonkSkillName09A=Exploding Strike
+tagClassMonkSkillDescription09A=Hit an enemy with a powerful strike, causing bleeding damage for 3 seconds. ^oRequires a two-handed melee weapon.{^n}{^n}^rExploding Palm only works with Fists of Thunder or any default weapon attack skill from another class.
+
+tagClassMonkSkillName10A=Cyclone Strike
+tagClassMonkSkillDescription10A=Release a furious blast of energy that deals physical and lightning damage to all enemies around you.{^n}{^n}{^y}Wall of Wind {^o}(Unlocked at Skill Level 16){^n}^wEnemies are frozen for 1.5 second.
+
+tagClassMonkSkillName10B=Sunblast
+tagClassMonkSkillDescription10B=Strike enemies with a larger explosion that deals additional fire damage to enemies.
+
+tagClassMonkSkillName11A=Way of the Hundred Fists
+tagClassMonkSkillDescription11A=Unleash a rapid serie of attacks, dealing physical damage to enemies within a short space of time. ^oThis is a dual wielding melee technique. Also enables the ability to dual wield melee weapons.{^n}{^n}{^y}Hands of Lightning {^o}(Unlocked at Skill Level 8){^n}^wThe serie of attacks deals additional lightning damage and stuns enemies for 2 seconds.{^n}{^n}^rWay of The Hundred Fists only works with Fists of Thunder or any default weapon attack skill from another class.
+
+tagClassMonkSkillName12A=Serenity
+tagClassMonkSkillDescription12A=You are enveloped in a protective shield that absorbs all incoming damage for 3 seconds and grants resistance to control impairing effects.{^n}{^n}{^y}Peaceful Repose {^o}(Unlocked at Skill Level 10){^n}^wSerenity heals you by 40% of your maximum life.
+
+tagClassMonkSkillName13A=Sweeping Wind
+tagClassMonkSkillDescription13A=Surround yourself in a vortex that continuously deals cold damage to all enemies around you and slows them for 2 seconds.
+
+tagClassMonkSkillName13B=Inner Storm
+tagClassMonkSkillDescription13B=The vortex becomes electrified, dealing lightning damage to nearby enemies.
+
+tagClassMonkSkillName13C=Cyclone
+tagClassMonkSkillDescription13C=While the vortex is active, it has a chance to spawn a Cyclone that chases and electrocutes enemies over 2 seconds. Cyclones can confuse targets and live for 4 seconds.
+
+tagClassMonkSkillName13D=Raging Storm
+
+tagClassMonkSkillName14A=Mystic Ally
+tagClassMonkSkillDescription14A=Summon a mystic ally to fight by your side as long as he lives.{^n}{^n}{^y}Fire Ally {^o}(Unlocked at Skill Level 12){^n}^wSummon an ally with a fiery aura that increases your total damage by 60% and your offensive ability by 20%. Every time the Fire Ally respawns, he summons 4 other allies that attack enemies and explode after 5 seconds, dealing massive fire damage to nearby enemies.
+
+tagClassMonkSkillName15A=Near Death Experience
+tagClassMonkSkillDescription15A=When you are badly hurt, portions of your maximum life and energy are restored and you are immune to damage and control impairing effects for 3 seconds.
+
+tagClassMonkSkillName16A=Epiphany
+tagClassMonkSkillDescription16A=Have an Epiphany, increasing your mana and health regeneration, damage and movement speed for 20 seconds. Epiphany has four stages, each one of them gives you a new benefit:{^n}{^n}{^y}Desert Shroud (Level 4): {^w}Infuse yourself with sand, reducing damage taken by 50%.{^n}{^n}^sAscendance (Level 8): {^w}Charge yourself with lightning, causing your attacks to stun enemies for 2 seconds.{^n}{^n}^aSoothing Mist (Level 12): {^w}Imbue your self with water, causing your attacks to heal yourself by 25% of the damage dealt.{^n}{^n}^oInner Fire (Level 16): {^w}Engulf yourself in flames, causing your attacks to burn enemies for 2 seconds.
+
+tagClassMonkSkillName17A=Mantra of Salvation
+tagClassMonkSkillDescription17A=Increases the resistance of you and your allies to all elements for 5 seconds.
+
+tagClassMonkSkillName18A=Mantra of Healing
+tagClassMonkSkillDescription18A=Shroud you and your allies with a shield that absorbs a portion of the damage taken and increases life regeneration for 5 seconds.
+
+tagClassMonkSkillName19A=Mantra of Conviction
+tagClassMonkSkillDescription19A=Increases your total damage and the damage dealt by your critical attacks for 5 seconds.
+
+
+

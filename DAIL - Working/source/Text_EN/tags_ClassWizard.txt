@@ -1,0 +1,119 @@
+
+tagSkillClassName10=Wizard
+tagSkillClassName0110=Warmage
+tagSkillClassName0210=Spellslinger
+tagSkillClassName0310=Primalist
+tagSkillClassName0410=Shadowcaster
+tagSkillClassName0510=Archmage
+tagSkillClassName0610=Savage Enchanter
+tagSkillClassName0710=Magehunter
+tagSkillClassName0810=Spiritbinder
+tagSkillClassName0910=Divine Sorcerer
+
+tagSkillClassDescriptionWizard=Wizards are supreme magic-users, defined and united as a class by the spells they cast.They have the power of elemental energy, protection from defensive auras and ability of space-time manipulation, distorting reality to trick enemies for their own delight.
+
+#Class10
+tagClassWizardSkillName00=Wizard
+tagClassWizardSkillDescription00="If my old masters could see me now..."
+
+
+tagClassWizardSkillName01A=Magic Missile
+tagClassWizardSkillDescription01A=Launch a missile of magic energy, dealing elemental damage to enemies.
+tagClassWizardSkillName01B=Glacial Spike
+tagClassWizardSkillDescription01B=Magic Missile turns into a shard of ice that explodes on impact, dealing additional cold damage to the target and nearby enemies. 
+tagClassWizardSkillName01C=Charged Blast
+tagClassWizardSkillDescription01C=Magic Missile becomes an energy orb that deals extra lightning damage to enemies. Charged Blast also increases elemental damage.
+tagClassWizardSkillName01D=Conflagration
+tagClassWizardSkillDescription01D=Magic Missile reaches its final form: a larger bolt of pure arcane power that pierces through enemies, burning them for 2 seconds.
+tagClassWizardSkillName01E=Split
+tagClassWizardSkillDescription01E=Start to fire 3 magic missiles instead of just one, but the damage of each missile is decreased.
+
+tagClassWizardSkillName02A=Ray of Frost
+tagClassWizardSkillDescription02A=Project a beam of frozen ice that blasts enemies, damaging them with cold damage and slowing their movement speed for 2 seconds.
+tagClassWizardSkillName02B=Sleet Storm
+tagClassWizardSkillDescription02B=Surround yourself with a electric freezing storm that damages enemies near you and reduces their total speed for 2 seconds.
+tagClassWizardSkillName02C=Intensify
+tagClassWizardSkillDescription02C=Empower the Ray of Frost with arcane energy, dealing elemental damage to enemies and reducing their resistance for 2 seconds.
+tagClassWizardSkillName02D=Disintegrate
+tagClassWizardSkillDescription02D=Ray of Frost turns into a beam of pure energy that deals additional fire damage to enemies. Passively increases elemental damage.
+
+tagClassWizardSkillName03A=Shock Pulse
+tagClassWizardSkillDescription03A=Release a pulse of 3 unpredictable charges of electricity that deals lightning damage to enemies.{^n}{^n}{^y}Piercing Orbs {^o}(Unlocked at Skill Level 16){^n}^wShock Pulse pierces through enemies.
+tagClassWizardSkillName03B=Explosive Bolts
+tagClassWizardSkillDescription03B=The orbs explode on impact, electrocuting nearby enemies for 2 seconds.
+
+tagClassWizardSkillName04A=Frost Nova
+tagClassWizardSkillDescription04A=Blast nearby enemies with an explosion of ice, dealing cold damage and freezing them for 2 seconds.
+
+tagClassWizardSkillName04B=Shatter
+tagClassWizardSkillDescription04B=A frozen enemy that is killed has a 100% chance of releasing another Frost Nova.
+
+tagClassWizardSkillName05A=Wave of Force
+tagClassWizardSkillDescription05A=Discharge a wave of pure energy that deals elemental damage to nearby enemies.
+
+tagClassWizardSkillName05B=Impactful Wave
+tagClassWizardSkillDescription05B=Wave of Force knocks down nearby enemies for 2 seconds. It also increases Wave of Force's damage.
+
+tagClassWizardSkillName06A=Arcane Torrent
+tagClassWizardSkillDescription06A=Hurl a barrage of arcane projectiles that deal elemental damage to all enemies near the impact location.{^n}{^n}{^y}Static Discharge {^o}(Unlocked at Skill Level 12){^n}^wEach missile blasts an explosion of electricity that electrocutes enemies and stuns them for 2 seconds.
+
+tagClassWizardSkillName06B=Death Blossom
+tagClassWizardSkillDescription06B=Arcane Torrent gains additional projectiles, but you start to release it in all directions.
+
+tagClassWizardSkillName07A=Ice Armor
+tagClassWizardSkillDescription07A=Surround yourself in a barrier of ice that reduces damage taken and freezes enemies who attack you. ^oThis ability must be toggled to maintain its effect.{^n}{^n}{^y}Chilling Aura {^o}(Unlocked at Skill Level 10){^n}^wLower the temperature of the air around you, dealing frostburn damage to enemies attackers over 2 seconds.
+
+tagClassWizardSkillName08A=Electrocute
+tagClassWizardSkillDescription08A=Lightning come out of your fingertips, electrocuting enemies over 2 seconds. The lightning can jump, hitting up to additional enemies.{^n}{^n}{^y}Chain Lightning {^o}(Unlocked at Skill Level 12){^n}^wIncrease the maximum number of enemies that can be electrocuted to 10.
+
+tagClassWizardSkillName08B=Lightning Strike
+tagClassWizardSkillDescription08B=A lightning bolt strikes enemies hit by Electrocute, stunning them for 2 seconds.
+
+tagClassWizardSkillName09A=Slow Time
+tagClassWizardSkillDescription09A=Invoke a field of warped time and space, enemies who pass through it are slowed.{^n}{^n}{^y}Exhaustion {^o}(Unlocked at Skill Level 8){^n}^wEnemies caught by Slow Time deal 25% less damage.
+
+tagClassWizardSkillName10A=Storm Armor
+tagClassWizardSkillDescription10A=Bathe yourself in electrical energy, periodically shocking nearby enemies. ^oThis ability must be toggled to maintain its effect.{^n}{^n}{^y}Reactive Armor {^o}(Unlocked at Skill Level 10){^n}^wAttackers are electrocuted over 2 seconds.
+
+tagClassWizardSkillName11A=Magic Weapon
+tagClassWizardSkillDescription11A=Imbue your weapon with magical energy, increasing your elemental power.{^n}{^n}{^y}Ignite & Electrify {^o}(Unlocked at Skill Level 10){^n}^wAttacks have a chance to electrocute or burn enemies over 2 seconds. Sometimes both effects can be triggered at the same time.
+
+tagClassWizardSkillName12A=Teleport
+tagClassWizardSkillDescription12A=Teleport through the ether to any location you can see.{^n}{^n}{^y}Paradox {^o}(Unlocked at Skill Level 8){^n}^wTeleport no longer has cooldown or energy cost.
+
+tagClassWizardSkillName13A=Mirror Image
+tagClassWizardSkillDescription13A=Summon 2 illusionary wizards to fight by your side. The Mirror Images cast some of your spells randomly.{^n}{^n}{^y}Duplicates {^o}(Unlocked at Skill Level 10){^n}^wThe number of wizards summoned is increased to 4.
+
+tagMirrorImage=Mirror Images
+
+tagClassWizardSkillName14A=Meteor
+tagClassWizardSkillDescription14A=Summon meteors that plummet from the sky and crashes into enemies, dealing massive fire damage to all of them.
+
+tagClassWizardSkillName14B=Comet
+tagClassWizardSkillDescription14B=Summon frozen comets that fall from the sky, crashing into enemies and freezing them for 2 seconds. Fire damage turns into cold.
+
+tagClassWizardSkillName15A=Archon
+tagClassWizardSkillDescription15A=Transform into a being of pure arcane energy for 20 seconds. While in Archon form, your elemental damage, elemental resistance and mana regeneration are increased, you move faster and your skills have lower cooldown.{^n}{^n}{^y}Pure Power {^o}(Unlocked at Skill Level 10){^n}^wDecreases the cooldown of Archon from 90 to 75 seconds.
+
+tagClassWizardSkillName15B=Archon Nova
+tagClassWizardSkillDescription15B=An explosion erupts around you when you are hit by melee attackers, dealing elemental damage and knocking enemies down for 2 seconds.
+
+tagClassWizardSkillName16A=Spectral Blade
+tagClassWizardSkillDescription16A=Summon a spectral blade that strikes all enemies at the target location. ^oYou must click on a target.{^n}{^n}{^y}Thrown Blade {^o}(Unlocked at Skill Level 16){^n}^wIncrease the radius. Spectral Blade also chills and electrocutes enemies.
+
+tagClassWizardSkillName17A=Astral Presence
+tagClassWizardSkillDescription17A=Increase your spirit and offensive ability. ^oThis skill must be toggled to maintain its effect, but it doesn't reserve any portion of your energy.{^n}{^n}{^y}Blur {^o}(Unlocked at Skill Level 12){^n}^wDecrease damage taken by 15%.
+
+tagClassWizardSkillName18A=Black Hole
+tagClassWizardSkillDescription18A=Conjure a Black Hole that draws enemies to it and deals elemental damage to all enemies in the area.{^n}{^n}{^y}Spellsteal {^o}(Unlocked at Skill Level 12){^n}^wEnemies hit by Black Hole deal 20% less damage for 5 seconds.
+
+tagClassWizardSkillName19A=Dominance
+tagClassWizardSkillDescription19A=Every time you kill an enemy, it grants you a shield that increases your health by a percentage of your maximum life. It increases your constitution as well. The bonus is not stackable, killing an enemy before the shield vanishes just resets its duration. ^oThis ability must be toggled to maintain its effect.{^n}{^n}{^y}Audacity {^o}(Unlocked at Skill Level 8){^n}^wYour total damage is increased by 50%.
+
+tagClassWizardSkillName19B=Dominance Barrier
+
+tagClassWizardSkillName20A=Magic Weapon
+tagClassWizardSkillDescription20A=Imbue your weapon with magical energy, granting you increased elemental damage.{^n}{^n}{^y}Ignite {^o}(Unlocked at Skill Level 12){^n}^wAttacks have a chance to burn enemies over 2 seconds.
+
+tagClassWizardSkillName21A=Energy Armor
+tagClassWizardSkillDescription21A=Focus your energies, increasing your armor and spirit. ^oThis ability must be toggled to maintain its effect.{^n}{^n}{^y}Prismatic Armor {^o}(Unlocked at Skill Level 10){^n}^wAll your resistances are increased by 30%.

@@ -1,0 +1,120 @@
+
+tagSkillClassName07=Demon Hunter
+tagSkillClassName0107=Horseman
+tagSkillClassName0207=Pyrohunter
+tagSkillClassName0307=Devil Slayer
+tagSkillClassName0407=Demonblade
+tagSkillClassName0507=Arcane Hunter
+tagSkillClassName0607=Savage Rogue
+
+tagSkillClassDescriptionDemonHunter=Demon Hunters are relentless vigilantes who execute their infernal targets with an arsenal of ranged weapons. They crouch and take aim far from danger, relying on crossbows and guns, and deadly projectiles to swiftly bring an end to the creatures that haunt their world. Demon Hunters focus on ranged combat and limited melee-weapons training leave them in danger when they are cornered or surrounded. Evasive skills like quick teleports, as well as targeted attacks that stop or slow enemies, are as crucial to survival as any arrow in a hunters quiver.
+
+#ClassDemonHunter
+tagClassDemonHunterSkillName00=Demon Hunter
+tagClassDemonHunterSkillDescription00="A beast for the slaughter."
+
+tagClassDemonHunterSkillName01A=Hungering Shot
+tagClassDemonHunterSkillDescription01A=Imbue your attacks with a powerful magic created by ancient Warlocks, dealing vitality damage to enemies. ^oRequires a ranged weapon.{^n}{^n}{^y}Devouring Shots {^o}(Unlocked at Skill Level 16){^n}^wEvery consecutive strike empowers your attacks by 15% until a limit of 75%.
+tagClassDemonHunterSkillName01B=Void Blast
+tagClassDemonHunterSkillDescription01B=Releases a blow of energy, dealing chaos and vitality damage to nearby enemies around the target.
+tagClassDemonHunterSkillName01C=Puncturing Shot
+tagClassDemonHunterSkillDescription01C=Gives a chance for Hungering Shot to pierce through enemies. Also it increases vitality power and the damage of critical attacks.
+tagClassDemonHunterSkillName01D=Medusa's Perdition
+tagClassDemonHunterSkillDescription01D=Hungering Shot gets cursed by the Medusa's Perdition, dealing vitality and poison damage to enemies, with a chance to petrify them.{^n}{^n}{^y}Eyes of Stone {^o}(Unlocked at Skill Level 12){^n}^wThe chance of petrifying enemies is increased to 75%.
+
+tagClassDemonHunterSkillName02A=Shadow Power
+tagClassDemonHunterSkillDescription02A=Draw in the power of shadows, healing yourself over 8 seconds and gaining a chance to deflect projectiles.{^n}{^n}{^y}Blood Moon {^o}(Unlocked at Skill Level 12){^n}^w25% of damage dealt while the Shadow Power is active returns to you as health.
+tagClassDemonHunterSkillName02B=Night Bane
+tagClassDemonHunterSkillDescription02B=Deals frostburn damage to all enemies around you, slowing them for a few seconds.
+tagClassDemonHunterSkillName02C=Gloom
+tagClassDemonHunterSkillDescription02C=Increases several resistances while Shadow Power is active.
+tagClassDemonHunterSkillName02D=Shadow Glide
+tagClassDemonHunterSkillDescription02D=The power of shadows increases your movement speed and you become more resistant to crowd control influences.
+
+tagClassDemonHunterSkillName03A=Entangling Shot
+tagClassDemonHunterSkillDescription03A=Empowers your attacks with shadow energy that deals cold damage and slow enemies over 2 seconds. ^oRequires a ranged weapon.{^n}{^n}{^y}Bounty Hunter {^o}(Unlocked at Skill Level 16){^n}^wEvery time you kill an enemy, you gain a buff that increases cold and frostburn damage by 30% (affects other skills that use these damage types). You can stack Bounty Hunter up to 5 times. After 20 seconds, the skill resets and you start stacking it all over again.
+
+tagClassDemonHunterSkillName03A1=Bounty Hunter
+tagClassDemonHunterSkillName03A2=Stack 2
+tagClassDemonHunterSkillName03A3=Stack 3
+tagClassDemonHunterSkillName03A4=Stack 4
+tagClassDemonHunterSkillName03A5=Stack 5
+
+tagClassDemonHunterSkillName03B=Shock Collar
+tagClassDemonHunterSkillDescription03B=After hit a target, Entangling Shot releases electrical spikes, dealing lightning damage to other enemies.
+tagClassDemonHunterSkillName03C=Heavy Burden
+tagClassDemonHunterSkillDescription03C=Entangling Shot curses enemies with every attack, dealing frostburn damage and slowing them over 2 seconds. Heavy Burden affects enemies close to the primary enemy only.
+tagClassDemonHunterSkillName03D=Chain Gang
+
+tagClassDemonHunterSkillName05A=Elemental Strike
+tagClassDemonHunterSkillDescription05A=Empowers your attack with elemental power, dealing fire damage to all enemies it passes through. ^oRequires a ranged weapon.{^n}{^n}{^y}Nether Strike {^o}(Unlocked at Skill Level 16){^n}^wImbues your attacks with chthonian energy, dealing additional chaos damage to targets. 4% of the total damage dealt to each enemy hit by Elemental Strike returns to you as health.
+tagClassDemonHunterSkillName05B=Lightning Bolt
+tagClassDemonHunterSkillDescription05B=The elemental power loads your attacks with electric energy that explodes on hit, dealing lightning damage to enemies with a chance of stunning them for a few seconds.
+tagClassDemonHunterSkillName05C=Frost Shot
+tagClassDemonHunterSkillDescription05C=Releases a freezing blast after hitting the target, dealing cold damage to nearby enemies, and slowing them for 2 seconds.
+tagClassDemonHunterSkillName06A=Cluster Arrow
+tagClassDemonHunterSkillDescription06A=Fire a cluster arrow that explodes, dealing fire and physical damage to the target and all nearby enemies. ^oRequires a ranged weapon.
+tagClassDemonHunterSkillName06B=Cluster Bombs
+tagClassDemonHunterSkillDescription06B=Drops grenades on impact that each explode dealing half of Cluster Arrow's damage.
+
+tagClassDemonHunterSkillName08A=Dark Trick
+tagClassDemonHunterSkillDescription08A=Teleport yourself to any location at a certain distance.
+
+tagClassDemonHunterSkillName09A=Rain of Vengeance
+tagClassDemonHunterSkillDescription09A=Fire a massive volley of arrows at a large area. Arrows fall from the sky, dealing piercing and bleeding damage to all enemies in the area.{^n}{^n}{^y}Stampede {^o}(Unlocked at Skill Level 12){^n}^wWhile Rain of Vengeance is active and hitting foes, you periodically summon a wave of 5 Shadow Beasts to attack and knockback enemies, dealing vitality damage to all enemies hit.
+
+tagClassDemonHunterSkillName09B=Shadow Beasts
+
+tagClassDemonHunterSkillName10A=Preparation
+tagClassDemonHunterSkillDescription10A=Increases energy regeneration for a few seconds.{^n}{^n}{^y}Battle Scars {^o}(Unlocked at Skill Level 10){^n}^wGain 20% of additional life when using Preparation.
+
+tagClassDemonHunterSkillName11A=Marked for Death
+tagClassDemonHunterSkillDescription11A=Mark enemies, decreasing their resistance to your main sources of damage and reducing their movement speed for the next seconds.
+
+tagClassDemonHunterSkillName12A=Vengeance
+tagClassDemonHunterSkillDescription12A=Turn into the physical embodiment of Vengeance, gaining offensive advantages and increased health regeneration. Level it up increases the damage of its passive as well. {^n}{^n}{^b}Side Guns {^o}(Passive){^n}^wEverytime you hit a target, you launch 4 additional projectiles that deals chaos damage to enemies. 3% of the damage dealt returns to you as health.{^n}{^n}{^y}Dark Heart {^o}(Unlocked at Skill Level 10){^n}^wVengeance fills your heart, reducing all damage taken by 50%.
+
+tagClassDemonHunterSkillName12B=Side Guns
+
+tagClassDemonHunterSkillName13A=Ballistics
+tagClassDemonHunterSkillDescription13A=Increases the main damage types and cunning. ^oThis is a dual wielding ranged or two-handed ranged weapon technique. Also enables the ability to dual wield ranged weapons.{^n}{^n}{^y}Sharpshooter {^o}(Unlocked at Skill Level 10){^n}^wGrants you 15% increased critical damage.
+
+tagClassDemonHunterSkillName14A=Leech
+tagClassDemonHunterSkillDescription14A=Restores health for a percentage of your attack damage and grants you increased life regeneration per second.
+
+tagClassDemonHunterSkillName15A=Impale
+tagClassDemonHunterSkillDescription15A=Throw a magic knife that impales an enemy, dealing piercing damage to all enemies it passes through.{^n}{^n}{^y}Ploriferation {^o}(Unlocked at Skill Level 12){^n}^wAfter hit an enemy, the projectile spreads, releasing 3 additional projectiles that also can pierce through enemies.
+
+tagClassDemonHunterSkillName15B=Cold Penetration
+tagClassDemonHunterSkillDescription15B=The knife deals cold damage to all enemies in a straight line, slowing their movement speed.
+
+tagClassDemonHunterSkillName16A=Awareness
+tagClassDemonHunterSkillDescription16A=When you are close to death, the shadows embrace you, restoring a portion of your life immediately and protecting you from any damage for a few seconds.
+
+tagClassDemonHunterSkillName17A=Perfectionist
+tagClassDemonHunterSkillDescription17A=Increases resistance to all damage types, except for duration damages.
+
+tagClassDemonHunterSkillName18A=Ceremony of Shadows
+tagClassDemonHunterSkillDescription18A=Summon the spirits of shadows to fight by your side for 12 seconds.
+
+tagClassDemonHunterSkillName19A=Fan of Knives
+tagClassDemonHunterSkillDescription19A=Throw knives out in a circle, dealing piercing and bleeding damage to all enemies around you. Your knives will also slow the movement of enemies for a second.{^n}{^n}{^y}Fan of Daggers {^o}(Unlocked at Skill Level 16){^n}^wThe knives stun enemies for 2 seconds.
+tagClassDemonHunterSkillName19B=Assassin's Knives
+tagClassDemonHunterSkillDescription19B=The knives pierce through the enemies. Passively it increases the total damage of your knives and the distance they travel before fade away.
+
+tagClassDemonHunterSkillName20A=Rapid Fire
+tagClassDemonHunterSkillDescription20A=Strikes enemies with increased attack speed for 8 seconds. ^oRequires a ranged weapon.{^n}{^n}{^y}Whitering Fire {^o}(Unlocked at Skill Level 10){^n}^wIgnite your attacks, causing them to deal extra fire damage to enemies.
+
+tagClassDemonHunterSkillName21A=Shadow's Trap
+tagClassDemonHunterSkillDescription21A=Summon a cursed field that slows enemies and reduces their total damage.
+
+tagClassDemonHunterSkillName22A=Smoke Screen
+tagClassDemonHunterSkillDescription22A=Vanish behind a wall of smoke, gaining increased speed and resistance to impairing effects.{^n}{^n}{^y}Healing Vapors {^o}(Unlocked at Skill Level 8){^n}^wHeals you by 15% of your life.
+
+tagClassDemonHunterSkillName23A=Multishot
+tagClassDemonHunterSkillDescription23A=Fire a massive voley of projectiles that deals piercing damage and causes enemies to bleed for 2 seconds.{^n}{^n}{^y}Arsenal {^o}(Unlocked at Skill Level 16){^n}^wEverytime Multishot hits an enemy, you launch a rocket at nearby enemies that explodes, dealing fire and piercing damage. Sometimes, when you hit multiple targets, you will launch more than one rocket at once.
+
+tagClassDemonHunterSkillName23B=Supression Fire
+tagClassDemonHunterSkillDescription23B=Multishot gains a chance to knockback enemies for 2 seconds, and a chance to deal increased total damage to enemies. It also increases the Multishot's damage.
+
+tagClassDemonHunterSkillName23C=Rockets
