@@ -1,0 +1,6 @@
+FileDescription,7% chance to Cast Skill at Enemy on Taking Melee Damage,
+triggerType,HitByMelee,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,7,
+autoTargetRadius,10.000000,

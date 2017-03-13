@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/hunting/callofthehuntbuff.dbr,
+instantCast,,
+fileNameHistoryEntry,mods/grim quest/records/skills/hunting/copy of callofthehunt.dbr,

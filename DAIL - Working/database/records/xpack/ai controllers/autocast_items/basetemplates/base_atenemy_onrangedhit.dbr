@@ -1,0 +1,5 @@
+FileDescription,Cast Skill at Enemy on Taking Ranged Damage,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,100,
+triggerType,HitByProjectile,

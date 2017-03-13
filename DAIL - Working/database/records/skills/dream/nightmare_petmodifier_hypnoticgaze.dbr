@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,SkillSecondary_PetModifier,
+FileDescription,now points to dream surge instead,
+petSkillName,records/skills/dream/pet/nightmare_dreamsurge.dbr,
+petChanges,,

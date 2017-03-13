@@ -1,0 +1,8 @@
+Anchored,0,
+effectFile,XPack\Effects\Particles\SkillEffects\warfare_large06.pfx,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+emitterType,Standard,
+Class,EffectEntity,
+FileDescription,Larger version of the normal Onslaught FX - For Minotaur Lord,
+localOrientFix,1,
+templateName,database\Templates\Effect.tpl,

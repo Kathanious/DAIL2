@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,ColdMastery_Freeze,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/storm/freezingblastbuff.dbr,
+pointBlank,,
+fileNameHistoryEntry,mods/grim quest/records/skills/storm/freezingblast.dbr,

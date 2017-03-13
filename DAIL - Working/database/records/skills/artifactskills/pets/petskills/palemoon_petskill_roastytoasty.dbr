@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records/skills/artifactskills/pets/petskills/palemoon_petskill_roastytoastydebuff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/grim quest/records/skills/artifactskills/pets/petskills/palemoon_petskill_roastytoasty.dbr,

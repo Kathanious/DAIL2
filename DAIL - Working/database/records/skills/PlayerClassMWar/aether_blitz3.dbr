@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,,
+buffSkillName,records/skills/playerclassmwar/aether_blitz3_buff.dbr,

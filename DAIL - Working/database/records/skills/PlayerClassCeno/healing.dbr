@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,120 Lvls,
+instantCast,0,
+buffSkillName,records/skills/playerclassceno/healing_effectbuff.dbr,

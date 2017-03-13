@@ -1,0 +1,5 @@
+FileDescription,Cast Skill at Enemy on Low Mana,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,100,
+triggerType,LowMana,

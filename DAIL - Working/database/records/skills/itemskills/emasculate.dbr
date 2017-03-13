@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,single target duration damage/atk spd reduction,
+buffSkillName,records/skills/itemskills/emasculate_buff.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/itemskills/emasculate.dbr,

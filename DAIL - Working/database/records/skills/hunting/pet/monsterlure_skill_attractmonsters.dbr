@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/skills/hunting/pet/monsterlure_skill_attractmonstersbuff.dbr,

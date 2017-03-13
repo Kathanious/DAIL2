@@ -1,0 +1,6 @@
+FileDescription,5% cast at Self on melee damage,
+triggerType,HitByMelee,
+targetType,Self,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,5,
+autoTargetRadius,5.000000,

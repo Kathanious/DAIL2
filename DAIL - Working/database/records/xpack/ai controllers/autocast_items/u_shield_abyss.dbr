@@ -1,0 +1,6 @@
+FileDescription,10% at enemy on melee hit,
+triggerType,HitByMelee,
+targetType,Enemy,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,10,
+autoTargetRadius,6.000000,

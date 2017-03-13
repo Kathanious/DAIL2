@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,DefensiveMastery_ArmorTraining,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/spirit/enslavespiritbuff.dbr,

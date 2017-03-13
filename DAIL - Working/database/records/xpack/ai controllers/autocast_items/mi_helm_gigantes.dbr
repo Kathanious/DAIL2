@@ -1,0 +1,6 @@
+FileDescription,2% chance to cast skill on self on melee dmg,
+triggerType,HitByMelee,
+targetType,Self,
+templateName,database\Templates\SkillAutoCastController.tpl,
+chanceToRun,2,
+autoTargetRadius,10.000000,
