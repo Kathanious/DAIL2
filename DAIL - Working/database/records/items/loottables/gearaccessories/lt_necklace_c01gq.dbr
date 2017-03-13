@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,8,
+records,records/items/loottables/gearaccessories/tdyn_necklace_c01gq.dbr,
