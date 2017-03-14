@@ -1,20 +1,18 @@
-Edit [3/4/2017] K
+Edit [3/13/2017] K
 
 ****************************************************************
 ****************************************************************
 
+[60.7C 3/13/2017]
+Repop - Git
 
-To Do:
-********
+Update - Cornucopia 3.3.H
 
-Audit - Proxy pools
-Fix - Affixes from smiths
-Update - Lost Treasures
-
-********
+Audit - Modes 
+	Proxy pools and challengs
 	
-****************************************************************
-****************************************************************
+Remove - 60.7B release to prevent ass monkey 
+
 [60.7 3/4/2017]
 Madness - Hell on wheels
 	Fixed - component malfunction
