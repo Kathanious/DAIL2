@@ -29,10 +29,7 @@ tagGrimmestQuestWitchGod03=Bysmiel's Assailer
 
 tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
-#Ceno - ^oHarbinger of Zenith
-#Asylum - ^oTitan's Quester of Old
-#Draon Con Color - ^oStargazer
-#A Doom God - ^o from Cornucopia
+tagNPC_Guard_Mood=Mood - ^oArcane Huntress 
 
 tagQuests=Active Quests (60.7B)
 
