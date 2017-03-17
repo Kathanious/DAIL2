@@ -2,20 +2,18 @@
 #ENUMERATION 15
 
 
-tagSkillClassName0107=Mystic Soldier
-tagSkillClassName0207=Mystic Bomber
-tagSkillClassName0307=Mystic Priest
-tagSkillClassName0407=Mystic Assassin
-tagSkillClassName0507=Mystic Spellweaver
-tagSkillClassName0607=Mystic Storm
-
+#tagSkillClassName0107=Burning Blade
+#tagSkillClassName0207=Trail Blazer
+#tagSkillClassName0307=Aetherial Priest
+#tagSkillClassName0407=Mystic Assassin
+#tagSkillClassName0507=Conduit
+#tagSkillClassName0607=Aether Storm
 
 tagSkillClassNameMWar=^tMystic Warrior
-tagSkillClassDescriptionMWar=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n^n ^n^n 
-^kMystic Warriors are former military with 'special' gifts.  With the fall of society and its guiding structures, and having been possessed by an aetherial entity, Mystic Warriors traded discipline for power.
+tagSkillClassDescriptionMWar=^kMystic Warriors ^ware former military with 'special' gifts.  With the fall of society and its guiding structures, and having been possessed by an aetherial entity, Mystic Warriors traded discipline for power.
 
 tagClassMWarSkillName00=Mystic Warrior
-tagClassMWarSkillDescription00=^tAetherial ^wattunement and combat aptitude.
+tagClassMWarSkillDescription00=^tAetherial ^wattunement and combat aptitude. Drink from the endless well of the ^aether ^wand lose yourself to it's power.
 
 tagClassMWarSkillName01A=Aether Burst
 tagClassMWarSkillDescription01A=Unleash your gift with a focused strike. ^n^n^rRequires a melee weapon.
@@ -26,15 +24,15 @@ tagClassMWarSkillDescription01C=Identify and slap away projectiles with expert p
 tagClassMWarSkillName01D=Brace
 tagClassMWarSkillDescription01D=Become the immovable object.^n^n^rRequires a shield.
 tagClassMWarSkillName01E=Manuever
-tagClassMWarSkillDescription01E=^n^n^rRequires a two-handed melee weapon.
-tagClassMWarSkillName01F=Dirty Trick
-tagClassMWarSkillDescription01F=Follow up your strike with thrown shards of ^taether ^wcrystal.
+tagClassMWarSkillDescription01E=A momentary break from combat to regain your composure.^n^n^rRequires a two-handed melee weapon.
+tagClassMWarSkillName01F=Soul Shatter
+tagClassMWarSkillDescription01F=Destroy your opponent while damaging those around you. 
 
 
 tagClassMWarSkillName02A=Warp Step
 tagClassMWarSkillDescription02A=The shortest distance between two objects is not a straight line. Step through the ^taether ^wto close the gap to your target. ^n^n^rRequires a melee weapon.
 tagClassMWarSkillName02B=Flare
-tagClassMWarSkillDescription02B=^tAetherial ^wenergies spill into the world upon re-entry. 
+tagClassMWarSkillDescription02B=^wFiery ^tAetherial ^wenergies spill into the world upon re-entry. 
 tagClassMWarSkillName02C=Time Flux
 tagClassMWarSkillName02D=Warp Double-step
 tagClassMWarSkillDescription02D=^wAn ^taetherial ^wwarp bubble slows time for your enemies while speeding yours for a short duration. ^n^n^gBeware the reflect or you shall witness your death over an eternity.
@@ -49,7 +47,7 @@ tagClassMWarSkillName05A=Wildfire
 tagClassMWarSkillDescription05A=^wConjure an orb of ^taether ^wenergy to assault your foes.
 tagClassMWarSkillName05AB=Soulbomb
 tagClassMWarSkillDescription05AB=Cast without rest and pierce the heart of your foes!
-tagClassMWarSkillName05B=Flash Burn
+tagClassMWarSkillName05B=Flash Fire
 tagClassMWarSkillDescription05B=Those left standing continue to suffer.
 tagClassMWarSkillName05C=Consumption
 tagClassMWarSkillDescription05C=Hungry ^taetherial ^wenergies spread to those nearby. ^n^n^g The Hunger knows no friend. Beware your own flames.
@@ -61,9 +59,9 @@ tagClassMWarSkillDescription06A=Converts elemental damage to ^taether.
 tagClassMWarSkillName07A=Wracking Aura
 tagClassMWarSkillDescription07A=^wBecome a conduit of the ^taether ^wdamaging those around you with an aura of pain. ^n^n^gMy sin is Wrath. ^n^n^oThis skill must be toggled to remain in effect.
 tagClassMWarSkillName07B=Annulling Aura
-tagClassMWarSkillDescription07B=
+tagClassMWarSkillDescription07B=Draw energy from those nearby to fuel your rampage^n^n^gI hunger!
 tagClassMWarSkillName07C=Shattering Aura
-tagClassMWarSkillDescription07C=
+tagClassMWarSkillDescription07C=Even your thoughts of destruction gain power.^n^n^gAll I know is pain.
 
 tagClassMWarSkillName08A=Nucleation
 tagClassMWarSkillDescription08A=^wAn amazing feat to crystalize ^taetherial ^wenergies.^n^n^gProlonged exposure may cause madness.^n^n^oScales with player damage bonuses.
@@ -74,19 +72,19 @@ tagPetFireTotemSkill02=Static Discharge
 tagClassMWarSkillName09A=Crippling Curse
 tagClassMWarSkillDescription09A=^wBecome a conduit of the ^taether ^wsuppressing those around you with a heavey burden. ^n^n^gMy, how the power has brough out the sadist in you. ^n^n^oThis skill must be toggled to remain in effect.
 tagClassMWarSkillName09B=Shackling Curse
-tagClassMWarSkillDescription09B=
+tagClassMWarSkillDescription09B=Enslave those nearby with heavy shackles of ^taetherial ^wenergy.^n^n^gNo rest for the wicked.
 tagClassMWarSkillName09C=Death Curse
-tagClassMWarSkillDescription09C=
+tagClassMWarSkillDescription09C=Hasten the demise of your opponents.^n^n^gI see the end of all things.
 
 tagClassMWarSkillName10A=Vessel
-tagClassMWarSkillDescription10A=Quiet your mind and the voices become clear. Let the ^taether ^wembrace you. ^n^n^gWhen the ^taether ^gcalls, you listen. ^n^n^oThis skill must be toggled to remain in effect. Effect extends to friendly entities.
+tagClassMWarSkillDescription10A=Quiet your mind and the voices become clear. Let the ^taether ^wembrace you. ^n^n^gWhen the ^taether ^gcalls, you listen. ^n^n^oThis skill must be toggled to remain in effect. 
 tagClassMWarSkillName10B=Manifest 
 tagPetGazerSkill01=Zap
 
 tagClassMWarSkillName11A=Dreadnaught Stance
-tagClassMWarSkillDescription11A=Align the flesh, the spirit, and the ^taether ^wfor superior combat form.^n^n^gBalance must be maintained, or the ^taether ^gwill consume even the strongest minds. ^n^n^oThis skill must be toggled to remain in effect.
+tagClassMWarSkillDescription11A=Align the flesh, spirit, and the ^taether ^wfor superior combat form.^n^n^gBalance must be maintained, or the ^taether ^gwill consume even the strongest minds. ^n^n^oThis skill must be toggled to remain in effect.
 tagClassMWarSkillName11B=Loss of Control
-tagClassMWarSkillDescription11B=You become a spectator to your own life. ^n^n^gDo you really want to go back to that existance? Let it go, we will care for the flesh.
+tagClassMWarSkillDescription11B=You become a spectator to your own life. ^n^n^gDo you really want to go back to that existence? Let it go, we will care for the flesh.
 tagClassMWarSkillName11C=Mr. Hyde
 
 tagClassMWarSkillName12A=Aether Form
@@ -96,7 +94,7 @@ tagClassMWarSkillName13A=13A
 tagClassMWarSkillDescription13A=13A
 
 tagClassMWarSkillName14A=Soul Bane
-tagClassMWarSkillDescription14A=Consume your enemies and gain their power. ^n^n^gWhen the ^aether ^wcalls, they listen.
+tagClassMWarSkillDescription14A=Consume your enemies to fuel your madness. ^n^n^gWhen the ^aether ^gcalls, they listen.
 tagClassMWarSkillName14B=Life Siphon
 tagClassMWarSkillDescription14A=14B
 

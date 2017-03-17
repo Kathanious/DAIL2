@@ -1,4 +1,4 @@
-[3/2/2017 22:22] K
+[3/17/2017] K
 
 ************************************************************************************
 ************************************************************************************
@@ -11,14 +11,7 @@
 
 MASTERIES
 ****************
-
-Arlequin [1.0] - Atrosatiro (Parked)
-	http://www.grimdawn.com/forums/showthread.php?t=41292
-
-Engineer [1.7] - Koba0100 (Parked)
-	http://www.grimdawn.com/forums/showthread.php?t=41693
-
-Coronus [1.5.0] - Somerled		
+Coronus [1.5.2] - Somerled		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
 NCFF [1.23] - cftx										
@@ -31,17 +24,14 @@ NCFF [1.23] - cftx
 Darkest Dawn [1.1] - Kir4								
 	http://www.grimdawn.com/forums/showthread.php?t=39917
 	Arch-Necromancer
-	Illusionist (Parked)
-
+	
 Dawn of Heros [4.1] - 3JIou
 	http://www.grimdawn.com/forums/showthread.php?t=40542
 	Frost Knight
 	Priest
 	Voidcaller
 	Mercenary 
-	Stalker (Parked)
-	Malificar (Parked)
-
+	
 Grim Quest [1.4.5] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?t=39503
 	Spirit
@@ -59,9 +49,6 @@ Zenith [0.5b] - Ceno
 	http://www.grimdawn.com/forums/showthread.php?t=40486
 	Terror Knight
 	Elementalist
-	Outrider (Parked)
-	Riftwalker (Parked)
-	Necrotic (Parked)
 	
 D3 Influenced - Grimer
 	Demon Hunter [2.0]	http://www.grimdawn.com/forums/showthread.php?t=45271
@@ -73,7 +60,7 @@ Mystic Warrior [DAIL Variation] - Jaggd
 	ALTERNATE PLAY MODES
 ****************
 
-DGA [Beta7] - Warebare
+DGA [Beta9] - Warebare
 	http://www.grimdawn.com/forums/showthread.php?t=38585
 	Dynamically Generated Areas
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38585&highlight=mapping
@@ -92,10 +79,6 @@ Grim Dawn: Eternal [0.977] - PrincessLuna
 
 GAME CHANGES
 ****************
-GDReforge [0.6] - Ceno
-	http://www.grimdawn.com/forums/showthread.php?t=47235&highlight=reforge
-	{Item 'reroll'
-
 Grimmer and Grimmest [DAIL Variation] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
@@ -118,18 +101,13 @@ Stasher [5.0] - rorscachrev
 	{Lowered expansion prices to 25k - 50k or something.
 	{Altered the alpha and darkness of the "unusable" items so that it is easier to see that an item can't be used.
 
-Arachnophobia [1.0] - Jiaco (Parked)
-	http://www.grimdawn.com/forums/showthread.php?t=38584
-	Visual change
-	{Based on a request to rid the world of Cairn of spiders, I just made them all really small.
-
 Good-Looking [0.5] - Grim Dawg
 	http://www.grimdawn.com/forums/showthread.php?t=39701
 	Visual change
 	{With this mod you can change the appearance of your gear.You can also use this mod to take a look at the stats of high 
 	{level items, like an ingame database.
 
-Cornucopia [0.3.3G] - Ceno & adoomgod
+Cornucopia [0.3.3I] - Ceno & adoomgod
 	http://www.grimdawn.com/forums/showthread.php?t=43941
 	Unofficial rebalancing mode, including devotions, items, and skills.
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=43941

@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,Trigger for Bioweapon,
+buffSkillName,records/skills/playerclasscoronus/bloodhail1_buff.dbr,

@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Whelm Greenhouse,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_whelm_vomit.dbr,
+petChanges,,
