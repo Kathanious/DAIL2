@@ -1,3 +1,4 @@
 *.arz
 *.arc
-resources/
+**/resources
+**/Wanez_Unique
