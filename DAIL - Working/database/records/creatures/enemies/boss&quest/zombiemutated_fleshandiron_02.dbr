@@ -364,7 +364,7 @@ lootMisc1Item2,records/items/loottables/mastertables/mt_comp_aethermighty_a01.db
 lootMisc1Item3,records/items/loottables/mastertables/mt_comp_human_a01.dbr,
 lootMisc1Item4,records/items/loottables/mastertables/mt_comp_magical_a01.dbr,
 lootMisc1Item5,records/items/materia/compa_mutagenicichor.dbr,
-lootMisc2Item1,records/items/autopickup/crafting/materials/craft_taintedbrain.dbr,
+lootMisc2Item1,records/items/crafting/materials/craft_taintedbrain.dbr,
 lootMisc2Item2,records/items/loottables/weapons/tdyn_blunt1h_b06_mutantcommon.dbr,
 lootMisc2Item3,records/items/loottables/weapons/tdyn_blunt1h_b06_mutant.dbr,
 lootMisc3Item1,records/items/loottables/misc/tdyn_constitution_a01.dbr,

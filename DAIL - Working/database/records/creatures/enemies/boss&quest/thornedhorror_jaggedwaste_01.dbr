@@ -366,7 +366,7 @@ lootMisc1Item2,records/items/loottables/mastertables/mt_comp_beastscales_a01.dbr
 lootMisc1Item3,records/items/loottables/mastertables/mt_comp_beastmutant_a01.dbr,
 lootMisc1Item4,records/items/materia/compa_serratedspike.dbr,
 lootMisc1Item5,records/items/materia/compa_viciousspikes.dbr,
-lootMisc2Item1,records/items/autopickup/crafting/materials/craft_ancientheart.dbr,
+lootMisc2Item1,records/items/crafting/materials/craft_ancientheart.dbr,
 lootMisc3Item1,records/items/loottables/misc/tdyn_constitution_b01.dbr,
 lqLightingHighlight,0.300000,
 markerRange,50.000000,
