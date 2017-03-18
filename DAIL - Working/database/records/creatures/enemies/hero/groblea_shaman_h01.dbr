@@ -360,7 +360,7 @@ lootLeftHandItem4,records/items/loottables/mastertables/mt_gearweaponsfocus_d01.
 lootMisc1Item1,records/items/loottables/mastertables/mt_comp_rare_a01.dbr,
 lootMisc1Item2,records/items/loottables/mastertables/mt_comp_human_a01.dbr,
 lootMisc1Item3,records/items/loottables/mastertables/mt_comp_magical_a01.dbr,
-lootMisc2Item1,records/items/autopickup/questitems/scrapmetal.dbr,
+lootMisc2Item1,records/items/questitems/scrapmetal.dbr,
 lootMisc3Item1,records/items/loottables/misc/tdyn_constitution_a01.dbr,
 lootRightHandItem1,records/items/loottables/enemyspecific/tdyn_groblestaff_a01.dbr,
 lootRightHandItem2,records/items/loottables/mastertables/mt_gearweaponscaster_a01.dbr,

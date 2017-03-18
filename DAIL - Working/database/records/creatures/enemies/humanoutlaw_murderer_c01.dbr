@@ -388,7 +388,7 @@ lootMisc2Item1,records/items/loottables/mastertables/mt_hu_equippedreduced_a01.d
 lootMisc2Item2,records/items/loottables/mastertables/mt_hu_equippedreduced_c01.dbr,
 lootMisc2Item3,records/items/loottables/mastertables/mt_hu_equippedreduced_d01.dbr,
 lootMisc2Item4,records/items/loottables/mastertables/mt_hu_miscconstitution_a01.dbr,
-lootMisc3Item1,records/items/autopickup/questitems/scrapmetal.dbr,
+lootMisc3Item1,records/items/questitems/scrapmetal.dbr,
 lootRightHandItem1,records/items/loottables/mastertables/mt_gearweaponsmelee1h.dbr,
 lootRightHandItem2,records/items/loottables/mastertables/mt_gearweaponsmelee1h_c01.dbr,
 lootRightHandItem3,records/items/loottables/mastertables/mt_gearweaponsmelee1h_d01.dbr,

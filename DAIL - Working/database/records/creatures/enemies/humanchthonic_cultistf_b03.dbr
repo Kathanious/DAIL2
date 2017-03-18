@@ -394,7 +394,7 @@ lootMisc2Item1,records/items/loottables/mastertables/mt_hu_equippedreduced_a01.d
 lootMisc2Item2,records/items/loottables/mastertables/mt_hu_equippedreduced_c01.dbr,
 lootMisc2Item3,records/items/loottables/mastertables/mt_hu_equippedreduced_d01.dbr,
 lootMisc2Item4,records/items/loottables/mastertables/mt_hu_miscconstitution_a01.dbr,
-lootMisc3Item1,records/items/autopickup/crafting/materials/craft_cultistseal.dbr,
+lootMisc3Item1,records/items/crafting/materials/craft_cultistseal.dbr,
 lootMisc3Item2,records/items/loreobjects/loreobject_areac_cultistrandom01.dbr,
 lootMisc3Item3,records/items/loreobjects/loreobject_areac_cultistrandom02.dbr,
 lootMisc3Item4,records/items/loreobjects/loreobject_areac_cultistrandom03.dbr,
