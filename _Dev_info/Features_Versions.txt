@@ -1,5 +1,3 @@
-[3/17/2017] K
-
 ************************************************************************************
 ************************************************************************************
 
@@ -86,11 +84,6 @@ Grimmer and Grimmest [DAIL Variation] - Jiaco
 	{Each proxypool was altered to specifically increase monsters in the champion slots.
 	{All quest&boss, deathspawn, and faction proxypools as well as a number of other pools from the depths of area001 were 
 	{manually "curated" adding Heroes and adjusting spawn weights for a more challenging encounter.
-		
-Legendary Cap Remover [2.1] - NateATON
-	http://www.grimdawn.com/forums/showthread.php?t=37957
-	Item improvement
-	{Affixes for Legendary and Epic Items. Great Items now become much more unique.
 
 Stasher [5.0] - rorscachrev
 	http://www.grimdawn.com/forums/showthread.php?t=38072
@@ -132,9 +125,3 @@ Omega [0.78] - Okami29
 	{Increase build diversity by offering a large choice of rewards. 
 	{Allow the player to farm where they want but still promote farming in different areas and kill different monsters. 
 	{Account-bound progression.
-
-Grim Legion [1.1B] - Deathbit
-	http://www.grimdawn.com/forums/showthread.php?t=38427
-	Level 100 cap
-	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38427}
-
