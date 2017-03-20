@@ -11,18 +11,13 @@
 #CLASS CENOBITE
 #ENUMERATION 28
 
-#CLASS ARLEQUIN
-#Parked
-
 #Descriptions
 tagSkillClassDescriptionNecro=A cult that remained secret for years, Necromancers were once brothers with the Order of the Death's Vigil until they faced persecution at the hands of the empire and decided to stay hidden from this world using their dark arts. Necromancers use their dark power to claim the bodies of the dead, raising skeleton armies to their service, casting terrible curses at their opponents or devastating them with mighty dark spells, they weaken, trap and destroy those who stand in their path, while empowering their allies using their dark skills. They are usually watching from the backround as their armies crush their opponents to oblivion. The legends say that those strong enough and worthy become undead themselves, while keeping their sanity.
 tagSkillClassDescriptionRanger=Before Grim Dawn, the ranger was the existence most fatal probably on a continent. They have Crossbow and firearms which bring an enemy death from a long distance in a hand, and hunt in a wilderness or woods. The destroyers from an alien world became these excellent hunters' game after the disaster which swept over the whole continent. 
-tagSkillClassDescriptionFangshi=Fangshis follow both the law of the Heaven and the Earth, Giving their bodies and minds perfect harmony, and granting them the strength to do what is necessary.
-tagSkillClassDescriptionCeno=Cenobites were the Elite Vanguard of the army sent from the Northern Provinces to quell the grim dawn in Southern Cairn.  Many of them died but those who lived learned to train others in their ways of armour mastery.  Furthermore, amongst all of the nations and creeds both Light, Dark and other - only those trained as Cenobites have the temperment to become paladins.
-#tagSkillClassDescription29=The Arlequin is the great-grandfather of the Nightblades, it's said... by them. Nightblades typically pretend they don't exist to be honest - but the elegant, mystical, majestic Arlequin knows the truth of it! Sword magicks, the art of seen and then, suddenly, unseen, they got it from the Arlequin, and don't let anyone tell you different! I mean, who cares about "facts" and "history" anyways? The Arlequin is here to entertain, not bore you with such silly things as facts! The Arlequin lives for the show, and the show is bloody.
+tagSkillClassDescriptionFangshi=The fangshi who came from far east continent tend to use their own body and spirit power rather than an external instrument. Usually, they use light weapons, but it is rare that they wield swords as battle weapons. They not only can get mighty help from the power of a nature by fangshi technique, but they can manipulate the own body effectively, in order to fight.
+tagSkillClassDescriptionCeno=Originally a pious supreme servant of Gods learned truth of the faith of their own through a disaster of Grim Dawn unconsciously. These Temple wanderers threw away own perplexity immediately. Even if there is no contact with Gods, they continue eternally the glory which saves all living things in the name of Gods.
 
-tagWeaponUnknown=Exotic Weapon
-tagPXNec1=Necromancer's
+
 
 #***********************************************************************************************************************************
 #NECROMANCER
@@ -100,7 +95,7 @@ tagClassNecroSkillDescription13=Spawn a deadly pool to weaken and injure your en
 tagClassNecroSkillName13B=Bone Prison
 tagClassNecroSkillDescription13B=Summons a Bone Prison to trap your enemies.
 tagClassNecroSkillNameN1=Dullahan
-tagClassNecroSkillDescriptionN1=Summon Dullahan, the headless undead general, to fight for you.
+tagClassNecroSkillDescriptionN1=Summon Dullahan, the headless undead general, to fight for you.^oDullahan scales with Pet Bonuses.
 tagClassNecroSkillNameN2=Undead Attack
 tagClassNecroSkillNameN3=Undead General
 tagClassNecroSkillNameN4=Malice Pulse
@@ -119,7 +114,7 @@ tagClassRangerSkillDescription01T=Your bullets splinter into multiple projectile
 tagClassRangerSkillName01A=Homicidomania
 tagClassRangerSkillDescription01A=Gain bonus to Marksmanship. When you kill an enemy, set up a Mark of the Slayer on the ground.{^n}{^n}^oMark of the Slayer will reinforce you while blocking foes.
 tagClassRangerSkillName01AB=Mark of the Slayer
-tagClassRangerSkillName01B=Magicial Bullet
+tagClassRangerSkillName01B=Mysterious Bullets
 tagClassRangerSkillDescription01B= These mysterious bullets can cause uncertain effects. 
 tagClassRangerSkillName01C=Suppression Fire
 tagClassRangerSkillDescription01C=Your enemy becomes panicked and crushed in a hail of bullets.
@@ -132,12 +127,16 @@ tagClassRangerSkillDescription04=Rapid Fire become a deadly penetrating attack.{
 tagClassRangerSkillName05=Premeditation
 tagClassRangerSkillDescription05=Give you transient bonus after Rapid Fire.{^n}{^n}^oRequires a shield or magical offhand. Also requires a ranged weapon.
 tagClassRangerSkillName05T=Premeditation
-tagClassRangerSkillName06=Bulletstorm
-tagClassRangerSkillDescription06=Rapid shots that are invisible to the eye knock back all enemies around you.{^n}{^n}^oRequires a ranged weapon.
-tagClassRangerSkillName06T=Execute
-tagClassRangerSkillDescription06T=Reinforce the damage of Bulletstorm while losing the crowd control effects.
-tagClassRangerSkillName06B=Dumdums
-tagClassRangerSkillDescription06B=Bulletstorm now causes profuse internal and external bleeding.
+tagClassRangerSkillName06=Arcane Barrage
+tagClassRangerSkillDescription06=Rapid magical shots that are invisible to the eye attack all enemies around you.{^n}{^n}^oRequires a ranged weapon.
+tagClassRangerSkillName06T=Bullets of Demon
+tagClassRangerSkillDescription06T=Arcane Barrage now cause chaos damage.
+tagClassRangerSkillName06T2=Bullets of Devil
+tagClassRangerSkillDescription06T=Arcane Barrage now cause aether damage.
+tagClassRangerSkillName06T3=Bullets of Death
+tagClassRangerSkillDescription06T=Arcane Barrage now cause vital damage.
+tagClassRangerSkillName06B=Trickster
+tagClassRangerSkillDescription06B=Arcane Barrage now causes various debuffs.
 tagClassRangerSkillName07A=Rambler
 tagClassRangerSkillDescription07A=Walking in the wild makes you understand the nature.
 tagClassRangerSkillName07B=Avenger
@@ -179,6 +178,7 @@ tagClassRangerSkillName14=Art of Ranger
 tagClassRangerSkillDescription14=The arts of ranger gives a you chance to cast skills multiple times.
 tagClassRangerSkillNameN1=Uncanny Dodge
 tagClassRangerSkillDescriptionN1=A swift evasive action means you can use the foes as your play thing. Every successful evasion reduce the cooldown of all your activated skills.
+
 
 #***********************************************************************************************************************************
 #FANGSHI
@@ -242,7 +242,7 @@ tagClassFangshiSkillName07BB=Path of Torridity
 tagClassFangshiSkillName07C=Melt Armor
 tagClassFangshiSkillDescription07C=Samadhi Fire melts enemies armor, making them more susceptible to physical attacks.
 tagClassFangshiSkillName08=Rock Spikes
-tagClassFangshiSkillDescription08=Rock spikes burst from the earth along a straight path.{^n}{^n}^oThis attack requires a melee weapon.
+tagClassFangshiSkillDescription08=Rock spikes burst from the earth along a straight path.{^n}{^n}^oThis attack requires a melee weapon or fists.
 tagClassFangshiSkillName08B=Earth Dragon
 tagClassFangshiSkillDescription08B=Change the mechanism of Rock Spikes. It becomes a spiral attack.
 tagClassFangshiSkillName08A=Rockslide
@@ -265,7 +265,7 @@ tagClassFangshiSkillName15=Signet of Earth
 tagClassFangshiSkillDescription15=Force of Earth represents stable. Earth bears Metal while damming Water.{^n}{^n}^oThis ability must be toggled to maintain its effect.
 tagClassFangshiSkillDescription15B=Last stand at death's door
 tagClassFangshiSkillName10=Will Blade
-tagClassFangshiSkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequires a scepter or dagger. Can be used as your default weapon attack.
+tagClassFangshiSkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequi
 
 #***********************************************************************************************************************************
 #CENOBITE
@@ -328,7 +328,7 @@ tagClassCenoSkillName09=Fight Back
 tagClassCenoSkillDescription09=A successful block will consume additional mana to release a powerful melee shield riposte to the attacker.
 tagClassCenoSkillName09T=Shield Riposte
 tagClassCenoSkillName09B=Defensive Stance 
-tagClassCenoSkillDescription09B=Efficient defense, but reducing the attack power.{^n}{^n}^oRequires a melee weapon.
+tagClassCenoSkillDescription09B=Efficient defense, but reducing the attack power.{^n}{^n}^oRequires a melee weapon or fists.
 tagClassCenoSkillName09C=Rapid Block
 tagClassCenoSkillDescription09C=With the reduction block ammount, greatly improve the efficiency of the shiled. 
 tagClassCenoSkillName10=Holy Spirit
@@ -343,217 +343,3 @@ tagClassCenoSkillName12=Scourge
 tagClassCenoSkillDescription12=A divine bolt causes the huge harm. Also jump to other units. 
 tagClassCenoSkillName12B=Annihilation
 tagClassCenoSkillDescription12B=Scourge will greatly weaken the enemy. 
-
-#***********************************************************************************************************************************
-#ARLEQUIN 
-
-tagPetZanniSwordA01=Zanni Sword
-tagPetRodeoPigA02=Porkchop the Rodeo Pig
-
-tagClass29SkillName00=^iArlequin
-tagClass29SkillDescription00=With a laugh and a blade, turn the tide!
-
-tagClass29SkillName01A=Dance of Misdirection
-tagClass29SkillDescription01A=The ^g(H)arlequin^w is a master of dance, you know? The salsa, the chacha, the Charlston - master of it all. But, arguably, most important is the Dance of Misdirection. With each strike the Arlequin causes their foe to fumble their own.  ^oRequires and allows dual-wielding using either sword, mace, dagger, or a sceptre.
-tagClass29SkillName01B=Toe Step Tango
-tagClass29SkillDescription01B=With a shuffle of the feet the ^g(H)arlequin^w steps upon the toes of their foe, causing them to slow whislt angering them. Nothing Draws someone's attention like a stamp on the lil pigs.
-tagClass29SkillName01c=Slapstick, or Knife, or Club.
-tagClass29SkillDescription01c=Majestically, and with an athletic jump, the ^g(H)arelquin^w humorously slaps their foe upon the noggin, stunning, or knocking them down even. Take that!
-
-tagClass29SkillName02A=Dragon's Breath
-tagClass29SkillDescription02A="Did he/she just breath fire? They breathed fire!" - the ^g(H)arlequin's^w enemies as you light them ablaze with a belch of flame. I'd like to see a Nightblade do that!
-tagClass29SkillName02B=Bellow Lungs
-tagClass29SkillDescription02B=A life of singing and breathing fire gives the ^g(H)arlequin^w powerful lungs - better to light thou foe ablaze, in the poet's tongue. Dragon's Breath now burns longer and may send enemies running in fear!
-tagClass29SkillName02C=Hearty Wilds
-tagClass29SkillDescription02C=Part of this balanced skill set.
-
-tagClass29SkillName03A=Flash and Awe!
-tagClass29SkillDescription03A=With a little magic, a sprinkle of alchemy, and a big bang, the ^g(H)arlequin^w shock the audience by disappearing then reappearing again - ooo what a show!
-tagClass29SkillName03B=Shock and Awe!
-tagClass29SkillDescription03B=What's a show without a little lightning?! How does the ^g(H)arlequin^w do it?
-
-tagClass29SkillName04A=Summon Zanni Sword
-tagClass29SkillDescription04A=Using magic, elbowgrease, and quite a bit of wishful thinking the Arlequin summons forth a magical wooden blade to bash their foe's brains in. It is not sharp.
-
-tagClass29SkillName04B=Splinters
-tagClass29SkillDescription04B=The wood of the Zanni Sword becomes frayed and causes bleeding damage, probably from whacking people over the head so much. They're kinda sharp, I guess.
-
-tagClass29SkillName04C=And Then They Lit On Fire
-tagClass29SkillDescription04C=Lighting that elbowgrease up with a little more magic and wishful thinking turned out great. Still not sharp though.
-
-tagClass29SkillName05=Summon Rodeo Pig
-tagClass29SkillDescription05=It is said that a thousand years ago, maybe a few hundred, or even twenty, there lived a pig. It wasn't just any old pig, he or she, I've heard it both ways, was a magical pig! Porkchop, the magical rodeo pig! You can summon this majestic beast to your aid, to run wild, knocking down your enemies. You don't know how, but this ability is yours.
-
-tagClass29SkillName06A=Reginald's Wild Night
-tagClass29SkillDescription06A=A powerful stream of liquid sprayed using secret ^g(H)arlequin^w techniques only shared with masters.  As you grimace through the burning sensation, you use the secret words of power... 'Damn you Archibald!' ^oRemember to wipe your hands after using this skill
-
-tagClass29SkillName06B=Jelg and Kegl
-tagClass29SkillDescription06B=Grand Master (H)arlequins can compress and ignite their stream as it comes out ^oEnergy Cost increase is per damage interval.
-
-tagClass29SkillName06C=I.it...it doesn't burn anymore!
-tagClass29SkillDescription06C=You have performed a sacred ritual, known only to master ^g(H)arlequins^w and now you stream Cthonian pe..power!
-
-tagClass29SkillName10=Focus
-tagClass29SkillDesciption10=Master ^g(H)arlequin^w can remain focused even under duress. Mind over matter. If you don't mind, it doesn't matter.
-
-tagPXNCFF1=Necromancer's
-tagPXNCFF2=Ranger's
-tagPXNCFF3=Fangshi's
-tagPXNCFF4=Cenobite's
-
-tagPXNCFFB_1=Deathlord's
-tagPXNCFFB_2=Sniper's
-tagPXNCFFB_3=Xianren's
-tagPXNCFFB_4=Cleric's
-
-tagPXNCFFB_1_7=Death Knight's
-tagPXNCFFB_1_8=Dragoon's
-tagPXNCFFB_1_9=Kensai's
-tagPXNCFFB_1_10=Templar's
-tagPXNCFFB_2_7=Efreet's
-tagPXNCFFB_2_8=Gunslinger's
-tagPXNCFFB_2_9=Fire Diviner's
-tagPXNCFFB_2_10=Zoroastrian's
-tagPXNCFFB_3_7=Demonologist's
-tagPXNCFFB_3_8=Demon Hunter's
-tagPXNCFFB_3_9=Thaumaturge's
-tagPXNCFFB_3_10=Witch Acolyte's
-tagPXNCFFB_4_7=Dread Assassin's
-tagPXNCFFB_4_8=Slayer's
-tagPXNCFFB_4_9=Ninja's
-tagPXNCFFB_4_10=Templar Assassin's
-tagPXNCFFB_5_7=Archlich's
-tagPXNCFFB_5_8=Der Freisch¨¹tz's
-tagPXNCFFB_5_9=Astrologer's
-tagPXNCFFB_5_10=Diviner's
-tagPXNCFFB_6_7=Spirit Walker's
-tagPXNCFFB_6_8=Wild Hunter's
-tagPXNCFFB_6_9=Geomancer's
-tagPXNCFFB_6_10=Witch Doctor's
-tagPXNCFFB_7_8=Witcher's
-tagPXNCFFB_7_9=Exorcist's
-tagPXNCFFB_7_10=Shadow Priest's
-tagPXNCFFB_8_9=Disenchanter's
-tagPXNCFFB_8_10=Inquisitor's
-tagPXNCFFB_9_10=Anchorite's
-
-tagSXNCFF_07=of Azrael
-tagSXNCFF_08=of Dead Shot
-tagSXNCFF_09=of Five Elements
-tagSXNCFF_10=of Paradise
-
-tagSXNCFF2_07=of Living Dead
-tagSXNCFF2_08=of Ruthless Hunter
-tagSXNCFF2_09=of Truth Seeker
-tagSXNCFF2_10=of Crusader
-
-tagEPNCFF_H_01=Circlet of Taboo
-tagEPNCFF_H_02=Hunter's Visor
-tagEPNCFF_H_03=Blue Cloud Crown
-tagEPNCFF_H_04=Justicar's Helm
-tagEPNCFF_H_05=Skull of Dominator
-tagEPNCFF_H_06=Miraclice
-tagEPNCFF_H_07=Mask of Firecon
-tagEPNCFF_H_07S=Conflagration
-tagEPNCFF_H_07SD=Your body filled with the flame of rage.
-tagEPNCFF_H_08=Wretch
-tagEPNCFF_H_08S=Preemptive Strike
-tagEPNCFF_H_08SD=A preemptive strike can deal fatal damage. However it will take a while when out of combat to reset the effect.{^n}{^n}^oThis ability must be toggled to maintain its effect.
-tagEPNCFF_H_08SS=Preemptive Strike - Reset
-tagEPNCFF_H_09=Arcane Vision
-tagEPNCFF_H_10=Crown of Sword King
-tagEPNCFF_H_11=Helm of Earth Spirit
-tagEPNCFF_H_12=Samadhi Crown
-tagEPNCFF_H_13=Sacred Faceguard
-tagEPNCFF_H_14=Thunder Hood
-tagEPNCFF_H_14S=Thunder Ward
-tagEPNCFF_H_14SD=The ward of thunder shields you from harm.
-tagEPNCFF_H_15=Evil Crown of Thorns
-tagEPNCFF_H_101=Fallen Knight's Face
-
-tagEPNCFF_S_01=Pauldrons of Abyss
-tagEPNCFF_S_02=Commandant Epaulets
-tagEPNCFF_S_03=Mantle of Poison Ivy
-tagEPNCFF_S_04=Shoulderguards of Holy Flame
-tagEPNCFF_S_05=Bone Shoulderguard
-tagEPNCFF_S_06=Wild Stalker's Mantle
-tagEPNCFF_S_07=Blue Cloud Mantle
-tagEPNCFF_S_08=Justicar's Shoulderguard
-
-tagEPNCFF_C_01=Undertaker's Cloth
-tagEPNCFF_C_02=Chivalrous Chestguard
-tagEPNCFF_C_03=Blue Cloud Raiment
-tagEPNCFF_C_04=Blessing Breastplate
-tagEPNCFF_C_05=Shadow Suit
-tagEPNCFF_C_06=Annihilate Robes
-tagEPNCFF_C_07=Jacket of Battleground
-tagEPNCFF_C_08=Woods Keeper's Jacket
-tagEPNCFF_C_09=Jacket of Sword Dance
-tagEPNCFF_C_10=Vestment of Eidolon
-tagEPNCFF_C_11=Templar Assassin's Shadow Coat
-tagEPNCFF_C_12=Chosen Plate
-
-tagEPNCFF_A_01=Nether Grasp
-tagEPNCFF_A_02=Claw of Primeval Woodlurker
-tagEPNCFF_A_03S=Bloodthirsty
-tagEPNCFF_A_03SD=Crisis makes you bloodthirsty.
-tagEPNCFF_A_03=Touch of Rock
-tagEPNCFF_A_04=Divined Shoot Gloves
-tagEPNCFF_A_05=Hands of Ghoul
-tagEPNCFF_A_05S=Life Leech
-tagEPNCFF_A_06=Chivalrous Gauntlets
-tagEPNCFF_A_07=Weaved Green Gauntlets
-tagEPNCFF_A_08=Dominate Bracers
-
-tagEPNCFF_W_01=Cord of Ghoul
-tagEPNCFF_W_02=Falconer's Belt
-tagEPNCFF_W_03=Astal Chains
-tagEPNCFF_W_04=Justicar's Waist Support
-tagEPNCFF_W_05=Cremation Toolkit
-tagEPNCFF_W_06=Ice Field Girdle
-tagEPNCFF_W_07=Dragon Skin Girdle
-tagEPNCFF_W_08=Coil of Chaos
-
-tagEPNCFF_L_01=Pale Legguards
-tagEPNCFF_L_02=Tricker's Trousers
-tagEPNCFF_L_02S=Lightning Reflexes
-tagEPNCFF_L_03=Blue Cloud Legwraps
-tagEPNCFF_L_04=Lionheart Legplates 
-
-tagEPNCFF_F_01=Steps of Ghoul
-tagEPNCFF_F_02=Chivalrous Tales
-tagEPNCFF_F_03=Haruhi
-tagEPNCFF_F_04=Missionary Treads
-
-tagEPNCFF_R_01=Rotten Bone Ring
-tagEPNCFF_R_02=Marksman's Seal
-tagEPNCFF_R_03=Seal of Jade
-tagEPNCFF_R_04=Justicar's Authority
-tagEPNCFF_R_05=Signet of Profaneness
-tagEPNCFF_R_06=Boiga's Eye
-tagEPNCFF_R_07=Ring of Guren
-tagEPNCFF_R_08=Thunder Signet
-
-tagEPNCFF_N_01=Heart of Ghoul
-tagEPNCFF_N_02=Tailsman of Great Distances
-tagEPNCFF_N_03=Consonance Pendant
-tagEPNCFF_N_04=Clergy's Amulet
-tagEPNCFF_N_05=Core of Abyss
-tagEPNCFF_N_06=Amulet of Keen Blade
-tagEPNCFF_N_07=Icesharp
-tagEPNCFF_N_08=Amulet of Thunderfire
-
-tagEPNCFF_M_01=Skull Clan Sigil
-tagEPNCFF_M_02=Chivalrous Mark
-tagEPNCFF_M_02S=Chivalric Killing
-tagEPNCFF_M_03=Badge of Taiji 
-tagEPNCFF_M_04=Shinning Symbol
-
-tagEPNCFF_SET_01=Upper Blue Cloud
-tagEPNCFF_SET_01b=Beyond Blue Cloud
-tagEPNCFF_SET_02=Justicar's Might
-tagEPNCFF_SET_02b=Justicar's Great Power
-tagEPNCFF_SET_03=Possession of Ghoul
-tagEPNCFF_SET_03b=Avatar of Ghoul
-tagEPNCFF_SET_04=Chivalrous Lore
-tagEPNCFF_SET_04b=Chivalrous Legend

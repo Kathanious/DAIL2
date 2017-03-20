@@ -1,4 +1,7 @@
 templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
 Class,Skill_BuffRadius,
-buffSkillName,records/skills/PlayerClassRanger/summon_hawk_mod2_buff.dbr,
+FileDescription,,
+buffSkillName,records/skills/playerClassRanger/summon_hawk_mod2_buff.dbr,
 instantCast,1,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassRanger/pets/summon_hawk_mod2_cast.dbr,

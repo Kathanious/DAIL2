@@ -1,5 +1,5 @@
 ###
-tagWzDGA_LuaNotify_Welcome=Welcome to DGA v0.5.0 - Beta #07
+tagWzDGA_LuaNotify_Welcome=Welcome to DGA v0.5.0 Beta #10
 tagWzDGA_LuaNotify_SpawnedEntities=New Enemies have arrived, enjoy!
 tagWzDGA_LuaNotify_Difficulty_failure=You are in the wrong difficulty to use this
 tagWzDGA_LuaNotify_usedScrollDGA_success=A Portal has been opened
@@ -38,17 +38,25 @@ tagEnemyZombieTrollHalfC01=Zombie Mistborn Warrior
 ### MISC ###
 tagWzGear_NPC_CrafterLeveling_DESC=Equipment
 tagWzGear_NPC_CrafterLeveling_NAME=Planes-Shifters
+tagWaDGA_ReducedRegen_NAME=Reduced Mana Regen (for Pot Exp/Devo Usage)
 
 ### Pylons ###
 #### Type A ####
-tagWzDGA_Pylon_a001_NAME=Shrine of Enlightenment
-tagWzDGA_Pylon_a001_DESC=Increases Experience Gain
-tagWzDGA_Pylon_a002_NAME=Shrine of Fleeting
-tagWzDGA_Pylon_a002_DESC=Increases Movement Speed
-tagWzDGA_Pylon_a003_NAME=Shrine of Celerity
-tagWzDGA_Pylon_a003_DESC=Increases Attack and Casting Speed
-tagWzDGA_Pylon_a004_NAME=Shrine of Quickening
-tagWzDGA_Pylon_a004_DESC=Increases Cooldown Reduction and Mana Cost Reduction
+#tagWzDGA_Pylon_a001_NAME=Shrine of Enlightenment
+#tagWzDGA_Pylon_a001_DESC=Increases Experience Gain
+#tagWzDGA_Pylon_a002_NAME=Shrine of Fleeting
+#tagWzDGA_Pylon_a002_DESC=Increases Movement Speed
+#tagWzDGA_Pylon_a003_NAME=Shrine of Celerity
+#tagWzDGA_Pylon_a003_DESC=Increases Attack and Casting Speed
+#tagWzDGA_Pylon_a004_NAME=Shrine of Quickening
+#tagWzDGA_Pylon_a004_DESC=Increases Cooldown Reduction and Mana Cost Reduction
+
+#tagWzDGA_Pylon_a005_NAME=Shrine of the Giant
+#tagWzDGA_Pylon_a005_DESC=Increases Health and Energy
+#tagWzDGA_Pylon_a006_NAME=Shrine of Trollblood
+#tagWzDGA_Pylon_a006_DESC=Increases Health and Energy Regeneration
+#tagWzDGA_Pylon_a007_NAME=Shrine of 
+#tagWzDGA_Pylon_a007_DESC=h
 
 #### Type B ####
 tagWzDGA_Pylon_b001_NAME=Shrine of Lightning
@@ -57,11 +65,11 @@ tagWzDGA_Pylon_b001_DESC=Deals Lightning Damage to Surrounding Enemies
 ## Script ##
 ### Portals ###
 tagWzDGA_ScriptPortals_BackToCamp=Return to the Encampment
-tagWzDGA_ScriptPortals_ToBossRoom=Portal To Boss Room
+tagWzDGA_ScriptPortals_ToBossRoom=Arena
 
 ## Areas ##
 ###  ###
-tagWzDGA_Areas_0000a=Planes-Shifters Encampment
+tagWzDGA_Areas_0000a=Planes-Shifters Encampment [v0.5.0-beta.10]
 tagWzDGA_Areas_0000b=Boss Room
 
 ### Mission ###

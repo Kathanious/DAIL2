@@ -204,7 +204,7 @@ tagRENCFF_NEC_002SD=The enemy who is killed by you will be transformed to a soul
 tagRENCFF_NEC_003=Monarch
 tagRENCFF_NEC_003B=Blueprint: Relic - Monarch
 tagRENCFF_NEC_003S=Ghost Marksman
-tagRENCFF_NEC_003SD=Summon several ghost marksmen.
+tagRENCFF_NEC_003SD=Summon several ghost marksmen.^oThe ghost marksman scales with Pet Bonuses.
 tagRENCFF_RAN_001=Glare
 tagRENCFF_RAN_001B=Blueprint: Relic - Glare
 tagRENCFF_RAN_001S=Glowering
@@ -464,3 +464,151 @@ tagLENCFF_W_02=Demonhide Sash
 tagLENCFF_W_03=Breathing Death Ammo Belt
 tagLENCFF_W_04=Utpala Naraka
 tagLENCFF_W_05=Kagutsuchi
+
+tagNCFFFist1=Fists
+tagNCFFFist2=Empowered Fists
+tagNCFFFist3=Advenced Fists
+tagNCFFFist4=Expert Fists
+tagNCFFFist5=Mastered Fists
+tagNCFFFist6=Grand Mastered Fists
+tagNCFFFistT=Unique weapon for Monks. ^oThis is NOT a melee weapon.{^n}Can use the components which for all weapons, melee weapons and shields.
+tagNCFFFistP=Use a shield with fists, will cause attack speed penalty.
+tagNCFFFistOff1=Fists - Offhand
+tagNCFFFistOff2=Empowered Fists - Offhand
+tagNCFFFistOff3=Advenced Fists - Offhand
+tagNCFFFistOff4=Expert Fists - Offhand
+tagNCFFFistOff5=Mastered Fists - Offhand
+tagNCFFFistOff6=Grand Mastered Fists - Offhand
+tagNCFFFistOffT=Unique weapon for Monks.
+
+tagPXNCFF5=Monk's
+tagPXNCFFB_5=Brahmaloka's
+tagPXNCFFB_1_11=Gladiator's
+tagPXNCFFB_2_11=Mechanical Fighter's
+tagPXNCFFB_3_11=Witched Pugilist's
+tagPXNCFFB_4_11=Gangster's
+tagPXNCFFB_5_11=Arcane Pugilist's
+tagPXNCFFB_6_11=Wild Figher's
+tagPXNCFFB_7_11=Asura's
+tagPXNCFFB_8_11=Gunkata Master's
+tagPXNCFFB_9_11=Budoka's
+tagPXNCFFB_10_11=Shield Master's
+tagSXNCFF_11=of Zen
+tagSXNCFF2_11=of Saha World
+
+tagRENCFF_MOK_001=Vidyaraja
+tagRENCFF_MOK_001B=Blueprint: Relic - Vidyaraja
+tagRENCFF_MOK_001S=Earthfire
+tagRENCFF_MOK_001SD=A stomp of flame destroy enemies.^oRequires fists.
+tagRENCFF_MOK_002=Sakka
+tagRENCFF_MOK_002B=Blueprint: Relic - Sakka
+tagRENCFF_MOK_002S=Might of Trayastrimsa
+tagRENCFF_MOK_002SD=When used as your default weapon attack, cause additional damage while enhacing defensive. ^oRequires fists.
+tagRENCFF_MOK_003=Brahma
+tagRENCFF_MOK_003B=Blueprint: Relic - Brahma
+tagRENCFF_MOK_003S=Wisdom of Creator 
+tagRENCFF_MOK_003SD=The God of wisdom guides you to victory. ^oRequires fists.
+
+tagEPNCFF_N_09=Dukkha     
+tagEPNCFF_N_10=Talisman of Fire Lotus    
+
+tagEPNCFF_C_13=Cloth of Sramana
+tagEPNCFF_C_14=Cassock of Fire Lotus  
+tagEPNCFF_C_15=Cassock of Devaputra-mara
+
+tagEPNCFF_F_05=Lohan's Zoris
+
+tagEPNCFF_A_09=Grasp of Mrtyu-mara
+tagEPNCFF_A_09S=Touch of Mrtyu-mara
+tagEPNCFF_A_09SD=A melee attack which cause vital damage. ^oRequires fists.
+tagEPNCFF_A_10=Kumbhira
+
+tagEPNCFF_H_17=Hood of Dhuta
+tagEPNCFF_H_18=Crown of Fire Lotus 
+tagEPNCFF_H_19=Crown of Light
+tagEPNCFF_H_20=Hood of Frozenshade
+
+tagEPNCFF_SET_09=The Four Truths
+tagEPNCFF_SET_09b=The Four Noble Truths
+tagEPNCFF_SET_10=Fire Lotus, the Burner
+tagEPNCFF_SET_10S=Fists of Fire Lotus
+tagEPNCFF_SET_10SD=Your fists is enforced with flame.^oThis is a fists passive skill.
+
+tagEPNCFF_L_05=Yamabushi's Trousers
+tagEPNCFF_M_05=Samudaya 
+
+tagEPNCFF_W_09=Peace Belt
+tagEPNCFF_W_10=Raiden Girdle
+
+tagEPNCFF_R_09=Nirodha
+tagEPNCFF_R_10=Snowberg Zazen 
+
+tagEPNCFF_S_09=Gunkata Mantle
+tagEPNCFF_S_10=Magga
+
+tagEPNCFF_OG_03=Shield of Dou
+
+tagLENCFF_SET_07=Vidyaraja Incarnates
+tagLENCFF_SET_07S=Motion as Motionless
+tagLENCFF_SET_07SD=Give you ability to move freedomly. ^oThis is a fists passive skill.
+
+tagLENCFF_H_09=Acalanatha
+tagLENCFF_H_10=Bodhi Crown
+tagLENCFF_H_10S=Abstersion
+tagLENCFF_H_10SD=Dispel all beneficial auras and spells of around foes, while allies are purged of negative ailments, including damage over time effects.
+
+tagLENCFF_H_09B=Blueprint: Acalanatha
+tagLENCFF_H_10B=Blueprint: Bodhi Crown
+
+tagLENCFF_C_09=Trailokyavijaya
+tagLENCFF_C_10=Vaiduryanirbhasa
+tagLENCFF_C_10S=Azure Field
+tagLENCFF_C_10SD=A radius effect that harm and weaken foes.
+
+tagLENCFF_S_09=Kundali
+tagLENCFF_S_09S=Amrita
+tagLENCFF_S_09SD=The immortal power rejuvenates you.
+tagLENCFF_S_10=Mahesvara
+
+tagLENCFF_WP_21=Diamond Sutra
+tagLENCFF_WP_21S=Diamond Wisdom
+tagLENCFF_WP_21SD=^oThis is a fists passive skill.
+
+
+tagLENCFF_N_09=Vaisravana
+tagLENCFF_N_09S=God of Warriors
+tagLENCFF_N_09SD=You are gifted with the power of war and become a punisher of evildoers. ^oThis is a fists passive skill.
+tagLENCFF_N_10=Marapapiyas
+tagLENCFF_N_10S=Presence of the Dark Lord
+tagLENCFF_N_10SD=Your presence reduces the defense of nearby enemies.
+tagLENCFF_M_07=Mark of Consciousness
+tagLENCFF_M_07S=Providence
+tagLENCFF_M_07SD=You learned the truth of the world.
+tagLENCFF_R_05=Avidya
+tagLENCFF_W_06=Void Waist
+
+tagLENCFF_A_05=Vajrayaksa
+tagLENCFF_A_05S=Vajra Crush
+tagLENCFF_A_05SD=^oThis is a melee fists technique that activates off of default weapon attacks. Use both hands.
+
+tagLENCFF_F_05=Mortals Stomper
+tagLENCFF_F_05S=Mortals Stomper
+tagLENCFF_F_05SD=^oThis is a passive negative aura.
+
+tagLENCFF_L_05=Yamantaka
+
+tagLENCFF_SET_08=Triela's Redemption
+tagLENCFF_SET_08S=Gunslinger Valkyrie
+tagLENCFF_SET_08SD=Summon a Gunslinger Valkyrie to fight for you. ^oThe Valkyrie scales with player damage bonuses.
+tagLENCFF_WP_22=Triela's Umpirage
+tagLENCFF_WP_23=Triela's Restraint
+tagLENCFF_R_06=Triela's Memories
+
+tagLENCFF_SET_09=Earthquaker of Baji
+tagLENCFF_F_06=Shake Step of Baji
+tagLENCFF_F_06S=Zhen Jiao
+tagLENCFF_F_06SD=A powerful stomp that expose the weakness of nearby foes.
+tagLENCFF_S_11=Iron Shoulder of Baji
+tagLENCFF_S_11S=Tie Shan Kao
+tagLENCFF_S_11SD=A fatal charge attack.^oRequires fists.
+tagLENCFF_W_07=Inch Power of Baji

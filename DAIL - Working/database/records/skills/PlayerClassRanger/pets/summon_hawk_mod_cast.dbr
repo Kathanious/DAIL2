@@ -1,4 +1,7 @@
 templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
 Class,Skill_AttackBuffRadius,
-buffSkillName,records/skills/PlayerClassRanger/summon_hawk_mod_buff.dbr,
+FileDescription,,
+buffSkillName,records/skills/playerClassRanger/summon_hawk_mod_buff.dbr,
 pointBlank,0,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassRanger/pets/hawk_blitz1.dbr,

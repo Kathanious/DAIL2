@@ -1,4 +1,6 @@
 templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
 Class,SkillSecondary_BuffSelfDuration,
 FileDescription,Spear of the Heavens - Spear of the Heavens,
-buffSkillName,records/skills/PlayerClassFangshi/sakura_bladebarrier1.dbr,
+buffSkillName,records/skills/playerClassFangshi/sakura_bladebarrier1.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassFangshi/sakura_mod1.dbr,

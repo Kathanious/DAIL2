@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillpanectrl.tpl,
 ActorName,,
 Class,,
-FileDescription,Necro,
+FileDescription,Test,
 BasePane,records/ui/skills/classcommon/skills_classpanelconfiguration.dbr,
 skillTabTitle,tagSkillClassNameNecro,
 skillPaneDescriptionTag,tagSkillClassDescriptionNecro,

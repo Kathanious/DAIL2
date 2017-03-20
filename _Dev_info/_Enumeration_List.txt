@@ -1,26 +1,25 @@
 Enumeration Reference Sheet
 
-07		PlayerClassNecro		Necro
-08		PlayerClassRanger		Ranger
-09		ClassCoronus			Coronus
-10		PlayerClassFangshi		Fangshi
-11		FrostKnightClass		Frost Knight
-12		zenithclass02			Elementalist
-13		zenithclass01			Terror Knight
-14		PlayerClassArNecro		Arch Necro
-15		PlayerClassMWar			Mystic Warrior (class15 : Illusionist) 
-16		Defense					Defense
-17		Hunting					Hunting
-18		Spirit					Spirit
-19		Warfare					Warfare
-20		Nature					Nature
-21		Stealth					Stealth
-22		Earth					Earth
-23		Storm					Storm
-24		Dream					Dream
-25		Demonology				Voidcaller
-26		Enchanter				Enchanter
-27		Mercenary				Mercenary(ClassEngineer : Engineer) 
-28		PlayerClassCeno			Cenobite
-29		PlayerClassWitchDoctor	Witch Doctor (Arlequin)
-30		ClassDemonHunter		Demon Hunter
+07 PlayerClassNecro		
+08 PlayerClassRanger		
+09 ClassCoronus			
+10 ClayerClassFangshi		
+12 zenithclass02 (Elementalist)
+13 zenithclass01 (Terror Knight)
+14 PlayerClassArNecro		
+15 PlayerClassMWar			
+16 Defense					
+17 Hunting					
+18 Spirit					
+19 Warfare					
+20 Nature					
+21 Stealth					
+22 Earth					
+23 Storm					
+24 Dream					
+25 Demonology				
+26 Enchanter				
+27 Mercenary				
+28 PlayerClassCeno			
+29 PlayerClassWitchDoctor	
+30 PlayerClassDemonHunter		

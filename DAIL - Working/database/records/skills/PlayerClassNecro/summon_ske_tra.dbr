@@ -1,5 +1,6 @@
 templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
 Class,Skill_BuffRadiusToggled,
 FileDescription, Desperation,
-buffSkillName,records/skills/playerClassNecro/summon_desperation_buff.dbr,
 instantCast,0,
+buffSkillName,records/skills/playerClassNecro/summon_desperation_buff.dbr,

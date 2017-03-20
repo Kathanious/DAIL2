@@ -12,7 +12,7 @@ MASTERIES
 Coronus [1.5.2] - Somerled		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
-NCFF [1.23] - cftx										
+NCFF [1.33] - cftx										
 	http://www.grimdawn.com/forums/showthread.php?t=38158
 	Necromancer
 	Ranger

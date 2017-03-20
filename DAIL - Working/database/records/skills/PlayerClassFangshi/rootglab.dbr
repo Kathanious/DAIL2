@@ -1,4 +1,6 @@
 templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
 Class,Skill_AttackBuffRadius,
-buffSkillName,records/skills/PlayerClassFangshi/rootglab_buff.dbr,
+FileDescription,,
+buffSkillName,records/skills/playerClassFangshi/rootglab_buff.dbr,
 pointBlank,0,

@@ -1,4 +1,6 @@
 templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
 Class,SkillSecondary_BuffSelfDuration,
 FileDescription,Adds pierce % dmg and chaos dmg,
-buffSkillName,records/skills/PlayerClassFangshi/snow_rush_mod3_buff.dbr,
+buffSkillName,records/skills/playerClassFangshi/snow_rush_mod3_buff.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassFangshi/snow_rush_mod3.dbr,

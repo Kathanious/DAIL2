@@ -1,4 +1,6 @@
 templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
 Class,Skill_BuffRadiusToggled,
-buffSkillName,records/skills/PlayerClassFangshi/icewall_tra_buff.dbr,
+FileDescription,,
 instantCast,1,
+buffSkillName,records/skills/playerClassFangshi/icewall_tra_buff.dbr,

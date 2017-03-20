@@ -1,4 +1,6 @@
 templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
 Class,Skill_BuffRadius,
-buffSkillName,records/skills/PlayerClassCeno/passive02_mod1_buff.dbr,
+FileDescription,,
 instantCast,1,
+buffSkillName,records/skills/playerClassCeno/passive02_mod1_buff.dbr,

@@ -1,4 +1,6 @@
 templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
 Class,Skill_BuffRadius,
-buffSkillName,records/skills/PlayerClassNecro/pets/zshadowskill_shock_buff.dbr,
+FileDescription,,
 instantCast,0,
+buffSkillName,records/skills/playerClassNecro/pets/zshadowskill_shock_buff.dbr,

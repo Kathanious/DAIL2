@@ -1,3 +1,7 @@
 templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
 Class,SkillSecondary_BuffSelfDuration,
+FileDescription,,
 buffSkillName,records/skills/playerclass03/bloodofdreeg1_buff.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassRanger/mutl_attack_add_buff.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassRanger/mutl_attack_add_buff_aff.dbr,
