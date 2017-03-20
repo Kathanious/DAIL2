@@ -1,3 +1,7 @@
 templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
 Class,SkillSecondary_BuffSelfDuration,
+FileDescription,,
 buffSkillName,records/skills/playerClassNecro/bonearmor2_buff.dbr,
+fileNameHistoryEntry,mods/mymod/records/skills/playerClassNecro/bonearmor2.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerClassNecro/bonearmor2.dbr,

@@ -1,4 +1,6 @@
 templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
 Class,Skill_BuffRadius,
-buffSkillName,records/skills/PlayerClassCeno/sunray_mod1_buff.dbr,
+FileDescription,,
 instantCast,1,
+buffSkillName,records/skills/playerClassCeno/sunray_mod1_buff.dbr,

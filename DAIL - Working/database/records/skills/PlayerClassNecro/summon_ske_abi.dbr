@@ -1,3 +1,7 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
 Class,SkillSecondary_PetModifier,
+FileDescription,,
+petChanges,,
 petSkillName,records/skills/playerClassNecro/pets/ske_innate1.dbr,
+fileNameHistoryEntry,mods/mymod/records/skills/playerClassNecro/summon_ske_ab.dbr,

@@ -1,3 +1,6 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
 Class,SkillSecondary_PetModifier,
-petSkillName,records/skills/PlayerClassFangshi/pets/icewall_tra.dbr,
+FileDescription,,
+petSkillName,records/skills/playerClassFangshi/pets/icewall_tra.dbr,
+petChanges,,

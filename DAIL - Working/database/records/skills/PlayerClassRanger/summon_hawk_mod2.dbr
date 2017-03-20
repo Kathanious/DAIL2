@@ -1,3 +1,6 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
 Class,SkillSecondary_PetModifier,
-petSkillName,records/skills/PlayerClassRanger/pets/summon_hawk_mod2_cast.dbr,
+FileDescription,,
+petSkillName,records/skills/playerClassRanger/pets/summon_hawk_mod2_cast.dbr,
+petChanges,,

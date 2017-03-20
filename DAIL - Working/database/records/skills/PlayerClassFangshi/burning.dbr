@@ -1,3 +1,5 @@
 templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
 Class,Skill_AttackBuff,
-buffSkillName,records/skills/PlayerClassFangshi/burning_buff.dbr,
+FileDescription,,
+buffSkillName,records/skills/playerClassFangshi/burning_buff.dbr,

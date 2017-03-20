@@ -1,11 +1,11 @@
 #Grimmest
 tagGrimmestZombieHeroH11=This Monster Has No Name
 tagGrimmestZombieHeroH12=Depravities, the Depraved
-tagGrimmestReanimatorHeroH01diseased=Aethoranest, this Diseased Monster Has No Name
-tagGrimmestReanimatorHeroH02unstoppable=Gollorgest, this Unstoppable Monster Has No Name
-tagGrimmestReanimatorHeroH03reflective=Corpsefire-est, this Reflective Monster Has No Name
-tagGrimmestReanimatorHeroH04defender=Azgaloggest, this Defender Has No Name
-tagGrimmestSamtarian_the_half=^pSamtarian, the Half-... 
+tagGrimmestReanimatorHeroH01diseased=Aethoranest of Grimmest
+tagGrimmestReanimatorHeroH02unstoppable=Gollorgest of Grimmest
+tagGrimmestReanimatorHeroH03reflective=Corpsefire-est of Grimmest
+tagGrimmestReanimatorHeroH04defender=Azgaloggest of Grimmest
+tagGrimmestSamtarian_the_half=^pSamtarian, the Half-... of Grimmest
 tagGrimmestHellfly01=^pHellfly, the Fly from Hell
 
 tagGrimmestNicholasBalthazar=Nick Barfazar
@@ -31,7 +31,7 @@ tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
 tagNPC_Guard_Mood=Mood - ^oArcane Huntress 
 
-tagQuests=Active Quests (60.7B)
+tagQuests=Active Quests (60.8)
 
 #Top Left UI tag
 tagRDifficultyTitle01=Normal NG
@@ -60,12 +60,12 @@ tagConsumableTransmog=CrateBox
 
 
 #DAIL NEMESIS NOTIFIERS
-DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
-DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
-DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
-DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
-DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
-DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open^n^n and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you^n^n as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive^n^n... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver^n^n as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. ^n^nsomeone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you^n^n as you begin to notice the faint smell of lavender....
 
 
 #DAIL STUFFS

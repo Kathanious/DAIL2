@@ -1,5 +1,6 @@
 templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
 Class,Skill_BuffRadius,
 FileDescription,Dryad - Dryad's Blessing,
-buffSkillName,records/skills/PlayerClassNecro/pets/healeffect.dbr,
 instantCast,1,
+buffSkillName,records/skills/playerClassNecro/pets/healeffect.dbr,
