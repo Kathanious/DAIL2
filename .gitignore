@@ -1,6 +1,8 @@
+#ignores build files
 *.arz
 *.arc
 **/resources
+#ignores DGA files
 **/Wanez_Unique
 DAIL - Working/Source/wanez
 DAIL - Working/Source/wanez_dga_map
