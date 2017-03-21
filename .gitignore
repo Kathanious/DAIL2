@@ -2,7 +2,6 @@
 *.arc
 **/resources
 **/Wanez_Unique
-Source/wanez
-Source/wanez_dga_map
-Database/mod_wanez
-
+DAIL - Working/Source/wanez
+DAIL - Working/Source/wanez_dga_map
+DAIL - Working/Database/mod_wanez
