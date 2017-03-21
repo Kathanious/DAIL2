@@ -1,7 +1,16 @@
-Edit [3/17/2017] K
+Edit [3/20/2017] K
 
 ****************************************************************
 ****************************************************************
+60.8 3/20/2017]
+Update - DGA Beta10b
+
+Change - +All Skill Amulet materia
+	Level reqs changed - only new purchases, materia in-play unchanged
+		Tier1 - 35
+		Tier2 - 65
+		Tier3 - 100
+
 [60.8 3/19/2017]
 Update - NCFF 1.33
 
@@ -32,7 +41,6 @@ Madness - Hell on wheels
 	Update - Cornucopia hotfix
 	Update - Grim Quest hotfix
 	Update - Dawn of Heros
-	
 	
 [60.7 3/2/2017]
 Update - GrimmerGrimmest
