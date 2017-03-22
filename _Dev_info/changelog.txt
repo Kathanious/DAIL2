@@ -2,20 +2,27 @@ Edit [3/20/2017] K
 
 ****************************************************************
 ****************************************************************
-60.8 3/20/2017]
+[60.8 3/21/2017]
+Fix - Missing skill profile on d001_scepter.dbr
+
+Fix - Missing DGA items outside of DGA
+
+Change - +skill materia ilvl and cost 
+	increased to 35, 65, 100
+	increased to 1mil, 2mil, 3mil iron
+
+[60.8 3/20/2017]
 Update - DGA Beta10b
 
-Change - +All Skill Amulet materia
-	Level reqs changed - only new purchases, materia in-play unchanged
-		Tier1 - 35
-		Tier2 - 65
-		Tier3 - 100
-
 [60.8 3/19/2017]
+Update - per AlienFromBeyond
+	Affix tables
+	Affixes on crafted items
+
 Update - NCFF 1.33
 
 [60.8 3/172017]
-Fixed - rare crafting materia drops
+Fix - rare crafting materia drops
 
 Update - Corn 0.3.3I
 
@@ -35,9 +42,9 @@ Remove - 60.7B release to prevent ass monkey
 
 [60.7 3/4/2017]
 Madness - Hell on wheels
-	Fixed - component malfunction
-	Fixed - Omega quest in-op
-	Fixed - missing Spirit skills
+	Fix - component malfunction
+	Fix - Omega quest in-op
+	Fix - missing Spirit skills
 	Update - Cornucopia hotfix
 	Update - Grim Quest hotfix
 	Update - Dawn of Heros
@@ -95,8 +102,8 @@ Add - additional 'Stuffs' npc
 		NCFF - Custom Relics
 
 Audit - Enchanter
-	Fixed - missing stoneguardian tag
-	Fixed - missing Faerie pet textures 
+	Fix - missing stoneguardian tag
+	Fix - missing Faerie pet textures 
 		In /items, part of loot overhaul
 
 [60.7 12/28/2016]
@@ -127,7 +134,7 @@ Update - GQ 1.44A
 
 [60.7 12/17/2016]
 Audit - Cenobite
-	Fixed - Perfect Block
+	Fix - Perfect Block
 		Animation > BladeBarrier
 	Change - Defensive stance	
 		Weapon reqs > Shield
@@ -195,7 +202,7 @@ Update - Omega 0.71
 
 Update - Lost Treasures 0.25
 
-Fixed - GQ & Ranger anm conflicts
+Fix - GQ & Ranger anm conflicts
 
 [60.6 11/28/2016]
 Post 50 mastery investment inquiries - AlienFromBeyond
@@ -206,13 +213,13 @@ Post 50 mastery investment inquiries - AlienFromBeyond
 Inquiry - Ranger Rapid Fire
 	Animation conflict with GQ 
 
-Fixed - Missing Merc combo names
+Fix - Missing Merc combo names
 
 [60.6 11/26/2016]
 Remove - itemrecycler
 	Causing crafting lock-up
 	
-Fixed - Missing TK training bar image
+Fix - Missing TK training bar image
 
 [60.5 11/24/2016]
 Change - (X) and (SX)
@@ -246,9 +253,9 @@ Inquiry - DGA Factions
 	Default factions DC (Survivors) and Aetherial on player Faction tab
 		Factions not used in DGA - No DC merchant
 
-Fixed - Missing GQ controller data
+Fix - Missing GQ controller data
 
-Fixed - Missing Cornucopia components
+Fix - Missing Cornucopia components
 
 Update - Grimmest [1.0]
 	Base for (S) amd (SX) density
@@ -257,22 +264,22 @@ Update - Grimmest [1.0]
 Update - Zenith 0.5
 
 [60.3 11/20/2016]
-Fixed - Missing DoH controllers
+Fix - Missing DoH controllers
 
 [60.2 11/20/2016]
 Update - Omega 0.7
 
-Fixed - Adjustment dbr for (B) and (S) modes
+Fix - Adjustment dbr for (B) and (S) modes
 
 [60.2 11/18/2016]
-Fixed - Malepc01.dbr class28 typo
+Fix - Malepc01.dbr class28 typo
 
 [60.1 11/18/2016]
 Update - Dawn of Heroes 3.9
 
-Fixed - Missing Grover Keeper assets
+Fix - Missing Grover Keeper assets
 
-Fixed - Incorrect mob challenge in B and S
+Fix - Incorrect mob challenge in B and S
 
 [60 11/17/2016]
 Update - Dawn of Heroes 3.8
@@ -291,7 +298,7 @@ Rotate - Engineer#27 -> Mercenary
 
 Update - Omege 0.65
 
-Fixed - Arcanist - Aether Ray missing Aether damage (imagine that)
+Fix - Arcanist - Aether Ray missing Aether damage (imagine that)
 
 [59 11/10/2016]
 Update - Lost Treasures 022.b
@@ -321,14 +328,14 @@ Update - NCFF 1.23
 	
 [58.3 11/6/2016]
 	
-Fixed - BoC Portal
+Fix - BoC Portal
 	Wavespawn.lua removed from main.lua
 	Moved record/level art to GDE Unique
 
-Fixed - Ranger tag
+Fix - Ranger tag
 	No tag in source - made something up
 
-Fixed - Hunting enumeration
+Fix - Hunting enumeration
 	23 -> 17 (Failure to correct after GQ update)
 	
 [58.2 11/5/2016]
@@ -338,7 +345,7 @@ Inquiry - Nullified mode specific folders
 Inquiry - Potion stack limit
 	1000
 	
-Fixed - Rare crafting components not dropping
+Fix - Rare crafting components not dropping
 	autoloot entries in enemies dbrs
 
 [58.1F 11/4/2016]
@@ -349,7 +356,7 @@ Miracle - Fix FK pet bug
 [58.1 11/3/2016]
 Update - NCFF 1.10
 
-Fixed - Materia bug - Grimmer 1.0 tdyn loot weights
+Fix - Materia bug - Grimmer 1.0 tdyn loot weights
 
 Reapplied - Hunting source (no javelin update in 1.4.3)
 
@@ -371,14 +378,14 @@ Merged - All play mode resources
 	Simplified database
 		More work on release day, less cross database errors
 
-Fixed - Missing GQ resources
+Fix - Missing GQ resources
 	GQ relics on faction tables
 
 [58 10/26/2016]
 Inquiry - FK Revenant pet
 	Functions in test play
 
-Fixed - Transmorg not selling illusions
+Fix - Transmorg not selling illusions
 	Replaced missing database/records/items/crafting/bluprints/transmogs folder
 
 Inquiry - Cenobite Shield Bash (strikes on 2nd hit, spec 4th hit)
@@ -387,11 +394,11 @@ Inquiry - Cenobite Shield Bash (strikes on 2nd hit, spec 4th hit)
 
 Release - Experimental version for loot test
 
-Fixed - Fangshi broken tag
+Fix - Fangshi broken tag
 
-Fixed - DemonHunter incorrect tag
+Fix - DemonHunter incorrect tag
 
-Fixed - Witch Doctor missing tag on mastery tab 
+Fix - Witch Doctor missing tag on mastery tab 
 
 [58 10/25/2016]
 Inquiry - Loot dbrs
@@ -459,29 +466,29 @@ Idea - Enumeration #29 and #30 class rotation
 Change - Survival
 	Removed suspension on shrines granting attribute/skill points
 	
-Fixed - LostTreasures
+Fix - LostTreasures
 	LostTreasures.lua added to main.lua	
 		Treasure boss encountered during Cronley run!
 
 [56 10/8/2016]
-Fixed - Survival
+Fix - Survival
 	Faction assignments - again
 		Test play good
 		
 [56 10/8/2016]
-Fixed - Survival missing spear textures
+Fix - Survival missing spear textures
 	Adjusted GQmerge.bat - good merge
 	Repacked and uploaded 
 
 [56 10/8/2016]
-Fixed - Frost Knight
+Fix - Frost Knight
 	Frost Aura changed by dev to 2h melee skill - skill works, wrong tags
 
-Fixed - Missing GQ assets
-	Fixed merge batch file
+Fix - Missing GQ assets
+	Fix merge batch file
 
 [56 10/7/2016]
-Fixed - misc tags
+Fix - misc tags
 	Coronus
 	Necro
 	
@@ -498,7 +505,7 @@ Change - Survival
 		Kymon, user6 -> Outlaws
 		DeathVigil, user8 -> Undead
 
-Fixed - Illusionist
+Fix - Illusionist
 	Changeling Pet
 		Missing database/records/creatures/enemies/dd_anim_changeling.dbr
 	My Reflection
@@ -520,11 +527,11 @@ Clean-up cont. pt2 (where is this coming from?)
 			Changed - bio Demonology -> frostknightclass
 		Updated Enchanter	
 	Enable - Cratebox
-	Fixed - Illusionist tags 
+	Fix - Illusionist tags 
 		class08 -> class15
-	Fixed - Terror Knight tags 
+	Fix - Terror Knight tags 
 		class16 -> class 13
-	Fixed - Elementalist tags 
+	Fix - Elementalist tags 
 		class17 -> class12
 	Inquiry - Engineer turrents 
 			Functions 
@@ -565,12 +572,12 @@ Clean-up
 	Investigated simple bugs - see DAIL/Bugs thread
 
 [56 9/24]
-UI Fixed - Again
+UI Fix - Again
 	Added texture to mastery background
 		source/ui/skills/skills_classwindowbackgroundimage.tga
 	Loading screen image changed
 		source/ui/loading
-	Fixed - odd Engineer data field changes? (Tag07 instead of 27, wrong xy)
+	Fix - odd Engineer data field changes? (Tag07 instead of 27, wrong xy)
 		Skills_classselectiontable.dbr
 	Class Selection
 		All buttons and txt dbr headers labeled for tracking
@@ -580,9 +587,9 @@ QOL
 	_Enumeration_List.txt added to records/UI/skills, records/skills, and Dev_Info
 	Changed some class selection and class selected image names to reflect image content
 		source/ui/skills classsection and skillallocation
-	Fixed - Mastery Selection background image
-	Fixed - Coronus skill tree and tags -(re)updated
-	Fixed - Fangshi tree titled Coronus (tagclass09 overlap)
+	Fix - Mastery Selection background image
+	Fix - Coronus skill tree and tags -(re)updated
+	Fix - Fangshi tree titled Coronus (tagclass09 overlap)
 	(re)updated Elementalist and Terror Knight
 
 [55 9/23]
@@ -594,7 +601,7 @@ HF Built
 Git er dun - back on track - so we thought
 	Batch files updated
 	Missing Rift assets uploaded to repo
-	Fixed - UI - again
+	Fix - UI - again
 	All classes selectable and trees present.
 	New character gains xp (DAIL vanilla mode)
 		
@@ -602,8 +609,8 @@ Git er dun - back on track - so we thought
 QOL - Potions/Mercs
 	Added - Demon (Void Caller)  
 	Added - Demon Hunter 
-	Fixed - Arch Necromancer 
-	Fixed - Illusionist potions fixed
+	Fix - Arch Necromancer 
+	Fix - Illusionist potions Fix
 
 TAG tweaks (Davood)
 
@@ -635,35 +642,35 @@ Improvement - Arlequin
 	Varius UI fixes
 	Redesigned what was once an incomplete buff based on raven/storm spirit
 
-Fixed - *Various Frost Knight issues - Updated to v 3.4
+Fix - *Various Frost Knight issues - Updated to v 3.4
 	Frost Aura, Pet, UI tweaks
 	Test play good
 
-Fixed - *Engineer missing 3 bottom cross over skills. 
+Fix - *Engineer missing 3 bottom cross over skills. 
 	Requires special template to compile, included in source
 
-Fixed - *Missing Terror Knight#12 and Illusionist#13 skills_classselectedimage
+Fix - *Missing Terror Knight#12 and Illusionist#13 skills_classselectedimage
 
-Fixed - *Selection buttons
+Fix - *Selection buttons
 	Class selection UI polished
 
-Fixed - *Terror Knight tagSkillClassDescription13 missing
+Fix - *Terror Knight tagSkillClassDescription13 missing
 
-Fixed - *Cenobite#28 
+Fix - *Cenobite#28 
 	Class selection points to Fangshi
 		Incorrect pointer in UI/classtable.dbr
 	Class Image of Fangshi
 		tags_classselectedimage28 = Cenobite
 			Incorrect pointer in UI/classimage
 
-Fixed - *Fangshi#10 tree titled button Coronus#9(Cor)
+Fix - *Fangshi#10 tree titled button Coronus#9(Cor)
 	tagSkillClassName10=Fangshi
 		Incorrect pointer in UI/classtable.dbr
 		
-Fixed - *Arch Necro#14 missing images, class table still functions - missing all image source material
+Fix - *Arch Necro#14 missing images, class table still functions - missing all image source material
 	Forgot GQmerge.bat after first compile
 
-Fixed - *Illusionist#15 missing images, class table still functions - missing all image source  material
+Fix - *Illusionist#15 missing images, class table still functions - missing all image source  material
 	Forgot GQmerge.bat after first compile
 		
 *Square icons with round borders look off
@@ -673,7 +680,7 @@ Fixed - *Illusionist#15 missing images, class table still functions - missing al
 	Necro - 
 	Cenobite - 
 		
-Fixed - *Missing spear tex
+Fix - *Missing spear tex
 	Forgot GQmerge.bat after first compile
 	
 [55 - 9/3]
@@ -690,8 +697,8 @@ devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
 		Changed back to 55, know working value
 		Chanbged back to 59 after release :(
 054 - 8/30
-Fixed - "I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
-Fixed - "camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321"
+Fix - "I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
+Fix - "camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321"
 	database/records/game/gameengine.dbr
 		restord to vanilla
 Vanilla
@@ -729,7 +736,7 @@ artwork for terror knight
 	Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
 
 054 - 8/25
-Fixed - *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+Fix - *(H)arlequin weird icon in upper left Fix or not Fix. its driving me nuts was there with original Atrosatiro version
 	database/records/ui/skill/class29/ClassTable.dbr  
 		Removed skill13.dbr entry, points to unused skill 
 		Removed skill14.dbr entry, points to unused skill
