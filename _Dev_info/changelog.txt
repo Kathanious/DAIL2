@@ -14,12 +14,6 @@ Change - +skill materia ilvl and cost
 [60.8 3/20/2017]
 Update - DGA Beta10b
 
-Change - +All Skill Amulet materia
-	Level reqs changed - only new purchases, materia in-play unchanged
-		Tier1 - 35
-		Tier2 - 65
-		Tier3 - 100
-
 [60.8 3/19/2017]
 Update - per AlienFromBeyond
 	Affix tables
