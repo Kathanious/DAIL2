@@ -3,6 +3,11 @@ Edit [3/26/2017] K
 ****************************************************************
 ****************************************************************
 [60.8 3/36/2017]
+Fix - per AlienFromBeyons
+	Various epic/leg affixes
+
+Fix - Missing Grimmest quest edits
+
 Fix - Nature wolf pack buff
 	Tier 8 > 7
 
