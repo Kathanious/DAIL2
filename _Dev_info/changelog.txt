@@ -1,8 +1,20 @@
-Edit [3/20/2017] K
+Edit [3/26/2017] K
 
 ****************************************************************
 ****************************************************************
-[60.9 3/24/2017]
+[60.8 3/36/2017]
+Fix - Nature wolf pack buff
+	Tier 8 > 7
+
+Fix - Missing Elementalist post 50
+
+Audit - Mastery post 50
+
+Fix - MWar
+	Remove - Conversion retalliation on Vessel
+	Fix - Lit scaling on damage aura
+
+[60.8 3/24/2017]
 Fix - Incorrect X mode proxie pools
 
 Add - XB mode
