@@ -1,7 +1,7 @@
 templateName,database/templates/factionpack.tpl,
 ActorName,,
 Class,,
-FileDescription,,
+FileDescription,OUTLAWS!,
 myFaction,Outlaws,
 factionIcon,ui/character/faction_user8.tex,
 factionLargeIcon,ui/character/faction_largeuser8.tex,
