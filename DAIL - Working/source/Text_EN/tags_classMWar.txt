@@ -10,10 +10,10 @@
 #tagSkillClassName0607=Aether Storm
 
 tagSkillClassNameMWar=^tMystic Warrior
-tagSkillClassDescriptionMWar=^kMystic Warriors ^ware former military with 'special' gifts.  With the fall of society and its guiding structures, and having been possessed by an aetherial entity, Mystic Warriors traded discipline for power.
+tagSkillClassDescriptionMWar=^kMystic Warriors ^ware former military with 'special' gifts.  With the fall of society and its guiding structures, Mystic Warriors traded discipline for power.
 
 tagClassMWarSkillName00=Mystic Warrior
-tagClassMWarSkillDescription00=^tAetherial ^wattunement and combat aptitude. Drink from the endless well of the ^aether ^wand lose yourself to it's power.
+tagClassMWarSkillDescription00=^tAetherial ^wattunement and combat aptitude. Drink from the endless well of the ^aether ^wand lose yourself to its power.
 
 tagClassMWarSkillName01A=Aether Burst
 tagClassMWarSkillDescription01A=Unleash your gift with a focused strike. ^n^n^rRequires a melee weapon.
