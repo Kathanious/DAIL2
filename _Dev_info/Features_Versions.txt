@@ -58,7 +58,7 @@ Mystic Warrior [DAIL Variation] - Jaggd
 	ALTERNATE PLAY MODES
 ****************
 
-DGA [Beta9] - Warebare
+DGA [Beta10] - Warebare
 	http://www.grimdawn.com/forums/showthread.php?t=38585
 	Dynamically Generated Areas
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38585&highlight=mapping
