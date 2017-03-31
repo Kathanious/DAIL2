@@ -265,7 +265,7 @@ tagClassFangshiSkillName15=Signet of Earth
 tagClassFangshiSkillDescription15=Force of Earth represents stable. Earth bears Metal while damming Water.{^n}{^n}^oThis ability must be toggled to maintain its effect.
 tagClassFangshiSkillDescription15B=Last stand at death's door
 tagClassFangshiSkillName10=Will Blade
-tagClassFangshiSkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequi
+tagClassFangshiSkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequires a scepter or dagger. Can be used as your default weapon attack.
 
 #***********************************************************************************************************************************
 #CENOBITE

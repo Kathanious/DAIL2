@@ -12,11 +12,6 @@
 #CLASS MERC
 #ENUMERATION 27
 
-
-#CLASS Mage
-#CLASS STALKER
-#CLASS MALEFICAR
-
 #Masteries
 
 #Descriptions
