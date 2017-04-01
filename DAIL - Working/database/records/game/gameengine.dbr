@@ -1,7 +1,7 @@
 templateName,database/templates/gameengine.tpl,
 ActorName,,
 Class,,
-FileDescription,B,
+FileDescription,NG,
 coldDamageFxPak,records/fx/damagedefault/dmgdur_cold_chfxpak01.dbr,
 fireDamageFxPak,records/fx/damagedefault/dmgdur_fire_chfxpak01.dbr,
 lightningDamageFxPak,records/fx/damagedefault/dmgdur_electrical_chfxpak01.dbr,
