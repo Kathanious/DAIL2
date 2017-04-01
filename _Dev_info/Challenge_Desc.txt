@@ -1,0 +1,10 @@
+[NG] - Normal Game - Vanilla density, mob challenge. Vanilla scaling.
+[B] - Bastard - Vanilla trash density with increased heroes and bosses. Mobs scale with player level.
+[S] - Slayer - Grimmest. Heavy trash density, hero, and bosses. Mobs scale with player level.
+[SD] - Slayer Diminished - Heavy  density with normal hero and bosses. Mobs scale with player level.
+[X] - Xenia -[NG] with increased mob challenge (critters are slightly tougher). Vanilla scaling.
+[XB] - XBastard - [B] with increased mob challenge (critters are slightly tougher). Mobs scale with player level.
+[SX] - SlayerX [S] with increased mob challenge (critters are slightly tougher). Mobs scale with player level.
+[EP] - Epic Proportions - Full Cornucopia with stat and entity changes.
+
+Thanks to Jiaco (Grimmer/Grimmest dev) and his work with enemy pool modding to help make these modes possible.
