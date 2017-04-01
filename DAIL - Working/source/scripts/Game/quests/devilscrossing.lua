@@ -21,7 +21,8 @@ local potionChestSpawned = false
 local IntroPotionState = { Potions = 0, Nothing = 1 }
 
 local introPotionStateObjects = orderedTable()
---	introPotionStateObjects["DC_INTRO_POTIONS"] = { state = IntroPotionState.Nothing, dbr = nil }
+	--introPotionStateObjects["DC_INTRO_POTIONS"] = { state = IntroPotionState.Nothing, dbr = nil }
+	introPotionStateObjects["DC_INTRO_POTIONS"]		= { state = IntroPotionState.Potions, dbr = "records/items/lootchests/questchests/questchest_intropotionchest.dbr" }
 	introPotionStateObjects[""]					= { state = IntroPotionState.Potions, dbr = "records/items/lootchests/questchests/questchest_intropotionchest.dbr" }
 
 function gd.quests.devilsCrossing.introPotionChestOnAddToWorld(objectId)
@@ -34,8 +35,10 @@ function gd.quests.devilsCrossing.introPotionChestOnAddToWorld(objectId)
 			local userdata = {}
 			TokenStateBasedObjectSwap(objectId, userdata, introPotionStateObjects)
 			Shared.setUserdata(objectId, userdata)
+
 		
-			potionChestSpawned = true
+			-- potionChestSpawned = true
+			potionChestSpawned = false
 		
 		end
 	
