@@ -31,7 +31,7 @@ tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
 tagNPC_Guard_Mood=Mood - ^oArcane Huntress 
 
-tagQuests=Active Quests (60.8D NG)
+tagQuests=Active Quests (60.8E)
 
 #Top Left UI tag
 tagRDifficultyTitle01=Normal NG

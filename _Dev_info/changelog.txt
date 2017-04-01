@@ -8,6 +8,11 @@ Fix - Campaign
 	
 Fix - GQ Epics now show affixes
 
+Fix - Eternal
+	Moved aethersoul materia to materia tab
+
+Fix - Fangshi missing skill desc
+
 [60.8 3/29/2017]
 Fix - Ranger tag
 
