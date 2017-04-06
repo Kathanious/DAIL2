@@ -1,0 +1,8 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,placeholder thing,
+cooldownTime,,
+petChanges,records/skills/nature/bloodnymph/bloodnymph_01.dbr;records/skills/nature/bloodnymph/bloodnymph_02.dbr;records/skills/nature/bloodnymph/bloodnymph_03.dbr;records/skills/nature/bloodnymph/bloodnymph_04.dbr;records/skills/nature/bloodnymph/bloodnymph_05.dbr;records/skills/nature/bloodnymph/bloodnymph_06.dbr;records/skills/nature/bloodnymph/bloodnymph_07.dbr;records/skills/nature/bloodnymph/bloodnymph_08.dbr;records/skills/nature/bloodnymph/bloodnymph_09.dbr;records/skills/nature/bloodnymph/bloodnymph_10.dbr;records/skills/nature/bloodnymph/bloodnymph_11.dbr;records/skills/nature/bloodnymph/bloodnymph_12.dbr;records/skills/nature/bloodnymph/bloodnymph_13.dbr;records/skills/nature/bloodnymph/bloodnymph_14.dbr;records/skills/nature/bloodnymph/bloodnymph_15.dbr;records/skills/nature/bloodnymph/bloodnymph_16.dbr;records/skills/nature/bloodnymph/bloodnymph_17.dbr;records/skills/nature/bloodnymph/bloodnymph_18.dbr;records/skills/nature/bloodnymph/bloodnymph_19.dbr;records/skills/nature/bloodnymph/bloodnymph_20.dbr;records/skills/nature/bloodnymph/bloodnymph_21.dbr;records/skills/nature/bloodnymph/bloodnymph_22.dbr;records/skills/nature/bloodnymph/bloodnymph_23.dbr;records/skills/nature/bloodnymph/bloodnymph_24.dbr;records/skills/nature/bloodnymph/bloodnymph_25.dbr;records/skills/nature/bloodnymph/bloodnymph_26.dbr,
+petSkillName,records/skills/nature/sylvannymph_b_transmuter.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/nature/sylvannymph_b.dbr,

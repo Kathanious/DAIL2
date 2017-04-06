@@ -1,3 +1,16 @@
+tagSpear=Spear
+tagStaff=Staff
+tagCraftingSpears=SPEARS
+tagCraftingStaves=STAVES
+
+tagWeaponUnknown=Unknown
+
+tagDevotion_RequiresMagic=^o Requires a staff, scepter, dagger, or caster off-hand.
+
+tagDamageModifierSleep={%+.0f0}% {^E}Sleep Duration
+tagDefenseSleep={%.0f0}% {^E}Reduced Sleep Duration
+tagDefenseSleepModifier={%+.0f0}% {^E}Reduced Sleep Duration
+
 
 //ALL QUALITY TAGS REMOVED!//
 CommonWeaponFormat={%s1 %s0}{^n}
@@ -1806,6 +1819,8 @@ xtagArtifactDescription037=Book of Dreams
 xtagArtifactDescription037D=Powerful dream magic crashes into nearby enemies, dealing damage and sapping some of the life from them.
 xtagArtifactDescription038=Soul Prism
 xtagArtifactDescription039=Druidic Wreath
+xtagArtifactDescription039S1=Healing Wreath
+xtagArtifactDescription039S2=Poisoned Wreath
 xtagArtifactDescription039D=Druidic magics protect the caster, healing them and cursing nearby enemies with a wreath of deadly poisons.
 xtagArtifactDescription040=Shadow Veil
 xtagArtifactDescription041=Fury of the Ages

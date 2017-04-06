@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,placeholder thing,
+petSkillName,records/skills/nature/regrowth_b_transmuter.dbr,
+petChanges,records/skills/nature/regrowth/regrowth_b_01.dbr;records/skills/nature/regrowth/regrowth_b_02.dbr;records/skills/nature/regrowth/regrowth_b_03.dbr;records/skills/nature/regrowth/regrowth_b_04.dbr;records/skills/nature/regrowth/regrowth_b_05.dbr;records/skills/nature/regrowth/regrowth_b_06.dbr;records/skills/nature/regrowth/regrowth_b_07.dbr;records/skills/nature/regrowth/regrowth_b_08.dbr;records/skills/nature/regrowth/regrowth_b_09.dbr;records/skills/nature/regrowth/regrowth_b_10.dbr;records/skills/nature/regrowth/regrowth_b_11.dbr;records/skills/nature/regrowth/regrowth_b_12.dbr;records/skills/nature/regrowth/regrowth_b_13.dbr;records/skills/nature/regrowth/regrowth_b_14.dbr;records/skills/nature/regrowth/regrowth_b_15.dbr;records/skills/nature/regrowth/regrowth_b_16.dbr;records/skills/nature/regrowth/regrowth_b_17.dbr;records/skills/nature/regrowth/regrowth_b_18.dbr;records/skills/nature/regrowth/regrowth_b_19.dbr;records/skills/nature/regrowth/regrowth_b_20.dbr;records/skills/nature/regrowth/regrowth_b_21.dbr;records/skills/nature/regrowth/regrowth_b_22.dbr;records/skills/nature/regrowth/regrowth_b_23.dbr;records/skills/nature/regrowth/regrowth_b_24.dbr;records/skills/nature/regrowth/regrowth_b_25.dbr;records/skills/nature/regrowth/regrowth_b_26.dbr,
+cooldownTime,,

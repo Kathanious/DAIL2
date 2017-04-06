@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,45,
+records,records/items/loottables/weapons/tdyn_staff2h_d01.dbr,
