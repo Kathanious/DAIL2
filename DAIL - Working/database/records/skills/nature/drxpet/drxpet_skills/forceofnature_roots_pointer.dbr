@@ -1,6 +1,6 @@
 templateName,database/templates/skill_buffradius.tpl,
 ActorName,Typhon_BonetrapGrenade,
 Class,Skill_BuffRadius,
-buffSkillName,records\skills\nature\drxpet\drxpet_skills\forceofnature_roots_buff.dbr,
+FileDescription,,
 instantCast,0,
-fileNameHistoryEntry,mods/grim quest/records/skills/nature/drxpet/drxpet_skills/forceofnature_roots_pointer.dbr,
+buffSkillName,records/skills/nature/drxpet/drxpet_skills/forceofnature_roots_buff.dbr,

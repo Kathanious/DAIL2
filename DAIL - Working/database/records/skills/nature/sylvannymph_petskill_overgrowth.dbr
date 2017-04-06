@@ -1,6 +1,5 @@
-templateName,database/templates/skill_buffother.tpl,
+templateName,database/templates/skillsecondary_buffradius.tpl,
 ActorName,,
-Class,Skill_BuffOther,
+Class,SkillSecondary_BuffRadius,
 FileDescription,,
 buffSkillName,records/skills/nature/sylvannymph_petskill_overgrowthbuff.dbr,
-fileNameHistoryEntry,mods/grim quest/records/skills/nature/sylvannymph_petskill_overgrowth.dbr,

@@ -1,0 +1,8 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+cooldownTime,,
+petChanges,,
+petSkillName,records/skills/nature/regrowth_petskill_acceleratedgrowth.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/nature/regrowth_acceleratedgrowth.dbr,

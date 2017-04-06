@@ -1,39 +1,13 @@
-//Training in defense provides the means to fend off physical attacks, effectively use defensive equipment such as shields and armor, and recover quickly from damage dealt by enemies.  Primary training includes use of shields and armor, attack avoidance, and utilizing the body’s own regenerative power to boost recovery.  
-
+# modified with WanezToolsGD (https://github.com/WareBare/WanezToolsGD)
 
 tagSkillClassDescription_TQ01=The Defender specializes in surviving battles but offers little in the way of offensive enhancements.  Many skills focus on utilizing the shield to deflect attacks and disable enemies. 
-
-
-//The art of hunting has been cultivated since before civilized times as a means of sustenance and sport.  However, in these times, the skills of the hunter are put to better use tracking and slaying the monstrous quarry that now plagues every human land.  Weapons of choice are spear and bow.  The arts of hunting concern mobility, ensnaring enemies, and the construction of traps.  
-
 tagSkillClassDescription_TQ02= Master of bow and spear combat.  Piercing attacks penetrate enemy armor and high level bow skills will tear through large groups of enemies.  The Hunter must rely on speed and range to stay out of the reach of enemies.
-
-//Those who study the forbidden lore of death know that in the absence of corporeal life the immortal spirit may yet persist on our mortal plane.  Spirit lore begins with mastery of one’s own spirit but in time allows for the manipulation of other spiritual energy.  Spirit masters can manipulate both spiritual energy and life force, gain dominion over the dead, assault the very minds of their enemies, and strike dark bagains with extra dimensional beings of unfathomable power.
-
 tagSkillClassDescription_TQ03=The Theurgist combines offense and defense with insidious life stealing skills that leech enemies' vitality while bolstering their own. At higher levels the ability to summon a powerful Liche King dramatically increases damage-dealing ability. 
-
-//Dealing massive damage in close melee combat is the province of warfare.  Intensive military training provides formidable mastery of sword axe and mace weapons.  Primary training consists of weapon handling, specialization in either single handed or dual handed fighting, and other combat techniques that enhance weapon damage.  
-
 tagSkillClassDescription_TQ04=The Warrior excels at dealing out physical damage but pays little heed to defense.  With higher mastery levels the Warrior can learn to deal damage to several adversaries at once.
-
-//Travel beyond the walls of any human city and you enter the vast domain of nature.  By achieving oneness with the natural world you will always have powerful allies at hand, even in the remote wilderness.  Unlocking the secrets of living things grants the power to preserve life, control growth, and summon plants and animals to your aid.  While the main concern of nature lore is protection and healing, nature can also be wrathful.
-
 tagSkillClassDescription_TQ05=The Wanderer can call on denizens of the forest to deal damage and shield them from enemies.  Healing and defensive auras allow allies to survive longer and fight more effectively.
-
-//The art of deception has long been the domain of assassin’s and thieves but in a fight for survival, the ends justify the means.  This combat style focuses on quick powerful attacks that are deadly against single opponents.  The ability to confront tougher enemies is further enhanced by a study of poisons and anatomically directed strikes that cause damage over time.  
-
 tagSkillClassDescription_TQ06=The rogue is unmatched at dealing rapid damage to single opponents or wearing them down with poison and bleeding.  Reliant on hit-and-run tactics, the Rogue is less well suited for handling hordes of enemies and must employ trickery to avoid being overwhelmed.
-
-//Studying the mysteries of terrestrial gods, learn to draw upon the Earth’s essence and harness powers of rock and flame.  By the force of Earth, temper iron with heat from your hands, project molten rock at enemies, and bind mighty earth spirits to your will.  Such mastery puts an almost god-like capacity for mass destruction into human hands but offers little in the way of defense.  
-
 tagSkillClassDescription_TQ07=Adept at raining down destruction over large hordes of enemies.  With most skills designed to deal damage, the Pyromancer relies on a colossal Earth Elemental to hold the attention of enemies. 
-
-
-//Following the mysteries of celestial gods teaches control over the destructive properties of weather.  Command lightning strikes, project frozen shards of ice, and hold enemies at bay with arctic wind.  Storm mastery combines devastatingly precise damage with an array of magical defenses.
-
 tagSkillClassDescription_TQ08= Excels at dealing massive lightning and cold damage to single opponents or small groups.  The Stormcaller has limited personal defenses but can slow, freeze, and stun enemies with frost and thunder attacks.
-
-
 tagSkillClassDescription_TQ09=Drawing power from the dream world, the Seer uses sheer force of will to dominate the battlefield.  The arcane workings of the psyche, time, and reality itself are all playthings for those who have mastered the secrets of the mind.
 
 tagClassName16=^bDefense
@@ -197,14 +171,12 @@ tagSkillDescription073=Causes regrowth energy to disseminate from the initial ta
 tagSkillName074=Refresh
 tagSkillDescription074=Subtracts time from recharging skills allowing you to use them more frequently.
 tagSkillName075=Accelerated Growth
-tagSkillDescription075=Allows Regrowth to be cast more frequently.
+tagSkillDescription075=Allows Regrowth to provide additional healing over time after the initial cast.
 tagSkillName076=Hunting Mastery
 tagSkillDescription076=Imparts the predatory spirit and cunning necessary to learn the arts of hunting.
 tagSkillName077=Wood Lore
 tagSkillDescription077=Central to survival in the wilderness is the ability to hunt with bow and spear. Great familiarity with these weapons allows you to wield them with exceptional speed and precision.
-
- ^oRequires a spear or gun.
-tagSkillName078=Barbed Netting
+tagSkillName078
 tagSkillDescription078=Barbed hooks on the hunter's Ensnare net tear into enemies as they struggle causing them to bleed.
 tagSkillName079=Call of the Hunt
 tagSkillDescription079=Those who answer the call of the hunt will fight with increased speed and cunning.
@@ -229,7 +201,7 @@ tagSkillDescription088=Take full advantage of your enemy's mistakes and vulnerab
 tagSkillName089=Take Down
 tagSkillDescription089=A brutal thrust from your spear delivers devastating piercing damage to enemies and diminishes a portion of your enemy's total life. ^oRequires a spear.
 tagSkillName090=Eviscerate
-tagSkillDescription090=Targeting vital weak-points on your enemy causes sustained damage from bleeding.
+tagSkillDescription090=Targeting vital weak-points on your enemy causes sustained damage from bleeding, occasionally striking a truly vital point for critical damage.
 tagSkillName091=Herbal Remedy
 tagSkillDescription091=Living off the land, you learn to identify and utilize medicinal plants to create healing salves.  When applied it will fortify against poison and healing is accelerated for a duration.
 tagSkillName092=Take Down
@@ -271,6 +243,7 @@ tagSkillDescription109=Volcanic fissures form in the ground, emitting deadly gey
 tagSkillName110=Ring of Flame
 tagSkillDescription110=Encircles you in a searing ring of flames burning all enemies that come within its radius.
 tagSkillName111=Stone Form
+
 tagSkillDescription111=An impervious layer of rock envelops you for a short duration boosting regeneration but prohibiting movement.
 tagSkillName112=Summon Core Dweller
 tagSkillDescription112=Draws forth a powerful elemental guardian from the Earth's fiery depths. ^o Only one CoreDweller can be summoned at any time. The Core Dweller scales with Pet Bonuses.
@@ -353,7 +326,7 @@ tagSkillDescription150=Intense cold damages enemies and makes them highly vulner
 tagSkillName151=Squall
 tagSkillDescription151=Creates a wind storm in the target area that decreases the projectile attack accuracy of enemies caught within it.
 tagSkillName152=Molten Rock
-tagSkillDescription152=Adds retaliation fire damage to Stone Form.
+tagSkillDescription152=Some of the molten rock lingers on your skin, acting as a temporary dermal plating, granting damage absorption and increased retaliation for a duration after casting stone form.
 tagSkillName153=Inner Fire
 tagSkillDescription153=Increases the Core Dweller's speed and adds fire damage to its attacks.
 tagSkillName154=Provoke
@@ -425,7 +398,7 @@ tagSkillDescription186=Saps the strength from diseased enemies causing them to m
 tagSkillName187=Susceptibility
 tagSkillDescription187=Weakens the constitution of adjacent enemies making them more susceptible to physical and elemental damage.
 tagSkillName188=Overgrowth
-tagSkillDescription188=Allows the Nymph to create a living shield around allies that absorbs damage and harms enemies that strike it.
+tagSkillDescription188=Empowers the regenerative growth causing it to linger on allies and create a protective living shield that absorbs damage and causes harm to enemies who would strike it.
 tagSkillName189=Nature's Wrath
 tagSkillDescription189=Imbues the Nymph's attacks with the power of the elements.
 tagSkillName190=Stinging Nettle
@@ -444,12 +417,10 @@ tagSkillName196=Poison Cloud
 tagSkillDescription196=A hidden explosive charge causes the monster lure to detonate when destroyed.  In order to detonate the lure must be at full energy.
 tagSkillName197=Mortal Wound
 tagSkillDescription197=Stuns victims of Lethal Strike and greatly magnifies the impact of poison and bleeding damage caused by the attack.
-
 tagSkillName198xxx=Disarm Traps
 tagSkillName198=Rogue Instinct
 tagSkillDescription198xxx=Expertise with traps and magical devices allows the Rogue to easily disable them and avoid their damage.
 tagSkillDescription198=The rogue's instincts are so finely tuned, they are capable of avoiding some of the deadliest traps with their spinning blades and bolt launchers. These senses come in handy for other purposes as well, like turning an otherwise fatal slash into a laughable injury.
-
 tagSkillName199=Negative Energy Vortex
 tagSkillDescription199=Creates a vortex of negative energy that strips negative enchantments off allies and positive enchantments off enemies.  Also drains enemy energy and inflicts damage equal to a portion of the energy depleted.
 tagSkillName200=Death Chain
@@ -490,7 +461,7 @@ tagSkillName217=Spectral Bolt
 tagSkillDescription217=Casts a bolt of spectral energy that depletes life from any living thing it touches.
 tagSkillName218=Aether Surge
 tagSkillDescription218=Sends out a wave of ethereal energy that burns enemies' spirits out of existence.
-tagSkillName219=Plasma Burn
+tagSkillName219=Spark
 tagSkillDescription219=Scalds enemies with a blast of elemental energy.
 tagSkillName220=Zap
 tagSkillDescription220=Electrocutes enemies with lightning attacks.
@@ -511,8 +482,7 @@ tagSkillDescription232=Casts a protective ward that will reduce the damage of un
 tagSkillName233=Spirit Bane
 tagSkillDescription233=Adds damage against undead to the attacks of those under the effects of Spirit Ward.
 tagSkillName234=Energizing Shrine
-
-tagSkillDescription234=Infuses the player with arcane power, dramatically increasing energy regeneration.
+tagSkillDescription234
 tagSkillName235=Thunderclap
 tagSkillDescription235=Releases an electrical ring of energy that stuns enemies within its radius.
 tagSkillName236=Charge
@@ -568,15 +538,12 @@ xtagSkillDreamDescription024=The mesmerizing stare of the Nightmare is able to d
 xtagSkillDreamName025=Trance of Empowerment
 xtagSkillDreamDescription025=A confident state of mind that increases all damage done by player and ally attacks.
 xtagSkillDreamName026=Dream Surge
-xtagSkillDreamDescription026=A ripple of energy from the dream world expands outward, damaging enemies.
 xtagSkillDreamName027=Terrifying Gaze
 xtagSkillDreamDescription027=The Nightmare penetrates the mind of an enemy and unleashes a flood of horrifying thoughts.
 xtagSkillDreamName028=Dream of Empowerment
 xtagSkillDreamDescription028=The Nightmare bolsters the confidence of an ally with empowering thoughts.
 xtagSkillDreamName029=Psionic Beam
 xtagSkillDreamDescription029=A beam of psionic energy surges into an enemy, causing terrible damage.
-
-
 tagMonsterName1195=Enslaved Liche King
 tagMonsterName1324=Aether Lord
 tagMonsterName1327=Battle Standard
@@ -588,17 +555,8 @@ tagMonsterName1197=Coredweller
 tagMonsterName037=Storm Wisp
 xtagMonsterDreamPet002=Nightmare
 tagTrap01=Bolt Trap
-
-xtagSkillDreamName026=Dream Surge
-xtagSkillDreamDescription026=
-tagSkillName235=Thunderclap
-tagSkillName216=Aether Strike
-tagSkillName219=Spark
 tagPetSkillName001=Coredweller Attack
 tagPetSkillName002=Ancestor Attack
-
-NEW Skills:
-//Defense//
 tagHackNAME=Hack
 tagHackDESC=Improves penetration when using axes, and adds a chance that axe attacks will chop through enemy armor. ^o Requires an axe.
 tagCleaveNAME=Cleave
@@ -607,24 +565,20 @@ tagHeaveNAME=Heave
 tagHeaveDESC=A slow and brutal attack that devastates your enemies. ^o Requires a mace.
 tagShieldTrainingNAME=Shield Training
 tagShieldTrainingDESC=Years of training allow you to utilize shields for a greater defensive advantage. ^o Requires a shield.
-
-//hunting//
 tagSpearTempestNAME=Spear Tempest 
 tagSpearTempestDESC=Execute a whirling attack so fast and complex that enemies are caught off guard. ^o Requires a spear.
 tagFlayerNAME=Flayer
-tagFlayerDESC=With snake-like control of your body, you can coil greater tension into your muscles and strike with precision and shrug off lesser blows.
+tagFlayerDESC=With snake-like control of your body, you can coil greater tension into your muscles and strike with precision. While wielding a spear, you will benefit more from this buff while in combat, greatly increasing your reflexes.
 tagJavelinNAME=Javelin Toss
 tagJavelinDESC=Hunters are known for their ability to adapt in all situations. Being unprepared to a fight is ill-advised, always carry backup javelins just in case your prey is too dangerous to deal with in close quarters.
 tagSerpentStrikeNAME=Serpent Strike
-tagSerpentStrikeDESC=Adds a chance to attack twice in a fraction of a second. Also allows the hunter to equip a secondary pistol, if they so choose. ^o Requires a spear or ranged weapon. 
+tagSerpentStrikeDESC=Adds a chance to attack twice in a fraction of a second. ^o Requires a spear or 2 handed ranged weapon. 
 tagBestialHowlNAME=Beastial Howl
 tagBestialHowlDESC=Using a spear rather than a ranged hunting weapon brings one closer to the animals they hunt. Some say these spear hunters are even capable of scaring off the mightiest of beasts. ^o Requires a spear.
 tagBurstShotNAME=Burst Shot
 tagBurstShotDESC=Fires several shots in a wide area.
 tagArrowCurtainNAME=Curtain of Arrows
 tagArrowCurtainDESC=Fires a signal shot into the sky, alerting other hunters of your presence and requesting aid to fire upon your enemies.
-
-//Spirit//
 tagAetherboltNAME=Aetherial Bolt
 tagAetherboltDESC=Through your very essence, you raze a path ahead of you, blasting a bolt of unearthly magic through the bodies of those who would stand in your way.
 tagMortalConduitNAME=Mortal Conduit
@@ -642,75 +596,55 @@ tagSummonSkeletonDESC=The most murderous Dead are the most eager to return to th
 tagSkellyShieldSmackNAME=Shield Slam
 tagRelentlessNAME=Relentless Evil
 tagRelentlessDESC=Grants skeletal soldiers the ability to empower themselves with the very carnage they wreak.
-
 tagDiffusionNAME=Diffusion
 tagDiffusionDESC=Softens the constitution of nearby enemies, draining their energy and causing them to bleed through their pores. ^oThe potency of this skill is increased closer to the origin. The outer band is only 15% effective.
 tagDiffusion2NAME=Diffusion II(Middle Ring)
 tagDiffusion2DESC=The middle ring of the aura is applying 45% of the maximum debuff potential.
 tagDiffusion3NAME=Diffusion III(Center Ring)
 tagDiffusion3DESC=The center ring of the aura is applying the full debuff.
-
 tagWitherNAME=Wither
 tagWitherDESC=Life itself recedes from the caster, causing enemies within the domain to waste away. ^oThe potency of this skill is increased closer to the origin. The outer band is only 15% effective.
 tagWither2NAME=Wither II(Middle Ring)
 tagWither2DESC=The middle ring of the aura is applying 45% of the maximum debuff potential.
 tagWither3NAME=Wither III(Center Ring)
 tagWither3DESC=The center ring of the aura is applying the full debuff.
-
 tagMiasmaNAME=Insidious Miasma
 tagMiasmaDESC=Noxious vapors emanate from the caster, devitalizing enemies and leaving them vulnerable to parasitic attacks. ^oThe potency of this skill is increased closer to the origin. The outer band is only 15% effective. The inner bands may not show up on the tool tip, but they activate once you are close enough to an enemy.
 tagMiasma2NAME=Insidious Miasma II(Middle Ring)
 tagMiasma2DESC=The middle ring of the miasma is applying 45% of the maximum debuff potential.
 tagMiasma3NAME=Insidious Miasma III(Center Ring)
 tagMiasma3DESC=The center ring of the miasma is applying the full debuff.
-
 tagDeathChill2NAME=Deathchill Aura II(Middle Ring)
 tagDeathChill2DESC=The middle ring of the aura is applying 45% of the maximum debuff potential.
 tagDeathChill3NAME=Deathchill Aura III(Center Ring)
 tagDeathChill3DESC=The center ring of the aura is applying the full debuff. 
-
 tagRavageOfTime2NAME=Ravages of Time II(Middle Ring)
 tagRavageOfTime2DESC=The middle ring of the aura is applying 45% of the maximum debuff potential.
 tagRavageOfTime3NAME=Ravages of Time III(Center Ring)
 tagRavageOfTime3DESC=The center ring of the aura is applying the full debuff.
-
 tagNecrosis2NAME=Necrosis II(Middle Ring)
 tagNecrosis2DESC=The middle ring of the aura is applying 45% of the maximum debuff potential.
 tagNecrosis3NAME=Necrosis III(Center Ring)
 tagNecrosis3DESC=The center ring of the aura is applying the full debuff.
-
 tagTerrorShroudNAME=//not sure if this is needed
 tagTerrorShroudDESC=//not sure if this is needed
 tagGraspingDeadNAME=Grasping Dead
 tagGraspingDeadDESC=The vision of death becomes more pronounced, as the souls of the dead also protrude through the veil and claw at those within, hold them down and sapping their life.
 tagSoulCascadeNAME=Soul Cascade
 tagSoulCascadeDESC=The caster increases the grasp on those caught in the maelstrom of souls, draining more life from it's victims.
-
 tagInDeathIsLifeNAME=Transmutation
-tagInDeathIsLifeDESC=
-
 tagInDeathIsDeathNAME=Underworld Pact
 tagInDeathIsDeathDESC=A theurgist gains energy from the souls of the Underworld, giving them unnatural speed and energy. 
-
 tagServeThyMasterNAME=Serve Thy Master
 tagServeThyMasterDESC=Pets and summons are protected in the presence of the theurgist, while the theurgist is made aware of the enemy vitals due to the symbiosis with his companions. At low health, the master's thralls become riled and rush to assist with sudden strength.
 tagProtectThyMasterNAME=Protect Thy Master
-tagProtectThyMasterDESC=
-
 tagSpiritWardNAME=Spirit Ward
 tagSpiritWardDESC=Create a ward which negates a portion of the damage dealt from aether to the player and pets, while boosting the Spirit. At low health, the Spirit Ward fortifies.
-
 tagDominionNAME=Dominion
-tagDominionDESC=
-
 tagPlanarStepNAME=Planarstep
-
 tagAetherBlastNAME=Aether Blast
-
 tagTernionTransmuterNAME=Profaner
-tagTernionTransmuterDESC=Through some sort of perversion of magic, certain spiritual mages are capable of converting the elements into some sort of vile poison.
-
-//Warfare//
+tagTernionTransmuterDESC
 tagWardanceNAME=War Dance
 tagWardanceDESC=The culmination of your weapon training; you are now capable of executing a ruthless attack against all enemies around you, dealing increased damage and temporarily disabling them.
 tagEndlessFuryNAME=Boundless Wrath
@@ -725,9 +659,6 @@ tagHeartWarNAME=Heart of War
 tagHeartWarDESC=As the battle rages, you do not simply feel more alive; you are more alive.
 tagShrillHornNAME=Cacophony
 tagShrillHornDESC=Blasts the warhorn in a quick burst resulting in a sound that isn't as stunning but can cause more severe bleeding to the ears.
-
-//Nature//
-tagStalkerStats=
 tagForceofNature=Force of Nature
 tagForceofNatureNAME=Force of Nature
 tagForceofNatureDESC=Calls forth an enormous and powerful Ascacophus to fight at your side for a duration. ^o Only one Ascacophus can be summoned at any time. The Ascacophus scales with Pet Bonuses.
@@ -735,17 +666,41 @@ tagRoots=Roots
 tagStomp=Stomp
 tagAttack=Physical Attack
 tagThornSprite=Thorn Sprite
-tagSpriteStats=
-tagForceofNatureStats=
 tagSpriteStats2=Thorny Claws
 tagThornSpritesNAME=Thorn Sprites
-tagThornSpritesDESC=Allows the Wanderer to throw a clutch of mischievous thorn sprites at enemies. Although they do little damage, the sprites' infuriating stings distract the enemy, and the poison in their barbas can cause delirium or even unconsciousness. ^o Sprites scale with Pet Bonuses. Up to 9 sprites can be controlled at once.
+tagThornSpritesDESC=Allows the Wanderer to throw a clutch of mischievous thorn sprites at enemies. Although they do little damage, the sprites' infuriating stings distract the enemy, and the poison in their barbs can cause delirium or even unconsciousness. ^o Sprites scale with Pet Bonuses. 
 tagFabricalDischargeNAME=Fabrical Tear
 tagFabricalDischargeDESC=Learn to call thorn sprites with greater insistence, causing them to spawn violently, discharging fragments of raw elemental energy around them.
 tagVenom=Venom
 tagPoof=Poof
+tagFungalBombNAME=Fungal Swarm
+tagFungalBombDESC=Conjures up a congregation of fungus into one location. The swarm collects into one small area and creates an area that slows movement for a short duration, and then explode violently. In total, this spell deals damage twice, once at the cast location, then again about half a second later.
+xtagFungalBombDetonate=Fungus Explosion
+tagSporeBombNAME=Spore Bomb
+tagSporeBombDESC=The swarm of fungi can become volatile, chain reacting after the first explosion and exploding a second time in a much larger radius. The damage of this skill also adds onto the damage of the Fungal Swarm.
+tagCorrosionNAME=Corrosion
+tagCorrosionDESC=The fungal bomb's acid and poisons are amplified, becoming much more potent.
+tagFlameSurgeBNAME=Incineration
+tagFlameSurgeBDESC=By allowing the earthen magics build up, the caster is able to dispense all of the accumulated energy in one massive attack, transforming the flame surge into a flame nova.
 
-//Rogue//
+tagFungalBombBNAME=Explosive Growth
+
+tagFungalBombBDESC=The spores and fungus involved in the swarm react violently due to an increase of focus from the caster, resulting in a more destructive blast.
+tagFungalBombB2NAME=Druidic Magics
+tagFungalBombB2DESC=The caster is able to utilize ancient magics and warp the swarm, enabling them to burn enemies affected with a random elemental damage over time effect.
+tagWildSpiritNAME=Kodama
+tagWildSpiritDESC=Calls out an ancient spirit from a nearby tree to aid you. This spirit's presence empowers your connection with nature, granting you a greater control over your pets. In addition, the spirit also burdens nearby enemies.
+tagKodamaDebuffNAME=Vengeance of the Kodama
+tagKodamaBuffNAME=Blessing of the Kodama
+tagKodamaBuff2NAME=Serenity
+tagRegrowthBNAME=Sustained Growth
+tagRegrowthBDESC=Rather than giving a burst of life, the regrowth can be altered into a source of near-infinite health regeneration. By sacrificing some of the initial heal, the recipient can instead have a long duration, large sized regeneration aura. ^r This tooltip is somewhat buggy and only shows some of the changes. What it actually does is replaces the regrowth effect with a different spell, resulting in only greater regeneration and a longer duration but at the cost of the heal bonus.
+tagPlagueBNAME=Arcane Affliction
+tagPlagueBDESC=Transmutes the plague into an elemental, magic based disease. Instead of poisoning it's victims, they became entangled in different arcane magics, burning, chilling, and electrocuting them all at once.
+tagNymphBNAME=Corrupt Nymph
+tagNymphBDESC=Nymphs are highly receptive to the magic that they are exposed to, dark energies such as chaos and vampirism usually cause nymphs to become corrupt, warping their appearance and magic. As a result of this, the Sylvan Nymph is transformed into a Corrupt Nymph. The corrupt nymph's magic is converted from elemental to vitality, and her bow now causes decay instead of piercing damage.
+tagWardBNAME=Entangled Thicket
+tagWardBDESC=The Ward becomes increasingly dense with this transmuter, enabling it to soak more damage and retaliate harder. //needs planning.
 tagBladeFuryNAME=Blade Fury
 tagBladeFuryDESC=A swift and potent multi-hit attack. ^o Requires two swords.
 tagSliceDiceNAME=Slice and Dice
@@ -760,30 +715,27 @@ tagAphoticIchorNAME=Aphotic Ichor
 tagAphoticIchorDESC=Dark fragments are added to the concoction, which explode into a noxious gas, lowering enemy constitution and causing life damage.
 tagFlickWristNAME=Flick of the Wrist
 tagFlickWristDESC=With a little sleight of hand, the rogue can add a little extra magic to the throwing knives, allowing them to fly faster among other things.
-tagTwinBladesNAME=
-tagTwinBladesDESC=
 tagDarkArtsNAME=Dark Arts
 tagDarkArtsDESC=Years of training allow the rogue to channel some of the darker energies, as well as avoid getting killed in battle.
 tagBladeMasteryNAME=Blade Mastery
 tagBladeMasteryDESC=With bladed weapon in hand, the rogue feels at home and can attack with greater speed and accuracy. ^o Requires a sword, axe, dagger, or spear.
 tagOcculticVenomNAME=Occultic Venom
 tagOcculticVenomDESC=Utilizing venoms created by nefarious mages, the rogue can alter their poisons and create a malicious brew of poisons that not even the best antivenom can cure.
-//Earth//
 tagBoulder=Boulder Toss
 tagMeteorNAME=Meteor
 tagMeteorDESC=Pulls a massively explosive meteor and sends it crashing down in a targeted area, devastating all in the area. 
 tagRupture1=Rupture
 tagRupture2=Connect's the player's tumultuous earth energies to their staff, causing projectiles to explode on impact. ^o Requires a staff.
 tagCremate1=Cremate
-tagCremate2=Causes the staff attacks to also leave victims burning for a duration, while also reducing their toll on the caster.
+tagCremate2=Causes staff attacks to create an area of intense heat, leaving enemies burning in a wide area around the primary target.
 tagFlare1=Flare
 tagFlare2=Increases the fire damage on staff attacks, turning the staff into an instrument of destruction.
 tagMoltenLavaNAME=Molten Lava
 tagMoltenLavaDESC=Causes lava to pour out of the fissure, dealing prolonged burn damage and hindering enemies.
 tagTartarusFlameNAME=Flames of Tartarus
 tagTartarusFlameDESC=Earth mages can sometimes harness the powers of the underworld to manipulate the flames and fire into something more chaotic.
-
-//Storm//
+tagVolcanicOrbBNAME=Entropy
+tagVolcanicOrbBDESC=Tainted energies cause the orb to become a slow moving ball of entropy, traveling in a straight line and piercing through targets rather than combusting in one large area.
 tagArcticEmanationNAME=Ice Song
 tagArcticEmanationDESC=The caster becomes able to concentrate the power of their cold attacks, greatly increasing damage.
 tagHeartofFrostNAME=Heart of Frost
@@ -811,10 +763,6 @@ tagStormNimbusTRANSNAME=Aether Nimbus
 tagStormNimbusTRANSDESC=Arcanists are known for being capable of harnessing the pure arcane energy of the aether into their spells. A storm mage is quite close to an arcanist, albeit more focused on manipulating natural weather phenomena to their advantage. Twisting the lightning aspect of storms into arcane energy, the magic can become more of an aetherstorm instead.
 tagWispLightNAME=Wisp Light
 tagWispLightDESC=The wisp radiates a haunting aura that lowers the resists of nearby enemies.
-
-
-
-//Dream//
 tagTroubledDreamsNAME=Troubled Dreams
 tagTroubledDreamsDESC=The Sands of Sleep now torment afflicted enemies, and erode their constitution.
 tagPsionicArteryNAME=Psionic Artery
@@ -825,5 +773,6 @@ tagDarkReverieNAME=Dark Reverie
 tagDarkReverieDESC=Some Seers focus only on dark visions of the past and future, this focus enables them to expose sinister energies which they may use to alter their own physical forms with.
 tagAnomalyNAME=Anomaly
 tagAnomalyDESC=Chaos energies overrun the Distortion Wave, creating a sort of anomaly. ^o Requires a staff or caster off-hand.
-//new skills//
 tagGQPetSkill01=Barbed Construction
+
+# Tool Created by: WareBare - Contents of the file have been made by the modder using the tool

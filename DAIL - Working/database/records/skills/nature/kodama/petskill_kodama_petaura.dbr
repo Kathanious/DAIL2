@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/skills/nature/kodama/petskill_kodama_petaurabuff.dbr,
