@@ -35,9 +35,8 @@ Grim Quest [1.4.5] - Asylum101
 	Spirit
 	Hunting
 	Nature
-	Warefare
+	Warfare
 	Defense
-	Soldier
 	Rogue
 	Earth
 	Storm
@@ -49,10 +48,11 @@ Zenith [0.5b] - Ceno
 	Elementalist
 	
 D3 Influenced - Grimer
-	Demon Hunter [2.0]	http://www.grimdawn.com/forums/showthread.php?t=45271
-	Witch Doctor [1.0]	http://www.grimdawn.com/forums/showthread.php?t=47407
+	http://www.grimdawn.com/forums/showthread.php?t=47407
+	Demon Hunter [2.0]	
+	Witch Doctor [1.0]	
 	
-Mystic Warrior [DAIL Variation] - Jaggd
+Mystic Warrior [DAIL Variation] - Jaggd/Kathanious
 	http://www.grimdawn.com/forums/showthread.php?t=46730
 	
 	ALTERNATE PLAY MODES
@@ -77,7 +77,7 @@ Grim Dawn: Eternal [0.977] - PrincessLuna
 
 GAME CHANGES
 ****************
-Grimmer and Grimmest [DAIL Variation] - Jiaco
+Grimmer and Grimmest [DAIL Variations] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
