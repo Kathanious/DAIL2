@@ -187,7 +187,13 @@ end
 -- Default Bounty Cap per session is 5
 --
 
-local bountyLimit = 5
+local DCBountyLimit = 18
+local BLBountyLimit = 20
+local ExileBountyLimit = 20
+local HSBountyLimit = 19
+local KCBountyLimit = 18
+local ODVBountyLimit = 18
+local ROBountyLimit = 20
 local DCBounties = 0
 local ROBounties = 0
 local HSBounties = 0
@@ -201,7 +207,7 @@ function gd.bounties.DCCheck()
 
 	local test = true
 	
-	if DCBounties < bountyLimit then
+	if DCBounties < DCBountyLimt then
 		test = false
 	
 	end
@@ -221,7 +227,7 @@ function gd.bounties.ROCheck()
 
 	local test = true
 	
-	if ROBounties < bountyLimit then
+	if ROBounties < ROBountyLimit then
 		test = false
 	
 	end
@@ -241,7 +247,7 @@ function gd.bounties.HSCheck()
 
 	local test = true
 	
-	if HSBounties < bountyLimit then
+	if HSBounties < HSBountyLimit then
 		test = false
 	
 	end
@@ -261,7 +267,7 @@ function gd.bounties.BLCheck()
 
 	local test = true
 	
-	if BLBounties < bountyLimit then
+	if BLBounties < BLBountyLimit then
 		test = false
 	
 	end
@@ -281,7 +287,7 @@ function gd.bounties.KCCheck()
 
 	local test = true
 	
-	if KCBounties < bountyLimit then
+	if KCBounties < KCBountyLimit then
 		test = false
 	
 	end
@@ -301,7 +307,7 @@ function gd.bounties.ODVCheck()
 
 	local test = true
 	
-	if ODVBounties < bountyLimit then
+	if ODVBounties < ODVBountyLimit then
 		test = false
 	
 	end
@@ -321,7 +327,7 @@ function gd.bounties.ExileCheck()
 
 	local test = true
 	
-	if ExileBounties < bountyLimit then
+	if ExileBounties < ExileBountyLimit then
 		test = false
 	
 	end
@@ -365,6 +371,7 @@ local function CharacterCreateArgs()
 		monsterLevel = ((maxLevel+(maxLevel/50))+2)
 	else
 		monsterLevel = ((averageLevel+(averageLevel/50))+3)
+
 	end
 
 	return monsterLevel, nil
@@ -977,9 +984,8 @@ local function PitmasterCreateArgs()
 	local monsterLevel = 0
 	local maxLevel = 0
 
-	-- Grimmest changes 35;55;200 to 50;75;200
 	if (Game.GetGameDifficulty() == Game.Difficulty.Normal) then
-		maxLevel = 50
+		maxLevel = 60
 	elseif (Game.GetGameDifficulty() == Game.Difficulty.Epic) then
 		maxLevel = 75
 	else
@@ -3636,6 +3642,22 @@ function gd.bounties.spawnEXILEBounty15()
 		
 				-- Don't respawn the Monster next time. If spawned as hostile, will be saved into the world
 				EXILEBounty15Spawned = true
+			
+			end
+			
+		end
+	
+	end
+
+end
+
+
+
+
+
+
+
+wned = true
 			
 			end
 			

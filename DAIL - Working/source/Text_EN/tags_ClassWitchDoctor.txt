@@ -1,13 +1,4 @@
 
-tagSkillClassName08=Witch Doctor
-tagSkillClassName0108=Witch Warrior
-tagSkillClassName0208=Pyrodoctor
-tagSkillClassName0308=Subjugator
-tagSkillClassName0408=Spiritual Slayer
-tagSkillClassName0508=Arcane Doctor
-tagSkillClassName0608=Beastmaster
-tagSkillClassName0708=Mystic Hunter
-
 tagSkillClassDescriptionWitchDoctor=Witch doctors are spiritual warriors who summon dead souls and crawling creatures to do their bidding. By surrounding themselves with conjured zombies, witch doctors are free to assault their enemies with deadly projectiles, toxic totems, and wasting curses.
 
 #ClassWitchDoctor

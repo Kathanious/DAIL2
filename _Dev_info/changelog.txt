@@ -2,6 +2,20 @@
 
 ****************************************************************
 ****************************************************************
+[60.9 4/18/2017]
+Update - GrimQuest 1.46HFb
+
+Fix - Defense enumeration
+
+Merge - Bounties Unlocked mod by Ceno
+	http://www.grimdawn.com/forums/showthread.php?p=502541#post502541
+
+[60.9 4/17/2017]
+Update - GrimQuest 1.46HFa
+
+Fix - Cronley
+	Removed old summons to prevent endless heroes
+
 [60.9 4/5/2017]
 Update - GrimQuest 1.46
 
