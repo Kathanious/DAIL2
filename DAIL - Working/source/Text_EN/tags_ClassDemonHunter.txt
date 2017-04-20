@@ -1,12 +1,4 @@
 
-tagSkillClassName07=Demon Hunter
-tagSkillClassName0107=Horseman
-tagSkillClassName0207=Pyrohunter
-tagSkillClassName0307=Devil Slayer
-tagSkillClassName0407=Demonblade
-tagSkillClassName0507=Arcane Hunter
-tagSkillClassName0607=Savage Rogue
-
 tagSkillClassDescriptionDemonHunter=Demon Hunters are relentless vigilantes who execute their infernal targets with an arsenal of ranged weapons. They crouch and take aim far from danger, relying on crossbows and guns, and deadly projectiles to swiftly bring an end to the creatures that haunt their world. Demon Hunters focus on ranged combat and limited melee-weapons training leave them in danger when they are cornered or surrounded. Evasive skills like quick teleports, as well as targeted attacks that stop or slow enemies, are as crucial to survival as any arrow in a hunters quiver.
 
 #ClassDemonHunter

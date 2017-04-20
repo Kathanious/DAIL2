@@ -77,6 +77,10 @@ Grim Dawn: Eternal [0.977] - PrincessLuna
 
 GAME CHANGES
 ****************
+Bounties Unlocked - Ceno
+	http://www.grimdawn.com/forums/showthread.php?p=502541#post502541
+	Max bounties per sessions raised to max bounties offered by faction
+
 Grimmer and Grimmest [DAIL Variations] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
