@@ -1,0 +1,7 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,8,
+records,records/items/loottables/gearaccessories/tdyn_ring_c01gq.dbr,
+fileNameHistoryEntry,mods/grimquestjewelry/records/items/loottables/gearaccessories/lt_ring_c01.dbr,
