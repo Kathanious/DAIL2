@@ -7,16 +7,11 @@ tagWeaponUnknown=Unknown
 
 tagDevotion_RequiresMagic=^o Requires a staff, scepter, dagger, or caster off-hand.
 
-tagDamageModifierSleep={%+.0f0}% {^E}Sleep Duration
-tagDefenseSleep={%.0f0}% {^E}Reduced Sleep Duration
-tagDefenseSleepModifier={%+.0f0}% {^E}Reduced Sleep Duration
-
-
 //ALL QUALITY TAGS REMOVED!//
-CommonWeaponFormat={%s1 %s0}{^n}
-CommonArmorFormat={%s1 %s2 %s0}{^n}
-RandomMagicalWeaponFormat={%s3 %s0 %s4}{^n}
-RandomMagicalArmorFormat={%s3 %s2 %s0 %s4}{^n}
+CommonWeaponFormat={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+CommonArmorFormat={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+RandomMagicalWeaponFormat={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+RandomMagicalArmorFormat={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
 tagQualityPine=Pine 
 tagQualityAsh=Ash
 tagQualityOak=Oak
