@@ -80,16 +80,3 @@ tagSkillClassName29=^iWitch Doctor
 
 tagSkillClassNameDH=^iDemon Hunter
 tagSkillClassName30=^iDemon Hunter
-
-
-#Parked
-#tagClassMaleficarName=^iMaleficar
-#tagClassStalkerName=^iStalker
-#tagSkillClassNameMage=^iMage
-#tagSkillClassName29=^iArlequin
-#Champion
-#Outrider
-#Riftstalker
-#tagSkillClassName15=^gIllusionist
-#tagSkillClassName27=^pEngineer
-#Necrotic
