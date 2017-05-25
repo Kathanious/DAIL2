@@ -18,7 +18,7 @@
 tagSkillClassDescriptionFK=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagSkillClassDescriptionDemon=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
 tagSkillClassDescriptionEnch=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagSkillClassDescriptionMerc=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n ^n ^kMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
+tagSkillClassDescriptionMerc=Mercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
 
 
 

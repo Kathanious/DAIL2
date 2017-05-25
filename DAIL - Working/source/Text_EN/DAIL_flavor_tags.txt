@@ -34,11 +34,11 @@ tagNPC_Guard_Mood=Mood - ^oArcane Huntress
 tagQuests=Active Quests (60.9)
 
 #Top Left UI tag
-tagRDifficultyTitle01=Normal NG
-tagRDifficultyTitle02=Elite NG
-tagRDifficultyTitle03=Ultimate NG
-tagChallengeDifficulty=Veteran NG
-tagHardcore=Hardcore NG
+tagRDifficultyTitle01=Normal
+tagRDifficultyTitle02=Elite
+tagRDifficultyTitle03=Ultimate
+tagChallengeDifficulty=Veteran
+tagHardcore=Hardcore 
 
 #Survival Header
 tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 60)
