@@ -1,13 +1,15 @@
 
 #CLASS NAMES AND UI COLORS
 
+tagSkillClassName000=  
+
+
 tagSkillClassName01=^kSoldier
 tagSkillClassName02=^kDemolitionist
 tagSkillClassName03=^kOccultist
 tagSkillClassName04=^kNightblade
 tagSkillClassName05=^kArcanist
 tagSkillClassName06=^kShaman
-tagSkillClassName07=^kInquisitor
 
 tagSkillClassNameNecro=^YNecromancer
 tagSkillClassName07=^YNecromancer
