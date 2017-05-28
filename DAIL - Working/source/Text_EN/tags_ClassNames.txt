@@ -3,13 +3,31 @@
 
 tagSkillClassName000=  
 
-
 tagSkillClassName01=^kSoldier
 tagSkillClassName02=^kDemolitionist
 tagSkillClassName03=^kOccultist
 tagSkillClassName04=^kNightblade
 tagSkillClassName05=^kArcanist
 tagSkillClassName06=^kShaman
+
+#TEMP PLACEHOLDERS
+tagSkillClassName31=^kNecromancer
+tagSkillClassName32=^kInquisitor
+
+tagSkillClassName33=^pStalker
+tagSkillClassName34=^pMage
+tagSkillClassName35=^pMaleficar
+tagSkillClassName36=^pNosferatu
+
+tagSkillClassName37=^lChampion
+tagSkillClassName38=^lRift Stalker
+tagSkillClassName39=^lNecrotic
+tagSkillClassName40=^lOutrider
+tagSkillClassDescription000=This mastery is currenty unvailable. ^n^nSelection may become available after the xpac.
+
+
+
+
 
 tagSkillClassNameNecro=^YNecromancer
 tagSkillClassName07=^YNecromancer
@@ -35,8 +53,8 @@ tagSkillClassName13=^lTerror Knight
 tagSkillClassNameArNecro=^gArch Necromancer
 tagSkillClassName14=^gArch Necromancer
 
-tagSkillClassNameMWar=^fMystic Warrior
-tagSkillClassName15=^fMystic Warrior
+tagSkillClassNameMWar=^gMystic Warrior
+tagSkillClassName15=^gMystic Warrior
 
 tagSkillClassName16=^bDefense
 tagClassName01=^bDefense
@@ -68,11 +86,11 @@ tagClassName09=^bDream
 tagSkillClassNameDemon=^pVoidcaller
 tagSkillClassName25=^pVoidcaller
 
-tagSkillClassNameEnch=^pGrove Keeper
-tagSkillClassName26=^pGrove Keeper
+tagSkillClassNameEnch=^pDruid
+tagSkillClassName26=^pDruid
 
-tagSkillClassNameMerc=^fMercenary
-tagSkillClassName27=^fMercenary
+tagSkillClassNameMerc=^pMercenary
+tagSkillClassName27=^pMercenary
 
 tagSkillClassNameCeno=^YCenobite
 tagSkillClassName28=^YCenobite
