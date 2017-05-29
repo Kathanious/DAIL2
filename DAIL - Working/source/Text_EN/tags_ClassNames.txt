@@ -11,19 +11,26 @@ tagSkillClassName05=^kArcanist
 tagSkillClassName06=^kShaman
 
 #TEMP PLACEHOLDERS
+tagSkillClassDescription000=This mastery is currenty unvailable. ^n^nSelection may become available after the xpac.^n^nDo not click! This is a placeholder icon only.
+
 tagSkillClassName31=^kNecromancer
 tagSkillClassName32=^kInquisitor
-
 tagSkillClassName33=^pStalker
 tagSkillClassName34=^pMage
 tagSkillClassName35=^pMaleficar
 tagSkillClassName36=^pNosferatu
-
 tagSkillClassName37=^lChampion
 tagSkillClassName38=^lRift Stalker
 tagSkillClassName39=^lNecrotic
 tagSkillClassName40=^lOutrider
-tagSkillClassDescription000=This mastery is currenty unvailable. ^n^nSelection may become available after the xpac.
+tagSkillClassName41=^gIllusionist
+tagSkillClassName42=^gEngineer
+tagSkillClassName43=^iNecromancer
+tagSkillClassName44=^iCrusader
+tagSkillClassName45=^iMonk
+tagSkillClassName46=^iWizard
+
+
 
 
 
@@ -31,22 +38,21 @@ tagSkillClassDescription000=This mastery is currenty unvailable. ^n^nSelection m
 
 tagSkillClassNameNecro=^YNecromancer
 tagSkillClassName07=^YNecromancer
-
 tagSkillClassNameRanger=^YRanger
 tagSkillClassName08=^YRanger
+tagSkillClassNameFangshi=^YFangshi
+tagSkillClassName10=^YFangshi
+tagSkillClassNameCeno=^YCenobite
+tagSkillClassName28=^YCenobite
 
 tagSkillClassNameCoronus=^gCoronus
 tagSkillClassName09=^gCoronus
 
-tagSkillClassNameFangshi=^YFangshi
-tagSkillClassName10=^YFangshi
 
-tagSkillClassNameFK=^pFrost Knight
-tagSkillClassName11=^pFrost Knight
+
 
 tagSkillClassNameZenith02=^lElementalist
 tagSkillClassName12=^lElementalist
-
 tagSkillClassNameZenith01=^lTerror Knight
 tagSkillClassName13=^lTerror Knight
 
@@ -58,45 +64,35 @@ tagSkillClassName15=^gMystic Warrior
 
 tagSkillClassName16=^bDefense
 tagClassName01=^bDefense
-
 tagSkillClassName17=^bHunting
 tagClassName02=^bHunting
-
 tagSkillClassName18=^bSpirit
 tagClassName03=^bSpirit
-
 tagSkillClassName19=^bWarfare
 tagClassName04=^bWarfare
-
 tagSkillClassName20=^bNature
 tagClassName05=^bNature
-
 tagSkillClassName21=^bRogue
 tagClassName06=^bRogue
-
 tagSkillClassName22=^bEarth
 tagClassName07=^bEarth
-
 tagSkillClassName23=^bStorm
 tagClassName08=^bStorm
-
 tagSkillClassName24=^bDream
 tagClassName09=^bDream
 
+tagSkillClassNameFK=^pFrost Knight
+tagSkillClassName11=^pFrost Knight
 tagSkillClassNameDemon=^pVoidcaller
 tagSkillClassName25=^pVoidcaller
-
 tagSkillClassNameEnch=^pDruid
 tagSkillClassName26=^pDruid
-
 tagSkillClassNameMerc=^pMercenary
 tagSkillClassName27=^pMercenary
 
-tagSkillClassNameCeno=^YCenobite
-tagSkillClassName28=^YCenobite
+
 
 tagSkillClassNameWD=^iWitch Doctor
 tagSkillClassName29=^iWitch Doctor
-
 tagSkillClassNameDH=^iDemon Hunter
 tagSkillClassName30=^iDemon Hunter
