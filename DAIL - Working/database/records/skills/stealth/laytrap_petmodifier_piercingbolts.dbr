@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,transmuter,
+petSkillName,records/skills/stealth/laytrap_petskill_piercingbolts.dbr,
+petChanges,,
+cooldownTime,,

@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,40,
+records,records/items/loottables/gearaccessories/tdyn_ring_d01_gq.dbr,

@@ -1,6 +1,6 @@
-templateName,database/templates/skillbuff_passiveshield.tpl,
+templateName,database/templates/skillbuff_passive.tpl,
 ActorName,,
-Class,SkillBuff_PassiveShield,
+Class,SkillBuff_Passive,
 FileDescription,,
 hideFromUI,0,
 skillActiveDuration,4,

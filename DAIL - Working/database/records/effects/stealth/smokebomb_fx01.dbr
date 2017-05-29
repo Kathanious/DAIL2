@@ -1,4 +1,5 @@
-boneList,Bone_R_Weapon;Bone_L_Weapon,
+templateName,database/templates/effect.tpl,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
 effectFile,Records\Effects\Stealth\343_PoisonGas_Burst_FX.dbr,
+fileNameHistoryEntry,mods/grim quest/records/effects/stealth/smokebomb_fx01.dbr,

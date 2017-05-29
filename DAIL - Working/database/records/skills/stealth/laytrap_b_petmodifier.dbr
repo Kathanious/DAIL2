@@ -1,0 +1,8 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+cooldownTime,,
+petChanges,records/skills/stealth/pet/bolttrap_b_01.dbr;records/skills/stealth/pet/bolttrap_b_02.dbr;records/skills/stealth/pet/bolttrap_b_03.dbr;records/skills/stealth/pet/bolttrap_b_04.dbr;records/skills/stealth/pet/bolttrap_b_05.dbr;records/skills/stealth/pet/bolttrap_b_06.dbr;records/skills/stealth/pet/bolttrap_b_07.dbr;records/skills/stealth/pet/bolttrap_b_08.dbr;records/skills/stealth/pet/bolttrap_b_09.dbr;records/skills/stealth/pet/bolttrap_b_10.dbr;records/skills/stealth/pet/bolttrap_b_11.dbr;records/skills/stealth/pet/bolttrap_b_12.dbr;records/skills/stealth/pet/bolttrap_b_13.dbr;records/skills/stealth/pet/bolttrap_b_14.dbr;records/skills/stealth/pet/bolttrap_b_15.dbr;records/skills/stealth/pet/bolttrap_b_16.dbr;records/skills/stealth/pet/bolttrap_b_17.dbr;records/skills/stealth/pet/bolttrap_b_18.dbr;records/skills/stealth/pet/bolttrap_b_19.dbr;records/skills/stealth/pet/bolttrap_b_20.dbr;records/skills/stealth/pet/bolttrap_b_21.dbr;records/skills/stealth/pet/bolttrap_b_22.dbr;records/skills/stealth/pet/bolttrap_b_23.dbr;records/skills/stealth/pet/bolttrap_b_24.dbr;records/skills/stealth/pet/bolttrap_b_25.dbr;records/skills/stealth/pet/bolttrap_b_26.dbr,
+petSkillName,records/skills/stealth/pet/petskill_laytrap_transmuter.dbr,
+fileNameHistoryEntry,mods/grim quest/records/skills/stealth/laytrap_b_petmodifier.dbr,
