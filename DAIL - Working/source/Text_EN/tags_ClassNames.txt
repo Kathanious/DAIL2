@@ -29,6 +29,15 @@ tagSkillClassName43=^iNecromancer
 tagSkillClassName44=^iCrusader
 tagSkillClassName45=^iMonk
 tagSkillClassName46=^iWizard
+tagSkillClassName47=Warrior
+tagSkillClassName48=Gunslinger
+tagSkillClassName49=Counjurer
+tagSkillClassName50=Eldricth
+tagSkillClassName51=DGA 1
+tagSkillClassName52=DGA 2
+tagSkillClassName53=DGA 3
+
+
 
 
 

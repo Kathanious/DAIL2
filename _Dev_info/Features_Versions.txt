@@ -30,7 +30,7 @@ Dawn of Heros [4.1] - 3JIou
 	Voidcaller
 	Mercenary 
 	
-Grim Quest [1.4.5] - Asylum101
+Grim Quest [1.4.7] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?t=39503
 	Spirit
 	Hunting
