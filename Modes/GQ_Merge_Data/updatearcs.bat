@@ -6,3 +6,4 @@ archivetool drx.arc -update . drx 6
 archivetool drxtextures.arc -update . drxtextures 6
 archivetool underground.arc -update . underground 6
 archivetool scenerygreece.arc -update . scenerygreece 6
+@pause
