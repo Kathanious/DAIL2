@@ -2,6 +2,10 @@ rem Populates Build Directories
 
 SET BATCH_DIR=%~dp0
 
+rem Inserts Wanez database
+xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\wanez_unique\database\mod_wanez" /s "%BATCH_DIR%\DAIL - Working\database\mod_wanez" 
+PAUSE
+
 rem Copies the working database 
 robocopy "%BATCH_DIR%\DAIL - Working\database" "%BATCH_DIR%\DAIL_b\database" /mir
 robocopy "%BATCH_DIR%\DAIL - Working\database" "%BATCH_DIR%\DAIL_s\database" /mir
@@ -43,7 +47,6 @@ xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\x_unique\database" /s "%BATCH_
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\xb_unique\database" /s "%BATCH_DIR%\DAIL_xb\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\sx_unique\database" /s "%BATCH_DIR%\DAIL_sx\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\sd_unique\database" /s "%BATCH_DIR%\DAIL_sd\database" 
-xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\xb_unique\database" /s "%BATCH_DIR%\DAIL_xb\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\xb_unique\database" /s "%BATCH_DIR%\DAIL_xb\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\wanez_unique" /s "%BATCH_DIR%\DAIL_dga"
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\eternal_unique" /s "%BATCH_DIR%\DAIL_eternal" 
