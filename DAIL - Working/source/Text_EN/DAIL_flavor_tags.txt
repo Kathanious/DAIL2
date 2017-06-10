@@ -27,9 +27,14 @@ tagGrimmestQuestWitchGod01=Dreeg's Assailer
 tagGrimmestQuestWitchGod02=Solael's Assailer
 tagGrimmestQuestWitchGod03=Bysmiel's Assailer
 
+tagNotification_Bag=You suddendly feel lighter.
+tagNotification_GateOpen=Did I hear a gate?
+tagNotification_GateOpenPossible=Jarvis and John are the keys...
+
 tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
 tagNPC_Guard_Mood=Mood - ^oArcane Huntress 
+
 
 tagQuests=Active Quests (60.9 NG)
 
