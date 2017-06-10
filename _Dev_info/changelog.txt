@@ -1,6 +1,24 @@
 
 ****************************************************************
 ****************************************************************
+[60.9B 6/9/2017]
+Fix - Removed DGA mastery tag file causing overlap
+
+Fix - Missing _skilltree_consumableskills.dbr entries
+	item_cratebox
+	dga scroll
+	
+Fix - Fubar gate
+	Removed Bounties Unlimited mod
+
+Fix - GQ Rogue missing UI buttons
+
+Fix - Elementalist icon assets
+
+Fix - Female pc anm entry typo
+
+Add - Grimmest mq_wakingtomissery.qst
+
 [60.9 6/6/2017]
 Fix - Demon Hunter tag causing Arch Necro name malfunction
 

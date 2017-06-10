@@ -22,7 +22,7 @@ xcopy /y  "%BATCH_DIR%\DAIL_sx\resources\*.arc" "%BATCH_DIR%\_bag_of_holding\bui
 xcopy /y  "%BATCH_DIR%\DAIL_x\resources\*.arc" "%BATCH_DIR%\_bag_of_holding\build\DAIL\database\x" 
 xcopy /y  "%BATCH_DIR%\DAIL_xb\resources\*.arc" "%BATCH_DIR%\_bag_of_holding\build\DAIL\database\xb"
 
-rem Unique resourcesi
+rem Unique resources
 xcopy /y  "%BATCH_DIR%\DAIL - Working\resources\scripts.arc" "%BATCH_DIR%\_bag_of_holding\build\DAIL\resources\campaign" /s
 
 xcopy /y  "%BATCH_DIR%\DAIL_dga\database\*.arz" "%BATCH_DIR%\_bag_of_holding\build\DAIL\database\wanez" /s 
@@ -39,13 +39,11 @@ xcopy /y  "%BATCH_DIR%\DAIL_eternal\resources\scripts.arc" "%BATCH_DIR%\_bag_of_
 rem Moves arc files to GQ holding for asset insertion
 xcopy /y  "%BATCH_DIR%\DAIL - Working\resources\*.arc" "%BATCH_DIR%\_bag_of_holding\DAIL2\Modes\GQ_Merge_Data" /s
 
-ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\wanez\dail_dga.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\wanez\DAIL - Rift (DGA).arz"
-ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\eternal\dail_eternal.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\eternal\DAIL - Survival (GD Eternal).arz"
-ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\ng\dail - working.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\ng\dail_ng.arz"
+rem ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\wanez\dail_dga.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\wanez\DAIL - Rift (DGA).arz"
+rem ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\eternal\dail_eternal.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\eternal\DAIL - Survival (GD Eternal).arz"
+rem ren "%BATCH_DIR%_bag_of_holding\build\DAIL\database\ng\dail - working.arz" "%BATCH_DIR%_bag_of_holding\build\DAIL\database\ng\dail_ng.arz"
 
-
-Echo Remember to rename NG, Eternal, and DGA arz files!
-@pause
+pause
 
 
 
