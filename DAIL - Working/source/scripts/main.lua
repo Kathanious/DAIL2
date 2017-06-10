@@ -15,9 +15,9 @@ Script.Load("scripts/libs/shared.lua")
 -- Game
 Script.Load("scripts/game/grimdawn.lua")
 
---Omega Mod
+-- Omega Mod
 Script.Load("scripts/Omega_Mod/Omega_Mod.lua")
 
---Lost Treasures MOD
+-- Lost Treasures MOD
 Script.Load("scripts/LostTreasures/LostTreasures.lua")
 
