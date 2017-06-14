@@ -25,26 +25,31 @@ There are various installation options to provide a reasonable, yet enjoyable, c
 ************************************
 Campaign mode install options:
 ************************************
+Note: Campaign mode can be changed at any time without affecting your character, recipes, or transfer stash.
 
-[NG] - Vanilla mob density.
+[NG] - Normal Game - Vanilla density, mob challenge. Vanilla scaling.
 
-[B] - Vanilla mob density with increased hero and boss spawns.
+[B] - Bastard - Vanilla trash density with increased heroes and bosses. Mobs scale with player level.
 
-[S] - Increased mob density with increased hero and boss spawns.
+[S] - Slayer - Grimmest. Heavy trash density, hero, and bosses. Mobs scale with player level.
 
-[SD] - Increased mob density with normal hero and boss spawns.
+[SD] - Slayer Diminished - Heavy  density with normal hero and bosses. Mobs scale with player level.
 
-[X] - [B] with increased mob challenge.
+[X] - Xenia -[NG] with increased mob challenge (critters are slightly tougher). Vanilla scaling.
 
-[SX] - [S] with increased mob challenge.
+[XB] - XBastard - [B] with increased mob challenge (critters are slightly tougher). Mobs scale with player level.
 
-[EP] - Experimental mode with Cornucopia stat changes.
+[SX] - SlayerX [S] with increased mob challenge (critters are slightly tougher). Mobs scale with player level.
+
+[EP] - Epic Proportions - Cornucopia with stat and entity changes.
+
 
 *************************************
+Note: Characters and items can travel to DGA, Grim Dawn: Eternal, and Campaign. Transfer stash and recipes do not.
 
 [DGA] and [Grim Dawn: Eternal] are automatically installed. 
 
-
+*************************************
 The mods in DAIL are there by permission, or the author has an open license. The authors of the mods retain creative ownership of the content. See the Features & Versions link for a complete listing of the mods and their authors.
 
 By installing DAIL you agree not to insert DAIL into bodily orifices unless prescribed by a physician.
