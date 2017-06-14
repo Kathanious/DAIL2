@@ -1,9 +1,0 @@
-Every time you build the mod upon first running assetmanager, you will have to do this. If you don't, and you use assetmanager to build something, assetmanager will eat every file that it doesn't recognize and people will have missing meshes, bitmaps and more and complain, so don't do that. So your options are A) run the batch after every 'first' build. (First build meaning, if you haven't hit "build" since opening assetmanager for the current session) or B) have your mod running when you build the mod. This way, Assetmanager cannot delete the files because they are in use. B is risky however because it might not build any changes you have done outside of database edits - so text changes, texture imports, sound files etc, will not build.
-
-Anyway...
-
-Unzip this folder and its contents into another folder of your choice, preferably somewhere you will be comfortable accessing often. Mine is located in grim dawn/mods/grim quest/injectthis/ 
-
-Take your 6 arcs represented by the folders in this zip, creatures.arc, effects.arc, items.arc, and xpack.arc, place the arcs with these folders (the directory should look something like this: https://i.gyazo.com/64536cd1f82f0a92c7956c6c21c30e97.png) and then run the batch, then take the arcs back into the mod folder. The batch file simply imports meshes and textures directly into the arcs that require them, the assetmanager won't accept meshes (at least i can't figure out how) so this is the only way to do it afaik.
-
-drx is the only folder that will auto build itself, it's mostly only meshes and textures so it cannot be created in assetmanager.

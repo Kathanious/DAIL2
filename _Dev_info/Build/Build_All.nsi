@@ -3,7 +3,7 @@ SetCompressorDictSize 64
 SetDatablockOptimize ON
 
 !define PRODUCT_NAME "DAIL"
-!define PRODUCT_VERSION "60.7B"
+!define PRODUCT_VERSION "60.9B"
 !define PRODUCT_PUBLISHER "Kathanious"
 !define PRODUCT_WEB_SITE "http://www.grimdawn.com/forums/showthread.php?t=46374"
 
@@ -32,7 +32,7 @@ SetDatablockOptimize ON
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL_060.7B.exe"
+OutFile "DAIL_0609B.exe"
 InstallDir "$PROGRAMFILES\steam\steamapps\common\Grim Dawn"
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nPlease locate your Grim Dawn installation."
 
@@ -40,8 +40,8 @@ DirText "Choose the path to your GRIM DAWN installation folder (not the mods fol
 ShowInstDetails show
 
 
-
-;"DAIL Campaign Density ARZ files and Unique Text_EN.arc
+;AVAILABLE SELECTIONS
+;"DAIL NG Campaign Density ARZ files and Unique Text_EN.arc
 Section "(NG)" SEC01
   SetOutPath "$INSTDIR\mods\DAIL\database"
   SetOverwrite on
@@ -49,8 +49,9 @@ Section "(NG)" SEC01
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\ng\Text_EN.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\ng\scripts.arc"
 SectionEnd
-
+;"DAIL B Campaign Density ARZ files and Unique Text_EN.arc
 Section /o "(B)" SEC02
  SetOutPath "$INSTDIR\mods\DAIL\database\"
   SetOverwrite on
@@ -58,8 +59,9 @@ Section /o "(B)" SEC02
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\Text_EN.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
 SectionEnd
-
+;"DAIL S Campaign Density ARZ files and Unique Text_EN.arc
 Section /o "(S)" SEC03
   SetOutPath "$INSTDIR\mods\DAIL\database\"
   SetOverwrite on
@@ -67,8 +69,9 @@ Section /o "(S)" SEC03
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\s\Text_EN.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
 SectionEnd
-
+;"DAIL SD Campaign Density ARZ files and Unique Text_EN.arc
 Section /o "(SD)" SEC04
   SetOutPath "$INSTDIR\mods\DAIL\database\"
   SetOverwrite on
@@ -76,8 +79,9 @@ Section /o "(SD)" SEC04
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\sd\Text_EN.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
 SectionEnd
-
+;"DAIL X Campaign Density ARZ files and Unique Text_EN.arc
 Section /o "(X)" SEC05
  SetOutPath "$INSTDIR\mods\DAIL\database\"
  SetOverwrite on
@@ -85,30 +89,43 @@ Section /o "(X)" SEC05
  SetOutPath "$INSTDIR\mods\DAIL\resources\"
  SetOverwrite on
  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\x\Text_EN.arc"
+ File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
 SectionEnd
-
-Section /o "(SX)" SEC06
+;"DAIL XB Campaign Density ARZ files and Unique Text_EN.arc
+Section /o "(XB)" SEC06
+ SetOutPath "$INSTDIR\mods\DAIL\database\"
+ SetOverwrite on
+ File /oname=DAIL.arz  "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\xb\DAIL_xb.arz"
+ SetOutPath "$INSTDIR\mods\DAIL\resources\"
+ SetOverwrite on
+ File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\xb\Text_EN.arc"
+ File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
+SectionEnd
+;"DAIL SX Campaign Density ARZ files and Unique Text_EN.arc
+Section /o "(SX)" SEC07
  SetOutPath "$INSTDIR\mods\DAIL\database\"
  SetOverwrite on
  File /oname=DAIL.arz  "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\sx\DAIL_sx.arz"
  SetOutPath "$INSTDIR\mods\DAIL\resources\"
  SetOverwrite on
  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\sx\Text_EN.arc"
+ File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
  SectionEnd
- 
- Section /o "(EP)" SEC07
+ ;"DAIL EP Campaign Density ARZ files and Unique Text_EN.arc
+ Section /o "(EP)" SEC08
  SetOutPath "$INSTDIR\mods\DAIL\database\"
  SetOverwrite on
  File /oname=DAIL.arz  "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\ep\DAIL_ep.arz"
  SetOutPath "$INSTDIR\mods\DAIL\resources\"
  SetOverwrite on
  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\ep\Text_EN.arc"
+ File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\b\scripts.arc"
  SectionEnd
  
- 
-;Core Resource Files Campaign
+ ;REQUIRED RESOURCES FOR ALL MODES
 Section !Required
   SectionIn RO
+;Core Resource Files Campaign
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Conversations.arc"
@@ -126,15 +143,14 @@ Section !Required
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Meshes.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\particlesystems.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\PFX.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Quests.arc" 
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\scenerygreece.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\SFX.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\sounds.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\textures.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\ui.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\underground.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\xpack.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez\wanez.arc"
 ;Core Resources DGA
   SetOutPath "$INSTDIR\mods\DAIL - RIFT (DGA)\resources\"
   SetOverwrite on  
@@ -153,17 +169,16 @@ Section !Required
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Meshes.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\particlesystems.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\PFX.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Quests.arc" 
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\scenerygreece.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\SFX.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\sounds.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\textures.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\ui.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\underground.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\xpack.arc"
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez\wanez.arc"
 ;Core Resources GDE
-SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\resources\"
+  SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Conversations.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\corntextures.arc"
@@ -180,23 +195,21 @@ SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\resources\"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Meshes.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\particlesystems.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\PFX.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\Quests.arc" 
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\scenerygreece.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\SFX.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\sounds.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\textures.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\ui.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\underground.arc"
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\xpack.arc"
-;Mode Uniques
-  
-  ;Unique Resources for Campaign
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\wanez\wanez.arc"
+
+;MODE UNIQUES
+;Unique Resources for Campaign
   SetOutPath "$INSTDIR\mods\DAIL\resources\"
   SetOverwrite on  
-  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\campaign\scripts.arc" 
-  
-  ;Unique Resource for DGA
+  File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\campaign\Quests.arc"
+;Unique Resource for DGA
   SetOutPath "$INSTDIR\mods\DAIL - RIFT (DGA)\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\wanez\Text_EN.arc"
@@ -205,13 +218,13 @@ SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\resources\"
   SetOutPath "$INSTDIR\mods\DAIL - RIFT (DGA)\database\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\wanez\DAIL - Rift (DGA).arz"
-  
-  ;Unique Resource for GDE  
+ ;Unique Resource for GDE  
   SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\resources\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\eternal\Text_EN.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\eternal\maps.arc"
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\eternal\scripts.arc"
+    File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\resources\eternal\Quests.arc" 
   SetOutPath "$INSTDIR\mods\DAIL - Survival (GD Eternal)\database\"
   SetOverwrite on  
   File "c:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\mods\_Bag_of_Holding\Build\DAIL\database\eternal\DAIL - Survival (GD Eternal).arz"
@@ -226,17 +239,20 @@ Function .onSelChange
 !insertmacro RadioButton "${SEC05}"
 !insertmacro RadioButton "${SEC06}"
 !insertmacro RadioButton "${SEC07}"
+!insertmacro RadioButton "${SEC08}"
 !insertmacro EndRadioButtons
 FunctionEnd
 
 !insertmacro MUI_FUNCTION_DESCRIPTION_BEGIN
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC01} "NG"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC02} "B"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC03} "S"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC04} "SD"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC05} "X"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC06} "SX"
-!insertmacro MUI_DESCRIPTION_TEXT ${SEC07} "EP"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC01} "Normal Game"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC02} "Bastard"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC03} "Slayer"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC04} "Slayer Diminished"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC05} "Xenia"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC06} "XBastard"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC07} "XSlayer"
+!insertmacro MUI_DESCRIPTION_TEXT ${SEC08} "Epic Proportions"
+
 !insertmacro MUI_FUNCTION_DESCRIPTION_END
 
 Function .onInit
