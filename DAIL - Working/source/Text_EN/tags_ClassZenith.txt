@@ -1,23 +1,25 @@
 #CLASS ELEMENTALIST Zenith 02
 #ENUMERATION 12
+tagZenith02SkillName00A=^lElementalist
+tagSkillClassDescriptionZenith02=Traditionally, Elementalists were persons of entertainment in Enolis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
+
 
 #CLASS TERROR KNIGHT Zenith 01
 #ENUMERATION 13
-
-
-#Descriptions
-
-tagSkillClassDescriptionZenith02=Traditionally, Elementalists were persons of entertainment in Elonis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
-tagSkillClassDescriptionZenith01=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
-
-#***********************************************************************************************************************************
-#TERROR KNIGHT
-
 tagZenith01SkillName00A=^lTerror Knight
+tagSkillClassDescriptionZenith01=Hailing from the Obsidian Forests of Enolis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
+
+
+
+
+
+#Terror Knight
+
+tagZenith01SkillName00A=Terror Knight
 tagZenith01SkillDescription00A=A vanguard of chaos and carnage.
 
 tagZenith01SkillName01A=Banish
-tagZenith01SkillDescription01A=Smash your foe out of this life and into the next one. ^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
+tagZenith01SkillDescription01A=Smash your foe out of this life and into the next one.{^n}^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
 tagZenith01SkillName01B=Blood Rage
 tagZenith01SkillDescription01B=Push yourself past your limits to crush your opponent beneath insurmountable power.
 tagZenith01SkillName01C=Smite
@@ -36,18 +38,18 @@ tagZenith01SkillName03B=Fortuna Adiuvat Fortis
 tagZenith01SkillDescription03B=Victory will come to those with great willpower; even if they stole it from others.
 
 tagZenith01SkillName04A=Engage
-tagZenith01SkillDescription04A=Your enemies need not come to you; you shall come to them. ^oRequires a melee weapon.
+tagZenith01SkillDescription04A=Your enemies need not come to you; you shall come to them.{^n}^oRequires a melee weapon.
 tagZenith01SkillName04B=Deadly Assault
 tagZenith01SkillDescription04B=Charge forth with unyielding force.
 tagZenith01SkillName04C=Nowhere to Hide
 tagZenith01SkillDescription04C=Push your assault ever onward with heightened frequency.
 
 tagZenith01SkillName05A=Gore
-tagZenith01SkillDescription05A=Impale an enemy upon your weapon with ferocity to make the lesser-willed flee. ^oRequires a melee weapon.
+tagZenith01SkillDescription05A=Impale an enemy upon your weapon with ferocity to make the lesser-willed flee.{^n}^oRequires a melee weapon.
 tagZenith01SkillName05B=Lust for Carnage
-tagZenith01SkillDescription05B=Slice apart your surrounding foes; grow empowered upon their demise. ^oRequires a two-handed melee weapon.
+tagZenith01SkillDescription05B=Slice apart your surrounding foes; grow empowered upon their demise.{^n}^oRequires a two-handed melee weapon, staff, or ranged weapon. Ranged projectiles receive the 0.9 meter radius and 100% Piercing Chance.
 tagZenith01SkillName05C=Carnivorous Slaughter
-tagZenith01SkillDescription05C=Obliterate a target with a tremendous show of strength, and feast upon the damage done. ^oRequires a two-handed melee weapon.
+tagZenith01SkillDescription05C=Obliterate a target with a tremendous show of strength, and feast upon the damage done.{^n}^oRequires a two-handed melee weapon or a staff.
 
 tagZenith01SkillName06A=Blood Siphon
 tagZenith01SkillDescription06A=Terror Knights excel against groups of foes. You shall be no different.
@@ -63,19 +65,43 @@ tagZenith01SkillName08A=Soldier of Madness
 tagZenith01SkillDescription08A=While they further the spread of insanity, one must not forget that Terror Knights are just that - Knights, like any other.
 
 tagZenith01SkillName09A=Evocation of Terror
-tagZenith01SkillDescription09A=A weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world. ^oRequires a two-handed melee weapon.
+tagZenith01SkillDescription09A=A weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world.{^n}^oRequires a two-handed melee weapon or a staff.
 
 tagZenith01SkillName10A=Entropic Reign
 tagZenith01SkillDescription10A=Your foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
 
-#***********************************************************************************************************************************
-#ELEMENTALIST
+tagZenith01SkillName11A=Whispers of Madness
+tagZenith01SkillDescription11A=Whisper the name of Lord Terror into the ears of your foes, that all may hear his voice.
+tagZenith01SkillName11B=Epoch of Terror
+tagZenith01SkillDescription11B=The weak of will shall buckle beneath Lord Terror's words as their lives eventually fade away into timeless oblivion.
+tagZenith01SkillName11C=Inescapable End
+tagZenith01SkillDescription11C=Lord Terror's incendiary words can turn friend against foe. Those that succumb to his might are guaranteed to be used as weapons against their allies.
 
-tagZenith02SkillName00A=^lElementalist
+tagZenith01SkillName1617=Combat Art - Warmages
+tagZenith01SkillDescription1617=^ZTerror Knight + Elementalist{^n}^wElementalists were not especially fond of martial combat, but that does not mean they were helpless if push came to shove.{^n}^oHas no weapon requirements. Activates off of default weapon attacks.
+tagZenith01SkillName1617X=Solidify
+tagZenith01SkillName1618=Combat Art - Hell Hunters
+tagZenith01SkillDescription1618=^ZTerror Knight + Outrider{^n}^wLimitless in their scope for finding and terminating their prey, Outriders were very much like Terror Knights. Those that pledged themselves to Lord Terror were able to decimate foes far and wide with extreme efficiency.{^n}^oRequires a two-handed weapon, melee or ranged or a staff. Activates off of default weapon attacks that crit.
+tagZenith01SkillName1618X=Sadism
+tagZenith01SkillName1619=Combat Art - Dreadnaughts
+tagZenith01SkillDescription1619=^ZTerror Knight + Champion{^n}^wChampions were not easily felled even under ordinary circumstances. Those that fell into Lord Terror's ranks were made ever sturdier, with durability improving the closer and closer they grew to Terror's deathly realm.{^n}^oStacks up to 8 times, with a new stack being granted for every 10% health missing; bonuses stop at under 30% health.
+tagZenith01SkillName1619X=Iron Flesh
+tagZenith01SkillName1620=Combat Art - Desolators
+tagZenith01SkillDescription1620=^ZTerror Knight + Riftstalker{^n}^wIntriguing that there exists a Riftstalker within Lord Terror's forces. Surely such a being would be a formidable foe on the battlefield, spouting hard-hitting attacks and improved defenses alike, all empowered by the void and Lord Terror himself.{^n}^oMust be toggled to maintain its effect. The proc deals reduced (80%) damage up-close, but severely increased damage (300%) from afar. 
+tagZenith01SkillName1620X=Rift Surge
+tagZenith01SkillName1621=Combat Art - Revenants
+tagZenith01SkillDescription1621=^ZTerror Knight + the Necrotic{^n}^wThe best enemy is the one that dies quickest. The Necrotic was an expert at reducing even the sturdiest of enemies to frail shadows of their former selves. Lord Terror would have been proud.
+tagZenith01SkillName1621X=Smother
+tagZenith01SkillName1622=PLACEHOLDER
+tagZenith01SkillDescription1622=PLACEHOLDER
+
+#Elementalist
+
+tagZenith02SkillName00A=Elementalist
 tagZenith02SkillDescription00A=Tricks of the trade for conjuration and sorcery.
 
 tagZenith02SkillName01A=Ice Wall
-tagZenith02SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies. {^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
+tagZenith02SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies.{^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
 
 tagZenith02SkillName02A=Fireball
 tagZenith02SkillDescription02A=Hurl a conglomeration of molten rock toward your enemies.
@@ -93,12 +119,12 @@ tagZenith02SkillName04A=Elemental Armoring
 tagZenith02SkillDescription04A=Your conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
 
 tagZenith02SkillName05A=Rider of the Storm
-tagZenith02SkillDescription05A=A maelstrom of the elements surround and empowers you.
+tagZenith02SkillDescription05A=A maelstrom of the elements surrounds and empowers you.
 
 tagZenith02SkillName06A=Ice Surge
 tagZenith02SkillDescription06A=Condense the air ahead of you into shards of ice.
 tagZenith02SkillName06B=Cold Snap
-tagZenith02SkillDescription06B=The area around you snaps to frigidity, occasionally bursting out violently.
+tagZenith02SkillDescription06B=The area around your target snaps to frigidity, occasionally bursting out violently.
 
 tagZenith02SkillName07A=Frost Armor
 tagZenith02SkillDescription07A=Protect yourself with the strength of ice.
@@ -125,7 +151,8 @@ tagZenith02SkillName12B=Fire Pillar
 tagZenith02SkillDescription12B=Scorching flames rocket out of the earth.
 
 tagZenith02SkillName13A=Citadel of Ice
-tagZenith02SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses. ^oThis skill immobilizes you for its duration. It will also end prematurely if you run out of Energy.
+tagZenith02SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses.{^n}^oThis skill will end prematurely if you run out of Energy.
+tagZenith02SkillName13B=Ice Fragments
 
 tagZenith02SkillName14A=Fire Affinity
 tagZenith02SkillDescription14A=Flames can breathe new life into your being or scorch your enemies to cinder.
@@ -138,6 +165,33 @@ tagZenith02SkillName15A=Refuel
 tagZenith02SkillDescription15A=Take from the arcane power of your enemies to further your own.
 
 tagZenith02SkillName16A=Elemental Flow
-tagZenith02SkillDescription16A=As your vitality comes and goes, so, too, do your offenses and defenses.
+tagZenith02SkillDescription16A=As your vitality comes and goes, so, too, do your offenses and defenses.{^n}^oThis skill is always active; its proc is not necessarily always active.
 
+tagZenith02SkillName17A=Pyroclasm
+tagZenith02SkillDescription17A=Incinerate a piece of the world in a swirling vortex of infernal and electrical energies.
+tagZenith02SkillName17B=Power Surge
+tagZenith02SkillDescription17B=Energy is fickle. Sometimes you'll barely notice a change in power, and sometimes a change can instantly disintegrate your foes. Fickle.
+
+tagZenith02SkillName18A=Stormbolt
+tagZenith02SkillDescription18A=Conjure a deadly cluster of ice infused with the powers of storms, piercing through enemies with particular potency.
+tagZenith02SkillName18B=Symphony of Storms
+tagZenith02SkillDescription18B=Saturate the Stormbolt with mastery of your signature craft, all while making it strike at the fundamental core of your opponents.
+
+tagZenith02SkillName19A=Might of Magic
+tagZenith02SkillDescription19A=Use your sorceries to conjure protective spirits of pure elemental energy which attack nearby foes, multiplying in number as they do so.
+
+tagZenith02SkillName1716=Warmage Sorcery
+tagZenith02SkillDescription1717=^ZElementalist + Terror Knight{^n}^wElementalists generally did not care to get their hands dirty directly, but their time entertaining the royal courts quickly taught them that combative experience was an importance part of opulence.
+tagZenith02SkillName1718=Purifier Sorcery
+tagZenith02SkillDescription1718=^ZElementalist + Outrider{^n}^wIs it an arcane assault or a more militarized sorcery? Whatever it is, if you need to suppress a wide area over a wide amount of time, this 'spell' has you covered. And your enemies. And anything else nearby.{^n}^oMeteors continue to fall over the duration of the spell. Recasting this spell while it's active will only reset the duration and targetting of the spell.
+tagZenith02SkillName1719=Archmage Sorcery
+tagZenith02SkillDescription1719=^ZElementalist + Champion{^n}^wI cannot say it would be wise to strike an Archmage. They undoubtedly have some trick up their sleeves in defending themselves with arcana magics.{^n}^oThis skill is always active; its proc is not necessarily always active.
+tagZenith02SkillName1719X=Selik's Wrath
+tagZenith02SkillName1720=Saboteur Sorcery
+tagZenith02SkillDescription1720=^ZElementalist + Riftstalker{^n}^wBringing the powers of the planes down to more basic elements is a nontrivial task, but doable. Sure is a volatile process, though.{^n}^oMust be toggled to maintain its effect.
+tagZenith02SkillName1721=Sinner Sorcery
+tagZenith02SkillDescription1721=^ZElementalist + the Necrotic{^n}^wThe raw power one might acquire, beholden to the Necrotic, could taint the very nature of arcane sorceries, drawing them to vile effect.{^n}^oMust be toggled to maintain its effect.
+tagZenith02SkillName1721X=Eternal Vitriol
+tagZenith02SkillName1722=PLACEHOLDER
+tagZenith02SkillDescription1722=PLACEHOLDER
 
