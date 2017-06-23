@@ -1,7 +1,7 @@
 ************************************
 Important! Do not skip!
 ************************************
-In preparation for the expansion, some files have been renamed for compatability. Prior to installing 60.7, back-up saves, withdraw points from skills, and note your mastery investment level. Should you have a mastery that was 'reset' use a utility (such as GD Defiler) to refund your mastery points lost. It is safe to rechoose your previous masteries.
+In preparation for the expansion, some files have been renamed for compatability. Prior to installing 60.9, back-up saves, withdraw points from skills, and note your mastery investment level. Should you have a mastery that was 'reset' use a utility (such as GD Defiler) to refund your mastery points lost. It is safe to rechoose your previous masteries.
 
 The Mystic Warrior has been DAIL-ized. Again, remove skill points and note mastery investment to avoid complications.
 
@@ -41,7 +41,7 @@ Note: Campaign mode can be changed at any time without affecting your character,
 
 [SX] - SlayerX [S] with increased mob challenge (critters are slightly tougher). Mobs scale with player level.
 
-[EP] - Epic Proportions - Cornucopia with stat and entity changes.
+[EP] - Epic Proportions - Cornucopia with stat and entity changes (no density changes).
 
 
 *************************************
