@@ -40,7 +40,7 @@ robocopy "%BATCH_DIR%\DAIL - Working\source\text_en" "%BATCH_DIR%\DAIL_dga\sourc
 robocopy "%BATCH_DIR%\DAIL - Working\source\text_en" "%BATCH_DIR%\DAIL_eternal\source\text_en" /mir
 
 
-rem Copies campaign unique database from holding to working dir - switch /s for folders and subfolders
+rem Copies campaign unique databases from holding to working dir - switch /s for folders and subfolders
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\b_unique\database" /s "%BATCH_DIR%\DAIL_b\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\s_unique\database" /s "%BATCH_DIR%\DAIL_s\database" 
 xcopy /Y "%BATCH_DIR%\_Bag_of_Holding\DAIL2\modes\x_unique\database" /s "%BATCH_DIR%\DAIL_x\database" 

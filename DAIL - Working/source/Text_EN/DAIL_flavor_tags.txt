@@ -36,7 +36,7 @@ tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
 tagNPC_Guard_Mood=Mood - ^oArcane Huntress 
 
 
-tagQuests=Active Quests (60.9C NG)
+tagQuests=Active Quests (61.0 NG)
 
 #Top Left UI tag
 tagRDifficultyTitle01=Normal
@@ -46,8 +46,8 @@ tagChallengeDifficulty=Veteran
 tagHardcore=Hardcore 
 
 #Survival Header
-tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 60)
-tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 60)
+tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 61)
+tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 61)
 
 
 #Transmorg Smith
