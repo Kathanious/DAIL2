@@ -9,7 +9,7 @@
 
 MASTERIES
 ****************
-Coronus [1.5.2] - Somerled		
+Coronus [1.6.2] - Somerled		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
 NCFF [1.33] - cftx										
@@ -42,7 +42,7 @@ Grim Quest [1.4.7] - Asylum101
 	Storm
 	Dream
 
-Zenith [0.5b] - Ceno										
+Zenith [0.6A] - Ceno										
 	http://www.grimdawn.com/forums/showthread.php?t=40486
 	Terror Knight
 	Elementalist
@@ -85,7 +85,7 @@ Grimmer and Grimmest [DAIL Variations] - Jiaco
 	{All quest&boss, deathspawn, and faction proxypools as well as a number of other pools from the depths of area001 were 
 	{manually "curated" adding Heroes and adjusting spawn weights for a more challenging encounter.
 
-Stasher [5.0] - rorscachrev
+Stasher [5.0] - rorscachrev (1.0.1.0 Hotfix by WareBare)
 	http://www.grimdawn.com/forums/showthread.php?t=38072
 	Increased stash size
 	{Added 3 columns to the main stash.

@@ -1,6 +1,19 @@
 
 ****************************************************************
 ****************************************************************
+[61.1 6/25/2017]
+Update - Coronus
+
+Fix - Voidcaller 
+	Chaos Lash projectile values
+	(Other skills using tpl need fixed)
+	
+[61.0 6/24/17]
+Fix - Stasher 
+
+[60.9C]
+Fix - Installer script and packaging protocols
+
 [60.9B 6/9/2017]
 Fix - Removed DGA mastery tag file causing overlap
 

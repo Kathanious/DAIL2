@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillbutton.tpl,
 ActorName,,
 Class,,
-FileDescription,Retaliation passive (Kathanious skill),
+FileDescription,Retaliation passive / Riot (Kathanious skill),
 skillName,records/skills/playerclasscoronus/playerdefensiveproc1.dbr,
 skillOffsetX,4,
 skillOffsetY,4,
