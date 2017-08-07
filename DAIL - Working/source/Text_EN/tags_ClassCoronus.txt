@@ -6,79 +6,26 @@ tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and othe
 tagClassCoronusSkillName00=^lCoronus
 tagClassCoronusSkillDescription00=The Coronus uses Necromancy and other forms of summoning to thrive in battle.
 
-#Do note the actual tags used in the files and the ones here. For exemple,  tagClassSkelethonDescription03A isn't used while tagClassSkelethonDescriptionRush is.
-tagClassSkelethonSkillName01A=Dead Dogs
-tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The skeleton warrior have the ability to raise the undead on his own kills, but can only summon up to 1 skeleton. {^n}^O This ability must be toggled to maintain its effect. {^n}^O Pets scales with pet bonuses. {^n}^A Your warrior skeletons last for 8 minutes and theirs for 4. {^n}^O Secondary summons vanish when changing instances.
-tagClassSkelethonSkillName01B=Dirt
-tagClassSkelethonSkillDescription01B=Your skeleton charges at his enemy and fucks him up like he would a slutty hot undead spoopy ghost.
-tagClassSkelethonSkillName01C=Five Fingers
-tagClassSkelethonSkillDescription01C=Your warrior skeletons are more than just axes and bones.
-
-tagClassSkelethonSkillName03A=Rush
-tagClassSkelethonDescription03A=Sprint towards an enemy and bash his fucking head in.
-
-tagClassSkelethonDescriptionRush=Increases your own movement speed for a short as to keep up with your charging minions.
-
-tagClassSkelethonSkillName04A=Zero Dark Thirty
-tagClassSkelethonSkillDescription=Weaken the enemies struck by a swift slash from your weapon, leaving them ripe for the killing.
-tagClassSkelethonSkillName04B=Birds With Broken Wings
-tagClassSkelethonSkillDescription04B=Sometimes you just need pure brute force. Adds more % weapon damage and increases the overall damage done by Zero Dark Thirty.
-tagClassSkelethonSkillName04C=Summon Undead Warrior
-tagClassSkelethonSkillName04D=Summon Undead Warrior (50% On Enemy Death)
-
-tagClassSkelethonSkillDescriptionZDT=Weakening your enemies to kill them easily is a good and safe way to succeed at surviving in this world. {^n}^o Requires a two handed melee weapon.
-
-tagClassSkelethonSkillName05A=Proxy
-tagClassSkelethonSkillDescription05A=Leading and killing by your own hands should go hand in hand, and that's even more true during the end of times. {^n}^o Requires a two handed melee weapon.
-tagClassSkelethonSkillName05B=Oh Fields, My Fields
-tagClassSkelethonSkillDescription05B=Being able to manipulate so much undead forces would be a waste of strength if you didn't empower your servants to help you eviscerate everything on your path.
-
-tagClassSkelethonSkillName06A=Ignition
-tagClassSkelethonSkillDescription06A=Knowing even the secrets of Ch'thon thanks to the immense time spent with the Order of Death Vigils, you sacrifice your own lifeforce to greatly empower yourself and your own pets for a short duration. You also transfer your own life to your summons, fueling their (un)life energy once more.
-tagClassSkelethonSkillName06B=Alpha Centauri
-tagClassSkelethonSkillDescription06B=Increases the duration of Ignition while increasing your life regeneration.
-
-tagClassSkelethonSkillName07A=Rain Smell
-tagClassSkelethonSkillDescription07A=Summon two undead archers ready to impale your enemies with accelerated knives launched from heavily modified crossbows, created shortly after the Grim Dawn by outlanders. They can raise a skeleton warrior on kill but one archer can only summon up to 1 skeleton. {^n}^O Pets scales with pet bonuses. {^n}^A Their warrior skeletons last for 4 minutes. {^n}^O Secondary summons vanish when changing instances.
-tagClassSkelethonSkillName07B=Secant
-tagClassSkelethonSkillDescription07B=Your archers are now able to launch a knife infused with the elements that explodes in a small area on contact.
-tagClassSkelethonSkillName07C=Venter
-tagClassSkelethonSkillDescription07C=Your archers can now throw bone-crafted grenades containing a special mixture of acid that engulfe enemies in flame when exploding.
-tagClassSkelethonSkillName07D=Accelerated Knife
-tagClassSkelethonSkillName07E=Summon Undead Warrior (30% On Enemy Death)
-
-tagClassSkelethonSkillName08A=Dark Eyes
-tagClassSkelethonSkillDescription08A=Lead as a true general would; by empowering your small but effective army. {^n}^O This ability must be toggled to maintain its effect.
-
-tagClassSkelethonSkillName09A=Richardson Road
-tagClassSkelethonSkillDescription09A=Amplifies your ability to defend yourself against all blows. {^n}^o Requires a two handed melee weapon.
-
-tagClassSkelethonSkillName10A=Sun Harmonics
-tagClassSkelethonSkillDescription10A=As a general who prefer to stay in the backline giving orders while also dealing death himself, you sacrifice some of your own vitality for more power to you and your team. {^n}^o Requires a two handed ranged weapon.
-
-tagPetAbacus01=Skeleton Warrior
-tagPetRainSmell01=Skeleton Archer
-
 tagClassCoronusSkillName01A=Cold Dead
-tagClassCoronusSkillDescription01A=Summon an undead skeleton warrior named Abaddon to aid you in battle. {^n}^O Pet scales with pet bonuses.
+tagClassCoronusSkillDescription01A=Summon the materialised soul of an undead skeleton warrior named Abaddon to the battlefield. During his life, it was said that he was a successful mercenary leader in his prime. He met his end trying to save his companions by defying a blizzard. {^n}^O Pet scales with pet bonuses.
 tagClassCoronusSkillName01B=The Protest
-tagClassCoronusSkillDescription01B=Group buff from and for Abaddon with some of the power of the Order of Death Vigils.
+tagClassCoronusSkillDescription01B=Abaddon's essence screams of a strange vitality, empowering his allies with cries of undeath.
 tagClassCoronusSkillName01C=Obligatory Cadence
-tagClassCoronusSkillDescription01C=Strike in a 200 radius AoE. ^o Needs Abaddon alive so he can use it
+tagClassCoronusSkillDescription01C=Strike in a 200 radius AoE. ^
 tagClassCoronusSkillName01D=Never Catch Me
 tagClassCoronusSkillDescription01D=Abaddon launches ice shards in a cone in the direction of his current target.
 tagClassCoronusSkillName01E=Andras Sodom
-tagClassCoronusSkillDescription01E=Abaddon takes buff pills
+tagClassCoronusSkillDescription01E=
 tagClassCoronusSkillName01F=Vonnegut Busy
 tagClassCoronusSkillDescription01F=I ain't even equipped to even really be dealin' with shit, I don't know what to make of it I'm scared. Take all those relationships and make them disappear.
 
 tagClassCoronusSkillName02A=Apathy
-tagClassCoronusSkillDescription02A=A heal for your minions that also resplenish their energy. {^n}^o Use (CTRL+Assigned Key) by default to target your pets.
+tagClassCoronusSkillDescription02A=Not a favored skill by many, it nonetheless has its niche for necromancers who really, really care about skeletons that can't hear them. A heal for minions that also resplenish their energy. {^n}^o Use (CTRL+Assigned Key) by default to target pets.
 tagClassCoronusSkillName02B=Emerged From Smoke
-tagClassCoronusSkillDescription02B=Increases the DA and OA of the target for a short period of time. {^n}^o Use (CTRL+Assigned Key) by default to target your pets.
+tagClassCoronusSkillDescription02B=A skill rarely used because many believe that swarming is more effective. But maybe they don't want to use it every time just to kill a bit faster. Increases the DA and OA of the target for a short period of time. {^n}^o Use (CTRL+Assigned Key) by default to target pets.
 
 tagClassCoronusSkillName03A=Song for the Dead
-tagClassCoronusSkillDescription03A=Summon multiple skeleton armed with crossbows for a short period of time to take out your enemies in a barrage of bolts. {^n}^O Pets scales with pet bonuses.
+tagClassCoronusSkillDescription03A=Summon the essence of multiple skeletons armed with crossbows for a short period of time to the battlefield. They all followed Abaddon, for he gave his allies wealth and warmth. They understood him and he understood them, an unbreakable bond even after such a cold death. {^n}^O Pets scales with pet bonuses.
 tagClassCoronusSkillName03B=Ten Days of Falling
 tagClassCoronusSkillDescription03B=Tap into the knowledge of the Order of Death Vigil and imbue the archers weapons with ice.
 tagClassCoronusSkillName03C=Safe
@@ -87,13 +34,13 @@ tagClassCoronusSkillName03D=Steeltongued
 tagClassCoronusSkillDescription03D=Make a living off of a dime.
 
 tagClassCoronusSkillName04B=Goetia
-tagClassCoronusSkillDescription04B=Invoke the spirits of the dead to increase the power of your minions. {^n}^O This ability must be toggled to maintain its effect.
+tagClassCoronusSkillDescription04B=Invoke a dead spirit to increase the power of minions. Spirits who answer any Coronus call are restless, perhaps because they failed someone or something they deemed important enough. {^n}^O This ability must be toggled to maintain its effect.
 
 tagClassCoronusSkillName05A=
 tagClassCoronusSkillDescription05A=
 
 tagClassCoronusSkillName06A=Remains
-tagClassCoronusSkillDescription06A=Summon a monstruosity to aid you in battle for some time. {^n}^O Pet scales with pet bonuses.
+tagClassCoronusSkillDescription06A=Summon a monstruosity to aid in battle for some time. Uses a few skills to hinder and damage the enemy. {^n}^O Pet scales with pet bonuses.
 tagClassCoronusSkillName06B=Fading
 tagClassCoronusSkillDescription06B=
 tagClassCoronusSkillName06C=Relentless
@@ -104,61 +51,61 @@ tagClassCoronusSkillName06E=Theme
 tagClassCoronusSkillDescription06E=
 
 #Grigori: summon, innate, spell 1, buff, spell 2, spell ultimate, spell basic
-tagClassCoronusSkillName07A=Grigori
-tagClassCoronusSkillDescription07A=Summon the powerful undead warlock named Grigori alongside you. Uses a fireball spell named "Chorazin" as his basic attack. {^n}^O Pet scales with pet bonuses.
+tagClassCoronusSkillName07A=Flame I
+tagClassCoronusSkillDescription07A=Summon the materialised essence of the powerful undead warlock named Grigori alongside a warm human being. Uses a fireball spell named "Chorazin" as his basic attack. Not much is known about his life, maybe because he burned everything about or close to him, even the self.{^n}^O Pet scales with pet bonuses.
 tagClassCoronusSkillName07B=Broken Mantra
 tagClassCoronusSkillDescription07B=The un-life of Grigori is only temporary, his strong powers are consuming him from the inside.
 tagClassCoronusSkillName07C=Call Across Rooms
 tagClassCoronusSkillDescription07C=Make the ground explode in fire under the target and scorch the earth for a few seconds.
 tagClassCoronusSkillName07D=Memory Hole
 tagClassCoronusSkillDescription07D=Buff the spellcraft of Grigori with even more fire power.
-tagClassCoronusSkillName07E=SIN
+tagClassCoronusSkillName07E=Sin Rumbo
 tagClassCoronusSkillDescription07E=Burns Grigori's target at its core.
 tagClassCoronusSkillName07F=Babel
 tagClassCoronusSkillDescription07F=Let Grigori charge his inner spirit and unleash a powerful fire storm in a small area.
 tagClassCoronusSkillName07G=Chorazin
 tagClassCoronusSkillDescription07G=Launch a fireball.
 tagClassCoronusSkillName07H=Terrible Fate
-tagClassCoronusSkillDescription07H=What if it's me that sound elite and I don't see it missing and I'm fucking toxic and that's why I never see the friction?
+tagClassCoronusSkillDescription07H=For a few dozen of your local currency I'll give you something to forget about your life for a few hours or days.
 
 tagClassCoronusSkillName08A=Gatekeepers
 tagClassCoronusSkillDescription08A=I know what truth is so I don't need your two cents, I'd rather be reclusive than brag about it while being a nuisance.
 tagClassCoronusSkillName08B=The Right of Action
-tagClassCoronusSkillDescription08B=So when I push away I was persuaded to do this, it's nothing that's specific just a sway of what my mood is.
+tagClassCoronusSkillDescription08B=help
 
 tagClassCoronusSkillName09A=Hem Ljuva Hem
 tagClassCoronusSkillDescription09A=Increase the %health of any ally pet in a 30m radius. {^n}^o Does not work on players. {^n}^O This ability must be toggled to maintain its effect.
 
-tagClassCoronusSkillName10A=Rymden I En Lada
-tagClassCoronusSkillDescription10A=Increase the %energy and %health of any ally pet in a 30m radius. {^n}^o Does not work on players. {^n}^O This ability must be toggled to maintain its effect.
+tagClassCoronusSkillName10A=The Lure of the Mine
+tagClassCoronusSkillDescription10A=Somehow, necromancers tend to be attracted towards caves and such, perhaps because they can practice their art freely. Increase the %energy / %health / %DA of any ally pet in a 30m radius. {^n}^o Does not work on players. {^n}^O This ability must be toggled to maintain its effect.
 
 tagClassCoronusSkillName11A=Awake
 tagClassCoronusSkillDescription11A=Launch a lobbed ice bomb, exploding after hitting the ground and slowing the attack speed of enemies caught within the blast.
 tagClassCoronusSkillName11B=Overdrive
 tagClassCoronusSkillDescription11B=Now slows the movement of enemies and has a chance to freeze.
 
-tagClassCoronusSkillName12A=Y Gair
-tagClassCoronusSkillDescription12A=Summon the undead warlock named Y Gair to fight alongisde you. Uses a chain lightning spell named "Looped" as his basic attack. {^n}^O Pet scales with pet bonuses.
+tagClassCoronusSkillName12A=Dkmajestic
+tagClassCoronusSkillDescription12A=Summon the materialised essence of the undead warlock named Y Gair to fight alongisde someone else. Uses a chain lightning spell named "Looped" as his basic attack. A human seeking power for the sake of power rarely ends where he wants... An unspiring life and an unspiring death, yet somehow his spirit carries on without purpose.{^n}^O Pet scales with pet bonuses.
 tagClassCoronusSkillName12B=Looped
 tagClassCoronusSkillName12C=Weigh Me Down
-tagClassCoronusSkillDescription12C=Y Gair conjures a cloud of lightning over your enemies, zapping them with violent electric shocks and potentially setting them on fire.
+tagClassCoronusSkillDescription12C=Y Gair conjures a cloud of lightning over enemies, zapping them with violent electric shocks and potentially setting them on fire.
 tagClassCoronusSkillName12D=Drown
 tagClassCoronusSkillDescription12D=Y Gair weakens all enemies around him by reducing their resistance to lightning, physical and fire damage.
 
 tagClassCoronusSkillName13A=Hollow Grove
 tagClassCoronusSkillDescription13A=Throw an inoffensive infused rock that, when shattered, liberates a corrupted Devourer who uses his own bones as projectiles when at close range. Uses one fast bone projectile that damage the enemy's toughness and inflicts internal trauma. {^n}^O Pets scales with pet bonuses.
 tagClassCoronusSkillName13B=Greenhouse
-tagClassCoronusSkillDescription13B=Your Whelm(s) regurgitate their past origins, creating an elemental wave with, at its core, a cold sphere that may inflict frostbite upon its target(s).
-tagClassCoronusSkillName13C=Placeholder
-tagClassCoronusSkillDescription13C=keep your bones healthy
+tagClassCoronusSkillDescription13B=Whelm(s) regurgitate their past origins, creating an elemental wave with, at its core, a cold sphere that may inflict frostbite upon its target(s).
+tagClassCoronusSkillName13C=Anoche
+tagClassCoronusSkillDescription13C=Anoche
 tagClassCoronusSkillName13D=Orator
 tagClassCoronusSkillDescription13D=Launch a bone piercing the victim, inflicting trauma damage.
 
 tagClassCoronusSkillName14A=Riot
-tagClassCoronusSkillDescription14A=Being able to control an army of undead bound to your will doesn't make you immortal, but hurting those who hurt you or your minions without moving a finger might give the illusion that you are.
+tagClassCoronusSkillDescription14A=Being able to control an army of undead bound to will doesn't make anyone immortal, but hurting those who hurt a leader or its minions without moving a finger might give the illusion that they are.
 
 tagClassCoronusSkillName15A=Bloodhail
-tagClassCoronusSkillDescription15A=Your knowledge of undeath acquired during your lengthy travels around Cairn enabled you to study things beyond what you thought was restricted to fire and gunpowder. Mixing necrotic energies as well as steel, you were able to create an infused grenade containing what you called a biologic weapon. Enemies caught in the blast are afflicted with a disease that spreads quickly among all enemies that are in range of infection (7m).{^n}^O The contagious disease lasts for 4 seconds (+0.2s per level)
+tagClassCoronusSkillDescription15A=Knowledge of undeath acquired during your lengthy travels around Cairn enabled you to study things beyond what you thought was restricted to fire and gunpowder. Mixing necrotic energies as well as steel, you were able to create an infused grenade containing what you called a biologic weapon. Enemies caught in the blast are afflicted with a disease that spreads quickly among all enemies that are in range of infection (7m).{^n}^O The contagious disease lasts for 4 seconds (+0.2s per level)
 tagClassCoronusSkillName15X=Restless Theater
 tagClassCoronusSkillName15BA=Child of Rage
 tagClassCoronusSkillDescription15BA=Increases damage and reduces defensive ability as well
@@ -175,6 +122,10 @@ tagClassCoronusSkillDescription15CB=Reduces life regen and life regen
 tagClassCoronusSkillName15CC=[Nobody.]
 tagClassCoronusSkillDescription15CC=Knockdown enemies and phys attribute
 
+
+tagClassCoronusSkillName16A=Reverie
+tagClassCoronnusSkillDescription16A=For a limited duration, cast a damaging aura that frequently summon skeletons one by one.
+
 tagPetTrouble01=Abaddon
 tagPetPinned01=Archer of Frost
 tagPetRemains01=Abomination
@@ -182,4 +133,57 @@ tagPetGrigori01=Warlock Grigori
 tagPetYGair01=Warlock Y Gair
 tagPetWhelm01=Whelm
 
-#When you make a bad decision it's a given that life is long, give a shit with time until you find out all your time is long.
+#When you make a bad decision it's a given that life is long, give a shit with time until you find out all your time is gone.
+tagClassSkelethonSkillName01A=Dead Dogs
+tagClassSkelethonSkillDescription01A=Summon undead warriors skeleton on kill, while lowering the elemental resistance of foes struck. The Coronus is able to steal some of his victim's spirit or essence as it tries to escape, repurposing it into unstable life forms. Thanks for the Grim Dawn, they look threatening enough to be effective.{^n}^O This ability must be toggled to maintain its effect. {^n}^O Pets scales with pet bonuses. {^n}^A Warrior skeletons last for 8 minutes.
+tagClassSkelethonSkillName01B=Dirt
+tagClassSkelethonSkillDescription01B=Memes.
+tagClassSkelethonSkillName01C=Five Fingers
+tagClassSkelethonSkillDescription01C=It is still unsure as to how those life forms can harness more power for themselves in such "real" ways. But, with the absurd number of death these days, it shouldn't be a surprise.
+
+tagClassSkelethonSkillName03A=Rush
+tagClassSkelethonDescription03A=Sprint towards an enemy and bash him.
+
+tagClassSkelethonDescriptionRush=Increases movement speed for a short as to keep up with charging/running minions.
+
+tagClassSkelethonDescriptionRush2=Increases movement speed for a short as to keep up with charging/running minions.
+
+tagClassSkelethonSkillName04A=Zero Dark Thirty
+tagClassSkelethonSkillDescription=Weaken the enemies struck by a swift slash, leaving them ripe for the culling.
+tagClassSkelethonSkillName04B=Birds With Broken Wings
+tagClassSkelethonSkillDescription04B=A big slab of iron isn't enough by itself if there is no strength behind its swings.
+tagClassSkelethonSkillName04C=Ossuary
+tagClassSkelethonSkillName04D=Ossuary
+
+tagClassSkelethonSkillDescriptionZDT=Weakening your enemies to kill them easily is a good and safe way to succeed at surviving in this world. {^n}^o Requires a two handed melee weapon.
+
+tagClassSkelethonSkillName05A=Proxy
+tagClassSkelethonSkillDescription05A=Leading and killing should go hand in hand, and that's even more true during the end of times. {^n}^o Requires a two handed melee weapon.
+tagClassSkelethonSkillName05B=Oh Fields, My Fields
+tagClassSkelethonSkillDescription05B=Being able to manipulate so much undead forces would be a waste of strength if it wasn't for an inspiring leader. Seeing so much done by only one person, alive or not, is sure to make the bloodthirsty jealous.
+
+tagClassSkelethonSkillName06A=Ignition
+tagClassSkelethonSkillDescription06A=Knowing even the secrets of Ch'thon thanks to the immense time spent with the Order of Death Vigils, sacrificing one's own lifeforce to greatly empower oneself and his own minions for a short duration is a taxing but effective technique. A shame (or perhaps not) so many Necromancers or Ch'thonians never use this, are they afraid of something?
+tagClassSkelethonSkillName06B=Alpha Centauri
+tagClassSkelethonSkillDescription06B=Increases the duration of Ignition while increasing life regeneration.
+
+tagClassSkelethonSkillName07A=Rain Smell
+tagClassSkelethonSkillDescription07A=Summon the essence of two undead archers ready to impale their enemies with ghostly bolts. {^n}^O Pets scales with pet bonuses.
+tagClassSkelethonSkillName07B=Secant
+tagClassSkelethonSkillDescription07B=The archers are now able to launch a bolt infused with the elements that explodes in a small area on contact.
+tagClassSkelethonSkillName07C=Venter
+tagClassSkelethonSkillDescription07C=The archers can now throw bone-crafted grenades containing a special mixture of acid that engulfe enemies in flame when exploding.
+tagClassSkelethonSkillName07D=Accelerated Knife
+tagClassSkelethonSkillName07E=Ossuary
+
+tagClassSkelethonSkillName08A=Dark Eyes
+tagClassSkelethonSkillDescription08A=Choosing to battle with many rallying behind one, may they be alive or not, isn't good enough if none rallies behind them in turn. {^n}^O This ability must be toggled to maintain its effect.
+
+tagClassSkelethonSkillName09A=Richardson Road
+tagClassSkelethonSkillDescription09A=Amplifies the ability to defend against most blows. After travelling for so long, bathing in blood and reaping what others sow, perhaps killing more isn't a bad idea. {^n}^o Requires a two handed melee weapon.
+
+tagClassSkelethonSkillName10A=Sun Harmonics
+tagClassSkelethonSkillDescription10A=As a leader who prefer to stay in the backline giving orders while also dealing death himself, sacrificing some of his own vitality for more power to him and his team makes everybody satisfied in a shared moment of rage. {^n}^o Requires a two handed ranged weapon.
+
+tagPetAbacus01=Skeleton Warrior
+tagPetRainSmell01=Skeleton Archer
